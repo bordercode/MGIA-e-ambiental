@@ -1,0 +1,299 @@
+---
+title: "Ejercicios"
+author: "José Luis Manzanares Rivera"
+date: 2018-08-19T21:13:14-05:00
+categories: ["Análisis"]
+tags: ["Práctica", "datos"]
+menu:
+  main:
+    name: Ejercicios
+    weight: 5
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+#  Ejercicio 1  (Unidad 1 20%)
+
+```{r Load req. packages  }
+               library(tidyverse)
+               library(foreign)
+               library(ineq)  
+              
+```
+
+```{r}
+     
+
+###########################################
+                ## Ejercicio 1 
+###########################################
+
+getwd()
+
+
+#Base de datos de disponibilildad por acuífero
+
+
+# Base de datos en: https://www.gob.mx/conagua/acciones-y-programas/disponibilidad-por-acuiferos-66095#
+
+data<-read.csv("Disponibilildad 2015.csv")
+str(data)
+View(data)
+
+data<-mutate(data,clave=as.factor(clave))
+data<-mutate(data,Estado=as.factor(st))
+
+        # 1.-Estimando el volumen concesionado  (VCAS) por acuífero#
+
+data<-mutate(data,vcas=recarga-dncom-disponibilidad)
+
+##      2.-Estimando el grado de inequidad o concentracion del vcas## 
+
+#Recuerde Gini=1: Max inequidad, Gini=0: equidad total. X axis  pop % y axis vcas %
+
+ineq(data$vcas,type="Gini")
+plot(Lc(data$vcas))
+
+# Interpretación. Aprox el 80% de los acuiferos solo tienen el 18% del vcas, lo que implica el restante 20% de los acuiferos concentra el 82del vcas!!
+
+#       3. Estimando el índice de volumen concesionado
+
+data<-mutate(data,ivcas=vcas/(recarga-dncom))
+
+#       4. Estimando el índice de disponibilidad fórmula CONAGUA#
+
+data<-mutate(data,idas=disponibilidad/(recarga-dncom))
+
+```
+
+```{r}
+#       5. Estimando la Zona de disponibilidad para el cobro de derechos
+
+data<-mutate(data,zd=ifelse(idas <=-0.1, 1,ifelse(idas >-0.1& idas <=0.1, 2,ifelse(idas >0.1& idas <=0.8,3,4)) ))
+data<-arrange(data,zd,idas)
+write.csv(data, "Disponibilildad_2015a.csv")
+
+# Relación entre variable disponibilidad e IVCAS  por zona
+g_disp <- ggplot(data, aes(x=ivcas, y=disponibilidad, colour=factor(zd))) + geom_point()+ geom_vline(xintercept = 1)+ geom_hline(yintercept = 0) + labs(colour="Zona")
+
+g_disp
+
+# Relación entre variable recarga e IVCAS  por zona
+
+model <- lm(vcas~ recarga, data)
+summary(model)
+g_regresion<- ggplot(data, aes(x=recarga, y=vcas,colour=factor(zd))) + geom_point() + stat_smooth(method=lm)+ annotate("text", label="r^2==0.69",parse = TRUE, x=15000, y=1000) + annotate("text", label="vcas=28.42+0.16Rt",parse = F, x=15000, y=500)+ labs(colour="Zona")
+
+g_regresion
+```
+
+```{r}
+
+#Cuantos acuíferos hay por zona?
+zonas<-group_by(data,zd)%>%summarize(sum_zona=n())
+zonas<-mutate(zonas,por=sum_zona/sum(sum_zona))
+cumsum(zonas$por)
+
+
+
+explotados<-data%>%mutate(explo=ifelse(ivcas>1,1,0))%>%group_by(explo)%>%summarize(explotados=n())%>%mutate(frac=explotados/sum(explotados))
+158+45
+###########################################
+#                 Conclusión 1
+# Bajo el enfoque idas (zonas) Concluimos que uno de cada 4 (0.2419) 
+# acuíferos se encuentran en zonas de alt explotación. En el enfoque IVCAS el 31%
+# entonces el idas subestima elpatrón de explotación, recomendación. Rediseñar zonas:
+# Incluir zonas 1 y 2 en una zona y dividir zonas 3 en dos.
+###########################################
+
+#Exportamos el archivo para trabajar en contexto esapacial #
+filter(data,st==8)%>%arrange((disponibilidad))%>%head(10)
+write.csv(data,"ivcas.csv")
+write.csv(data,"D2015.csv")
+
+             #### Final del Ejercicio 1 
+690000/2000000
+((187000+147000)/690000-1)
+
+```
+
+Una representación gráfica de la información anterior se presenta en la siguiente figura.
+
+![](/img/Zonas_D_MX1.jpg) 
+
+
+
+# Ejercicio 2 (Unidad 1)  20%
+
+```{r}
+###########################################
+                #  Ejercicio 2
+###########################################
+
+#### Determninar N° de concesiones por acuífero. Caso  Chihuahua
+```
+
+
+[Fuente de Datos](http://siga.conagua.gob.mx/REPDA/Menu/MenuKMZ.html)
+
+Nota base originamente en KMZ es necesario exportar csv data.
+
+```{r}
+# 1. Reading csv data .
+
+aprovechamientos.db<-read.csv("aprovechamientos_subte_08.csv")
+
+glimpse(aprovechamientos.db)
+
+# Renombramos  variable clave de acuífero.
+
+aprovechamientos.db<-rename(aprovechamientos.db,clave=CVE_ACUHOM)
+
+# Indicamos variables categóricas 
+
+aprovechamientos.db=mutate(aprovechamientos.db,
+clave=as.factor(clave), 
+USO_SUB=as.factor(USO_SUB))
+
+# 2 Estimar concesiones por acuífero
+
+count<-group_by(aprovechamientos.db,clave)%>%
+  summarize(total=n())
+
+  ### Estimar concentración geográfica  de concesiones por km2 para dimensionar el conceto de EQUIDAD mediante la distribución de los RH.
+
+#########
+# Estimación de índice de concentración de concesiones (ICC)
+#########
+
+# Utilizar Base de datos con area en Km2 (ArcGis Shape file de acuíferos). Nota: Hacer búsqueda de .shp de acuíferos on the web just to get the source. 
+
+# Loading data
+areapozos<-read.dbf("dataacuiferos08t.dbf")
+glimpse(areapozos)
+
+# Índice de concentración una medida relativa definida por: A/B*100 donde A cociente  concesiones respecto a superficie (en km2) para acuífero i. B= cociente  concesiones respecto a superficie del estado (en km2).  
+
+# Estimado B
+
+superficie08<-summarize(areapozos, TS=sum(a2))
+concesiones08<-summarize(count, TC=sum(total))
+# Cálculo de la constante B (denominador del ICC).
+denominador<-21567/260555.1
+
+# Estimando A
+## join de número de concesiones por acuífero  y superficie. 
+
+numerador<- left_join(count, areapozos)%>%
+mutate(numerador=total/a2)%>%
+  select(clave,numerador)
+
+icc<-mutate(numerador,icc=round(numerador/denominador,2))
+
+```
+
+ ![](/img/ICC2.jpg)
+```{r}
+### Valor  recaudado por acuífero según Zona de disponibilidad. 
+#########
+
+# Usamos base de datos Disponibilildad_2015a para recuperar zonas de disponibilidad. 
+
+zonas<-read.csv("Disponibilildad_2015a.csv")%>%
+  mutate(clave=as.factor(clave))%>%
+  select(clave,zd)
+
+names(zonas)
+
+# Usamos base de datos aprovechamientos.db para clasificar por usos y obtener valores. 
+
+tipo<-mutate(aprovechamientos.db,
+type=ifelse(USO_SUB=="AGRICOLA"|	USO_SUB=="PECUARIO"|USO_SUB=="MULTIPLES"|USO_SUB     =="ABREVADERO"|USO_SUB=="AGROINDUSTRIAL"|USO_SUB     =="AGR?COLA"|USO_SUB=="AGRICOLA 20-00-00 HA"|USO_SUB     =="MULTIPLE",1,ifelse(USO_SUB=="PUBLICO URBANO",2,ifelse(USO_SUB=="ACUACULTURA",3,4))))	
+
+# Tabla concesiones por tipo por acuífero.
+
+tabla<-group_by(tipo,clave,USO_SUB)%>%
+  summarize(total=n())
+
+
+valor<-left_join(tipo,zonas, by="clave")%>%
+  select(clave,zd,type,VOL_CONS)
+
+valor<-mutate(valor,clave=as.factor(clave), zd=as.factor(zd),type=as.factor(type))
+
+glimpse(valor)
+
+## Cuotas m3 según (Montos en peso por m3 acorde con LFD  2015)
+
+az1<-19.8199
+az2<-7.6719
+az3<-2.6713
+az4<-1.9418
+
+## Valor 
+
+v<-mutate(valor,va=ifelse(zd==1,VOL_CONS*az1,ifelse(zd==2,VOL_CONS*az2,ifelse(zd==3,VOL_CONS*az3,VOL_CONS*az4))))
+
+
+final<-group_by(v,clave)%>%
+  summarize(vol=sum(VOL_CONS), val=sum(va))%>%
+  left_join(count)%>%
+  left_join(zonas)
+
+# GRAFICA.Datos promedio para lineas vertical y horizontal  de cuadrantes.
+summary(final$vol)
+summary(final$total)
+
+# GRAFICA labels. Para tener las labels only del cuadrante I #
+final<-mutate(final, cc=as.character(clave))
+final<-mutate(final, focus=ifelse(total>=348&vol>=5364795,cc,""))
+
+ggplot(final, aes(x=total, y=vol,colour=factor(zd),size=val))+
+geom_point()+
+scale_colour_brewer(palette="Spectral")+
+labs(colour="Zona")+ 
+labs(size="Recaudación potencial")+
+xlab("Número de concesiones")+
+ylab("Volumen concesionado m3")+
+  geom_vline(xintercept = 348)+
+  geom_hline(yintercept = 5365000)+
+  geom_text(aes(label=focus),color="black", size=2.5, vjust=2)+
+  theme_bw()
+```
+
+```{r}
+
+###  Valores solo uso agrícola.
+agricola<-filter(valor, type==1)
+
+agricola<-mutate(agricola,va=ifelse(zd==1,VOL_CONS*az1,ifelse(zd==2,VOL_CONS*az2,ifelse(zd==3,VOL_CONS*az3,VOL_CONS*az4))))
+
+
+agricola<-group_by(agricola,clave)%>%
+  summarize(vol=sum(VOL_CONS), val=sum(va))%>%
+  left_join(count)%>%
+  left_join(zonas)
+
+# GRAFICA.Datos promedio para lineas vertical y horizontal  de cuadrantes.
+summary(agricola$vol)
+summary(agricola$total)
+
+# GRAFICA labels. Para tener las labels only del cuadrante I #
+agricola<-mutate(agricola, cc=as.character(clave))
+agricola<-mutate(agricola, focus=ifelse(total>=365&vol>=38387160,cc,""))
+
+ggplot(agricola, aes(x=total, y=vol,colour=factor(zd),size=val))+
+geom_point()+
+scale_colour_brewer(palette="Spectral")+
+labs(colour="Zona")+ 
+labs(size="Recaudación potencial")+
+xlab("Número de concesiones")+
+ylab("Volumen concesionado m3")+
+  geom_vline(xintercept = 348)+
+  geom_hline(yintercept = 5365000)+
+  geom_text(aes(label=focus),color="black", size=2.5, vjust=2)+
+  theme_bw()
+```
+

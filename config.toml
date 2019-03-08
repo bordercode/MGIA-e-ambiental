@@ -1,0 +1,32 @@
+baseurl = "/"
+title = "Cursos"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "Mainroad"
+disqusShortname = "4insight" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-124338825-1" # Enable Google Analytics by entering your tracking id
+
+[Author]
+  name = "José Luis Manzanares Rivera"
+  bio = "José Luis is a data scientist. He is currently conducting applied research at El Colegio de la Frontera Norte."
+  avatar = "img/aavatar.jpg" 
+
+[Params]
+  subtitle = "Economía Ambiental y ecológica del agua" # Subtitle of your site
+  description = "Actividades de docencia por José Luis Manzanares Rivera en el área Economía de los recrusos Hídricos" # Description of your site
+  opengraph = true
+  twitter_cards = false
+  readmore = false # Show "Read more" button in list if true
+  homeLayout = "content + sidebar" # Configure home page layout
+  listLayout = "content + sidebar" # Configure layout for list pages
+  singleLayout = "content + sidebar" # Configure layout for single pages
+  authorbox = true
+  post_navigation = true
+  postSections = ["post"]
+
+[Params.widgets]
+  search = true # Enable "Search" widget
+  recent_articles = true # Enable "Recent arcticles" widget
+  categories = true # Enable "Categories" widget
+  tags = true # Enable "Tags" widget
+  tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)

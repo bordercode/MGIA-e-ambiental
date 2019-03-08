@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentación on Cursos</title>
+    <link>/categories/documentaci%C3%B3n/</link>
+    <description>Recent content in Documentación on Cursos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/documentaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Recursos Adicionales</title>
+      <link>/post/radd/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/radd/</guid>
+      <description>Documentales Tema: Oferta. La provisión de agua, retos de infraestructura. PTAR Atotonilco
+Supply side. Infraestructura
+Obras de ingeniería: El Sistema Cutzamala
+Tema: Escasez de agua, mercado de agua para consumo humano. Documental Consumo Doméstico
+Tema: Fallas de mercado. Gestión de Recursos Hídricos y producción de alimentos. Documental Uso intensivo RHS
+Artículos Lectura en tema de escasez (Unidad 1)
+Capitulo 1 Global outlook for water scarcity, food security, and hydropower Mark W.</description>
+    </item>
+    
+  </channel>
+</rss>

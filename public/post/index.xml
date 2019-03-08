@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Cursos</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Cursos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/post/syllabus/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/syllabus/</guid>
+      <description>Estrategias de aprendizaje utilizadas. El curso se desarrollará mediante los siguientes elementos: El estudiante se aproximará a los conocimientos ofrecidos mediante distintas actividades que incluyen exposición de lecturas asignadas, discusión en grupo, elaboración de un ensayo y dos ejercicios prácticos.
+Métodos y estrategias de evaluación.  Examen teórico 30 % Ejercicio uno 20 % Ejercicio dos 20 % Controles de lectura (4) 10% Ensayo Final 20 %  c 2018</description>
+    </item>
+    
+    <item>
+      <title>Unidad 1</title>
+      <link>/post/unidad_1/</link>
+      <pubDate>Thu, 23 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/unidad_1/</guid>
+      <description>Objetivos de aprendizaje de la sesión 1. m Comprender los conceptos fundamentales de economía como disciplina para el análisis de los recursos hídricos.
+Tiempo de la sesión: 2 horas. Conceptos fundamentales de Economía “Only what is rare is valuable, and water, which is the best of all things…is also the cheapest.” – Plato.
+Definiciones. El concepto de escasez una motivación central en economía.
+Economía como una disciplina científica centrada en la toma de decisiones.</description>
+    </item>
+    
+    <item>
+      <title>Unidad 2</title>
+      <link>/post/unidad_2/</link>
+      <pubDate>Wed, 22 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/unidad_2/</guid>
+      <description>El enfoque de la Economía Ambiental. Teoria del consumidor. Demanda Efectiva y el precio de los RH. Lectura capitulo 4. Introduction to the economics of water Resources
+Tiempo estimado 2 hrs. (pp. 50-66, secc.4.1-4.6 and 4.9.)
+Teoría del productor: Costos. Actividad: Hacer lectura y comentar en plataforma Disqus. (Tiempo estmado:30 minutos)
+Cost Chapter 7. Collin Green. Handbook of water economics.
+Preguntas detonadoras.
+ Indique cuatro rasgos clave de la definición de costos en el contexto de le manejo de los RH.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicios</title>
+      <link>/post/2018-08-23-r-excersice/</link>
+      <pubDate>Sun, 19 Aug 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-08-23-r-excersice/</guid>
+      <description>Ejercicio 1 (Unidad 1 20%) library(tidyverse)## -- Attaching packages ---------------------------- tidyverse 1.2.0 --## v ggplot2 2.2.1 v purrr 0.2.4## v tibble 1.3.4 v dplyr 0.7.4## v tidyr 0.7.2 v stringr 1.2.0## v readr 1.1.1 v forcats 0.2.0## -- Conflicts ------------------------------- tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()library(foreign)library(ineq)  ############################################# Ejercicio 1 ###########################################getwd()## [1] &amp;quot;C:/Users/LENOVO/Desktop/DESK/web/curso-ea-101-2018/content/post&amp;quot;#Base de datos de disponibilildad por acuífero# Base de datos en: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Recursos Adicionales</title>
+      <link>/post/radd/</link>
+      <pubDate>Sat, 18 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/radd/</guid>
+      <description>Documentales Tema: Oferta. La provisión de agua, retos de infraestructura. PTAR Atotonilco
+Supply side. Infraestructura
+Obras de ingeniería: El Sistema Cutzamala
+Tema: Escasez de agua, mercado de agua para consumo humano. Documental Consumo Doméstico
+Tema: Fallas de mercado. Gestión de Recursos Hídricos y producción de alimentos. Documental Uso intensivo RHS
+Artículos Lectura en tema de escasez (Unidad 1)
+Capitulo 1 Global outlook for water scarcity, food security, and hydropower Mark W.</description>
+    </item>
+    
+    <item>
+      <title>Reflexion Final</title>
+      <link>/post/reflexi%C3%B3n-final/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reflexi%C3%B3n-final/</guid>
+      <description>Setting the context of our course. A diferencia de la teoría económica neoclásica-keynesiana, o su expresión en lo que se conoce como economía ambiental, que parte de su propio instrumental económico para analizar los problemas ambientales de origen antrópico, la teoría económica-ecológica pretende “abrirse” para incorporar otras disciplinas, lo que correspondería más fielmente con el carácter multidisciplinar que la problemática ambiental exige (Guillermo Foladori,1995).
+Actividad: Leer y discutir la siguiente lectura:</description>
+    </item>
+    
+  </channel>
+</rss>

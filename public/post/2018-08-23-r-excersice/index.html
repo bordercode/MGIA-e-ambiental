@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Ejercicios</title>
+	<meta name="description" content="">
+	<meta name="generator" content="Hugo 0.54.0" />
+	<meta property="og:title" content="Ejercicios" />
+<meta property="og:description" content="Ejercicio 1 (Unidad 1 20%) library(tidyverse)## -- Attaching packages ---------------------------- tidyverse 1.2.0 --## v ggplot2 2.2.1 v purrr 0.2.4## v tibble 1.3.4 v dplyr 0.7.4## v tidyr 0.7.2 v stringr 1.2.0## v readr 1.1.1 v forcats 0.2.0## -- Conflicts ------------------------------- tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()library(foreign)library(ineq)  ############################################# Ejercicio 1 ###########################################getwd()## [1] &quot;C:/Users/LENOVO/Desktop/DESK/web/curso-ea-101-2018/content/post&quot;#Base de datos de disponibilildad por acuífero# Base de datos en: https://www." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/post/2018-08-23-r-excersice/" />
+<meta property="article:published_time" content="2018-08-19T21:13:14-05:00"/>
+<meta property="article:modified_time" content="2018-08-19T21:13:14-05:00"/>
+
+	
+	<link rel="dns-prefetch" href="//fonts.googleapis.com">
+	<link rel="dns-prefetch" href="//fonts.gstatic.com">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700">
+	<link rel="stylesheet" href="/css/style.css">
+	<script type="text/javascript" src="/js/scripts.js"></script>
+	<link rel="shortcut icon" href="/favicon.ico">
+		
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-124338825-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+</head>
+<body class="body">
+	<div class="container container-outer">
+		<header class="header">
+			<div class="container container-inner">
+				<div class="logo" role="banner">
+					<a class="logo__link" href="/" title="Cursos" rel="home">
+						<div class="logo__title">Cursos</div>
+						<div class="logo__tagline">Economía Ambiental y ecológica del agua</div>
+					</a>
+				</div>
+			</div>
+			
+<nav class="menu">
+	<ul class="menu__list">
+		<li class="menu__item"><a class="menu__link" href="/about/">MAESTRÍA EN GESTIÓN INTEGRAL DEL AGUA</a></li>
+		<li class="menu__item"><a class="menu__link" href="/post/syllabus/">SYLLABUS</a></li>
+		<li class="menu__item"><a class="menu__link" href="/post/unidad_1/">UNIDAD 1</a></li>
+		<li class="menu__item"><a class="menu__link" href="/post/unidad_2/">UNIDAD 2</a></li>
+		<li class="menu__item menu__item--active"><a class="menu__link" href="/post/2018-08-23-r-excersice/">EJERCICIOS</a></li>
+		<li class="menu__item"><a class="menu__link" href="/post/radd/">RECURSOS ADICIONALES</a></li>
+	</ul>
+</nav>
+
+		</header>
+		<div class="wrapper flex">
+
+<main class="main content">
+	<article class="post">
+		<header class="post__header">
+			<h1 class="post__title">Ejercicios</h1><div class="post__meta meta">
+<svg class="icon icon-time" width="16" height="14" viewBox="0 0 16 16"><path d="m8-.0000003c-4.4 0-8 3.6-8 8 0 4.4000003 3.6 8.0000003 8 8.0000003 4.4 0 8-3.6 8-8.0000003 0-4.4-3.6-8-8-8zm0 14.4000003c-3.52 0-6.4-2.88-6.4-6.4000003 0-3.52 2.88-6.4 6.4-6.4 3.52 0 6.4 2.88 6.4 6.4 0 3.5200003-2.88 6.4000003-6.4 6.4000003zm.4-10.4000003h-1.2v4.8l4.16 2.5600003.64-1.04-3.6-2.1600003z"/></svg>
+<time class="post__meta-date meta-date" datetime="2018-08-19T21:13:14">August 19, 2018</time>
+<span class="post__meta-categories meta-categories">
+	<svg class="icon icon-category" width="16" height="16" viewBox="0 0 16 16"><path d="m7 2l1 2h8v11h-16v-13z"/></svg>
+	<span class="meta-categories__list"><a class="meta-categories__link" href="/categories/an%c3%a1lisis" rel="category">Análisis</a></span>
+</span></div>
+		</header><div class="post__content clearfix">
+			
+
+
+<div id="ejercicio-1-unidad-1-20" class="section level1">
+<h1>Ejercicio 1 (Unidad 1 20%)</h1>
+<pre class="r"><code>               library(tidyverse)
+## -- Attaching packages ---------------------------- tidyverse 1.2.0 --
+## v ggplot2 2.2.1     v purrr   0.2.4
+## v tibble  1.3.4     v dplyr   0.7.4
+## v tidyr   0.7.2     v stringr 1.2.0
+## v readr   1.1.1     v forcats 0.2.0
+## -- Conflicts ------------------------------- tidyverse_conflicts() --
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()
+               library(foreign)
+               library(ineq)  
+              </code></pre>
+<pre class="r"><code>     
+
+###########################################
+                ## Ejercicio 1 
+###########################################
+
+getwd()
+## [1] &quot;C:/Users/LENOVO/Desktop/DESK/web/curso-ea-101-2018/content/post&quot;
+
+
+#Base de datos de disponibilildad por acuífero
+
+
+# Base de datos en: https://www.gob.mx/conagua/acciones-y-programas/disponibilidad-por-acuiferos-66095#
+
+data&lt;-read.csv(&quot;Disponibilildad 2015.csv&quot;)
+str(data)
+## &#39;data.frame&#39;:    653 obs. of  7 variables:
+##  $ nombre        : Factor w/ 641 levels &quot;20 DE NOVIEMBRE&quot;,..: 1 2 3 4 5 6 7 8 9 10 ...
+##  $ disponibilidad: num  19.4398 -2.7536 306.5336 -0.0196 4.9139 ...
+##  $ recarga       : num  39.3 20 860.7 5.6 19.9 ...
+##  $ dncom         : num  11.5 3.2 490.2 0.2 11.6 ...
+##  $ clave         : int  1412 3215 709 524 1318 1313 241 2657 1407 1905 ...
+##  $ code          : int  1412 3215 709 524 1318 1313 241 2657 1407 1905 ...
+##  $ st            : int  14 32 7 5 13 13 2 26 14 19 ...
+View(data)
+
+data&lt;-mutate(data,clave=as.factor(clave))
+data&lt;-mutate(data,Estado=as.factor(st))
+
+        # 1.-Estimando el volumen concesionado  (VCAS) por acuífero#
+
+data&lt;-mutate(data,vcas=recarga-dncom-disponibilidad)
+
+##      2.-Estimando el grado de inequidad o concentracion del vcas## 
+
+#Recuerde Gini=1: Max inequidad, Gini=0: equidad total. X axis  pop % y axis vcas %
+
+ineq(data$vcas,type=&quot;Gini&quot;)
+## [1] 0.7713782
+plot(Lc(data$vcas))</code></pre>
+<p><img src="/post/2018-08-23-r-Excersice_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<pre class="r"><code>
+# Interpretación. Aprox el 80% de los acuiferos solo tienen el 18% del vcas, lo que implica el restante 20% de los acuiferos concentra el 82del vcas!!
+
+#       3. Estimando el índice de volumen concesionado
+
+data&lt;-mutate(data,ivcas=vcas/(recarga-dncom))
+
+#       4. Estimando el índice de disponibilidad fórmula CONAGUA#
+
+data&lt;-mutate(data,idas=disponibilidad/(recarga-dncom))</code></pre>
+<pre class="r"><code>#       5. Estimando la Zona de disponibilidad para el cobro de derechos
+
+data&lt;-mutate(data,zd=ifelse(idas &lt;=-0.1, 1,ifelse(idas &gt;-0.1&amp; idas &lt;=0.1, 2,ifelse(idas &gt;0.1&amp; idas &lt;=0.8,3,4)) ))
+data&lt;-arrange(data,zd,idas)
+write.csv(data, &quot;Disponibilildad_2015a.csv&quot;)
+
+# Relación entre variable disponibilidad e IVCAS  por zona
+g_disp &lt;- ggplot(data, aes(x=ivcas, y=disponibilidad, colour=factor(zd))) + geom_point()+ geom_vline(xintercept = 1)+ geom_hline(yintercept = 0) + labs(colour=&quot;Zona&quot;)
+
+g_disp</code></pre>
+<p><img src="/post/2018-08-23-r-Excersice_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<pre class="r"><code>
+# Relación entre variable recarga e IVCAS  por zona
+
+model &lt;- lm(vcas~ recarga, data)
+summary(model)
+## 
+## Call:
+## lm(formula = vcas ~ recarga, data = data)
+## 
+## Residuals:
+##     Min      1Q  Median      3Q     Max 
+## -778.95  -29.35  -23.73    1.31  990.71 
+## 
+## Coefficients:
+##              Estimate Std. Error t value Pr(&gt;|t|)    
+## (Intercept) 28.427129   3.921739   7.249  1.2e-12 ***
+## recarga      0.165465   0.004317  38.325  &lt; 2e-16 ***
+## ---
+## Signif. codes:  0 &#39;***&#39; 0.001 &#39;**&#39; 0.01 &#39;*&#39; 0.05 &#39;.&#39; 0.1 &#39; &#39; 1
+## 
+## Residual standard error: 99.01 on 651 degrees of freedom
+## Multiple R-squared:  0.6929, Adjusted R-squared:  0.6924 
+## F-statistic:  1469 on 1 and 651 DF,  p-value: &lt; 2.2e-16
+g_regresion&lt;- ggplot(data, aes(x=recarga, y=vcas,colour=factor(zd))) + geom_point() + stat_smooth(method=lm)+ annotate(&quot;text&quot;, label=&quot;r^2==0.69&quot;,parse = TRUE, x=15000, y=1000) + annotate(&quot;text&quot;, label=&quot;vcas=28.42+0.16Rt&quot;,parse = F, x=15000, y=500)+ labs(colour=&quot;Zona&quot;)
+
+g_regresion</code></pre>
+<p><img src="/post/2018-08-23-r-Excersice_files/figure-html/unnamed-chunk-2-2.png" width="672" /></p>
+<pre class="r"><code>
+#Cuantos acuíferos hay por zona?
+zonas&lt;-group_by(data,zd)%&gt;%summarize(sum_zona=n())
+zonas&lt;-mutate(zonas,por=sum_zona/sum(sum_zona))
+cumsum(zonas$por)
+## [1] 0.2419602 0.3859112 0.7611026 1.0000000
+
+
+
+explotados&lt;-data%&gt;%mutate(explo=ifelse(ivcas&gt;1,1,0))%&gt;%group_by(explo)%&gt;%summarize(explotados=n())%&gt;%mutate(frac=explotados/sum(explotados))
+158+45
+## [1] 203
+###########################################
+#                 Conclusión 1
+# Bajo el enfoque idas (zonas) Concluimos que uno de cada 4 (0.2419) 
+# acuíferos se encuentran en zonas de alt explotación. En el enfoque IVCAS el 31%
+# entonces el idas subestima elpatrón de explotación, recomendación. Rediseñar zonas:
+# Incluir zonas 1 y 2 en una zona y dividir zonas 3 en dos.
+###########################################
+
+#Exportamos el archivo para trabajar en contexto esapacial #
+filter(data,st==8)%&gt;%arrange((disponibilidad))%&gt;%head(10)
+##                        nombre disponibilidad recarga dncom clave code st
+## 1                  CUAUHTÉMOC     -197.03950   115.2   0.0   805  805  8
+## 2             MEOQUI-DELICIAS     -172.19410   211.2   0.0   831  831  8
+## 3             JIMÉNEZ-CAMARGO     -142.13570   173.3   5.5   832  832  8
+## 4  FLORES MAGÓN-VILLA AHUMADA     -110.38450   137.5   0.0   821  821  8
+## 5                   ASCENSIÓN     -107.00480   132.2   0.0   801  801  8
+## 6                  LOS JUNCOS     -103.60000   133.6   0.1   847  847  8
+## 7             VALLE DE JUÁREZ      -86.52818   125.9   0.0   833  833  8
+## 8                BUENAVENTURA      -65.12788    66.5   0.0   804  804  8
+## 9        CHIHUAHUA-SACRAMENTO      -45.46461    56.6   0.0   830  830  8
+## 10                      JANOS      -44.38366   141.9  15.7   808  808  8
+##    Estado     vcas    ivcas       idas zd
+## 1       8 312.2395 2.710412 -1.7104123  1
+## 2       8 383.3941 1.815313 -0.8153130  1
+## 3       8 309.9357 1.847054 -0.8470542  1
+## 4       8 247.8845 1.802796 -0.8027964  1
+## 5       8 239.2048 1.809416 -0.8094160  1
+## 6       8 237.1000 1.776030 -0.7760300  1
+## 7       8 212.4282 1.687277 -0.6872770  1
+## 8       8 131.6279 1.979367 -0.9793666  1
+## 9       8 102.0646 1.803262 -0.8032617  1
+## 10      8 170.5837 1.351693 -0.3516930  1
+write.csv(data,&quot;ivcas.csv&quot;)
+write.csv(data,&quot;D2015.csv&quot;)
+
+             #### Final del Ejercicio 1 
+690000/2000000
+## [1] 0.345
+((187000+147000)/690000-1)
+## [1] -0.515942</code></pre>
+<p>Una representación gráfica de la información anterior se presenta en la siguiente figura.</p>
+<div class="figure">
+<img src="/img/Zonas_D_MX1.jpg" />
+
+</div>
+</div>
+<div id="ejercicio-2-unidad-1-20" class="section level1">
+<h1>Ejercicio 2 (Unidad 1) 20%</h1>
+<pre class="r"><code>###########################################
+                #  Ejercicio 2
+###########################################
+
+#### Determninar N° de concesiones por acuífero. Caso  Chihuahua</code></pre>
+<p><a href="http://siga.conagua.gob.mx/REPDA/Menu/MenuKMZ.html">Fuente de Datos</a></p>
+<p>Nota base originamente en KMZ es necesario exportar csv data.</p>
+<pre class="r"><code># 1. Reading csv data .
+
+aprovechamientos.db&lt;-read.csv(&quot;aprovechamientos_subte_08.csv&quot;)
+
+glimpse(aprovechamientos.db)
+## Observations: 21,567
+## Variables: 15
+## $ LONGITUDE  &lt;fctr&gt; 107° 26&#39; 37.0000&quot; W, 107° 24&#39; 00.0000&quot; W, 107° 23&#39;...
+## $ LATITUDE   &lt;fctr&gt; 28° 30&#39; 33.0000&quot; N, 28° 30&#39; 35.0000&quot; N, 28° 30&#39; 30...
+## $ LONDEC     &lt;dbl&gt; -107.4436, -107.4000, -107.3989, -107.4472, -107.43...
+## $ LATDEC     &lt;dbl&gt; 28.50917, 28.50972, 28.50833, 28.57361, 28.56833, 2...
+## $ REGIONAL   &lt;int&gt; 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, ...
+## $ FOLIOREG   &lt;fctr&gt; 02CHI100081/09AMGE05, 02CHI105414/09AMGE06, 02CHI1...
+## $ TITULAR    &lt;fctr&gt; LAS TIERRAS ALTAS DE BAZAN MARTINEZ S.P.R. DE R.L....
+## $ ESTADO     &lt;int&gt; 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, ...
+## $ MUPIO      &lt;int&gt; 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31,...
+## $ USO_SUB    &lt;fctr&gt; AGRICOLA, AGRICOLA, AGRICOLA, AGRICOLA, AGRICOLA, ...
+## $ CVE_ACUHOM &lt;int&gt; 860, 860, 860, 860, 860, 860, 860, 860, 860, 860, 8...
+## $ ACU_SUBHOM &lt;fctr&gt; GUERRERO-YEPOMERA, GUERRERO-YEPOMERA, GUERRERO-YEP...
+## $ VOL_CONS   &lt;dbl&gt; 344000, 290000, 150000, 61000, 6000, 198000, 20000,...
+## $ NUM        &lt;int&gt; 1, 1, 1, 1, 1, 1, 1, 2, 3, 4, 1, 1, 1, 1, 1, 1, 1, ...
+## $ KML_STYLE  &lt;fctr&gt; point1, point1, point1, point1, point1, point1, po...
+
+# Renombramos  variable clave de acuífero.
+
+aprovechamientos.db&lt;-rename(aprovechamientos.db,clave=CVE_ACUHOM)
+
+# Indicamos variables categóricas 
+
+aprovechamientos.db=mutate(aprovechamientos.db,
+clave=as.factor(clave), 
+USO_SUB=as.factor(USO_SUB))
+
+# 2 Estimar concesiones por acuífero
+
+count&lt;-group_by(aprovechamientos.db,clave)%&gt;%
+  summarize(total=n())
+
+  ### Estimar concentración geográfica  de concesiones por km2 para dimensionar el conceto de EQUIDAD mediante la distribución de los RH.
+
+#########
+# Estimación de índice de concentración de concesiones (ICC)
+#########
+
+# Utilizar Base de datos con area en Km2 (ArcGis Shape file de acuíferos). Nota: Hacer búsqueda de .shp de acuíferos on the web just to get the source. 
+
+# Loading data
+areapozos&lt;-read.dbf(&quot;dataacuiferos08t.dbf&quot;)
+glimpse(areapozos)
+## Observations: 64
+## Variables: 13
+## $ OBJECTID   &lt;int&gt; 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, ...
+## $ OID_       &lt;int&gt; 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, ...
+## $ Name       &lt;fctr&gt; ALAMO CHAPO, ALDAMA-EL CUERVO, ALDAMA-SAN DIEGO, A...
+## $ area       &lt;dbl&gt; 4926.1927, 3714.5185, 1619.9894, 1933.7693, 9968.82...
+## $ IVCAS1     &lt;dbl&gt; 0.970903, 0.970041, 0.122992, 1.145914, 0.016727, 0...
+## $ OID1       &lt;int&gt; 14, 15, 16, 20, 23, 40, 53, 55, 61, 63, 90, 91, 105...
+## $ fid_       &lt;dbl&gt; 14, 15, 16, 20, 23, 40, 53, 55, 61, 63, 90, 91, 105...
+## $ clave      &lt;fctr&gt; 842, 816, 836, 802, 838, 801, 803, 837, 843, 804, ...
+## $ nombre     &lt;fctr&gt; ALAMO CHAPO, ALDAMA-EL CUERVO, ALDAMA-SAN DIEGO, A...
+## $ Shape_Leng &lt;dbl&gt; 439122.41, 299138.22, 166810.50, 207068.15, 537164....
+## $ Shape_Area &lt;dbl&gt; 4926190934, 3714517200, 1619988808, 1933768589, 996...
+## $ a2         &lt;dbl&gt; 4926.1909, 3714.5172, 1619.9888, 1933.7686, 9968.81...
+## $ A_ha       &lt;dbl&gt; 492619.09, 371451.72, 161998.88, 193376.86, 996881....
+
+# Índice de concentración una medida relativa definida por: A/B*100 donde A cociente  concesiones respecto a superficie (en km2) para acuífero i. B= cociente  concesiones respecto a superficie del estado (en km2).  
+
+# Estimado B
+
+superficie08&lt;-summarize(areapozos, TS=sum(a2))
+concesiones08&lt;-summarize(count, TC=sum(total))
+# Cálculo de la constante B (denominador del ICC).
+denominador&lt;-21567/260555.1
+
+# Estimando A
+## join de número de concesiones por acuífero  y superficie. 
+
+numerador&lt;- left_join(count, areapozos)%&gt;%
+mutate(numerador=total/a2)%&gt;%
+  select(clave,numerador)
+## Joining, by = &quot;clave&quot;
+## Warning: Column `clave` joining factors with different levels, coercing to
+## character vector
+
+icc&lt;-mutate(numerador,icc=round(numerador/denominador,2))</code></pre>
+<div class="figure">
+<img src="/img/ICC2.jpg" />
+
+</div>
+<pre class="r"><code>### Valor  recaudado por acuífero según Zona de disponibilidad. 
+#########
+
+# Usamos base de datos Disponibilildad_2015a para recuperar zonas de disponibilidad. 
+
+zonas&lt;-read.csv(&quot;Disponibilildad_2015a.csv&quot;)%&gt;%
+  mutate(clave=as.factor(clave))%&gt;%
+  select(clave,zd)
+
+names(zonas)
+## [1] &quot;clave&quot; &quot;zd&quot;
+
+# Usamos base de datos aprovechamientos.db para clasificar por usos y obtener valores. 
+
+tipo&lt;-mutate(aprovechamientos.db,
+type=ifelse(USO_SUB==&quot;AGRICOLA&quot;|    USO_SUB==&quot;PECUARIO&quot;|USO_SUB==&quot;MULTIPLES&quot;|USO_SUB     ==&quot;ABREVADERO&quot;|USO_SUB==&quot;AGROINDUSTRIAL&quot;|USO_SUB     ==&quot;AGR?COLA&quot;|USO_SUB==&quot;AGRICOLA 20-00-00 HA&quot;|USO_SUB     ==&quot;MULTIPLE&quot;,1,ifelse(USO_SUB==&quot;PUBLICO URBANO&quot;,2,ifelse(USO_SUB==&quot;ACUACULTURA&quot;,3,4))))  
+
+# Tabla concesiones por tipo por acuífero.
+
+tabla&lt;-group_by(tipo,clave,USO_SUB)%&gt;%
+  summarize(total=n())
+
+
+valor&lt;-left_join(tipo,zonas, by=&quot;clave&quot;)%&gt;%
+  select(clave,zd,type,VOL_CONS)
+## Warning: Column `clave` joining factors with different levels, coercing to
+## character vector
+
+valor&lt;-mutate(valor,clave=as.factor(clave), zd=as.factor(zd),type=as.factor(type))
+
+glimpse(valor)
+## Observations: 21,567
+## Variables: 4
+## $ clave    &lt;fctr&gt; 860, 860, 860, 860, 860, 860, 860, 860, 860, 860, 86...
+## $ zd       &lt;fctr&gt; 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3...
+## $ type     &lt;fctr&gt; 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1...
+## $ VOL_CONS &lt;dbl&gt; 344000, 290000, 150000, 61000, 6000, 198000, 20000, 6...
+
+## Cuotas m3 según (Montos en peso por m3 acorde con LFD  2015)
+
+az1&lt;-19.8199
+az2&lt;-7.6719
+az3&lt;-2.6713
+az4&lt;-1.9418
+
+## Valor 
+
+v&lt;-mutate(valor,va=ifelse(zd==1,VOL_CONS*az1,ifelse(zd==2,VOL_CONS*az2,ifelse(zd==3,VOL_CONS*az3,VOL_CONS*az4))))
+
+
+final&lt;-group_by(v,clave)%&gt;%
+  summarize(vol=sum(VOL_CONS), val=sum(va))%&gt;%
+  left_join(count)%&gt;%
+  left_join(zonas)
+## Joining, by = &quot;clave&quot;
+## Warning: Column `clave` joining factors with different levels, coercing to
+## character vector
+## Joining, by = &quot;clave&quot;
+## Warning: Column `clave` joining character vector and factor, coercing into
+## character vector
+
+# GRAFICA.Datos promedio para lineas vertical y horizontal  de cuadrantes.
+summary(final$vol)
+##      Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+##      7000    697652   5364795  43335049  36574860 314239367
+summary(final$total)
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##    1.00   16.25   99.50  347.86  340.50 4107.00
+
+# GRAFICA labels. Para tener las labels only del cuadrante I #
+final&lt;-mutate(final, cc=as.character(clave))
+final&lt;-mutate(final, focus=ifelse(total&gt;=348&amp;vol&gt;=5364795,cc,&quot;&quot;))
+
+ggplot(final, aes(x=total, y=vol,colour=factor(zd),size=val))+
+geom_point()+
+scale_colour_brewer(palette=&quot;Spectral&quot;)+
+labs(colour=&quot;Zona&quot;)+ 
+labs(size=&quot;Recaudación potencial&quot;)+
+xlab(&quot;Número de concesiones&quot;)+
+ylab(&quot;Volumen concesionado m3&quot;)+
+  geom_vline(xintercept = 348)+
+  geom_hline(yintercept = 5365000)+
+  geom_text(aes(label=focus),color=&quot;black&quot;, size=2.5, vjust=2)+
+  theme_bw()</code></pre>
+<p><img src="/post/2018-08-23-r-Excersice_files/figure-html/unnamed-chunk-6-1.png" width="672" /></p>
+<pre class="r"><code>
+###  Valores solo uso agrícola.
+agricola&lt;-filter(valor, type==1)
+
+agricola&lt;-mutate(agricola,va=ifelse(zd==1,VOL_CONS*az1,ifelse(zd==2,VOL_CONS*az2,ifelse(zd==3,VOL_CONS*az3,VOL_CONS*az4))))
+
+
+agricola&lt;-group_by(agricola,clave)%&gt;%
+  summarize(vol=sum(VOL_CONS), val=sum(va))%&gt;%
+  left_join(count)%&gt;%
+  left_join(zonas)
+## Joining, by = &quot;clave&quot;
+## Warning: Column `clave` joining factors with different levels, coercing to
+## character vector
+## Joining, by = &quot;clave&quot;
+## Warning: Column `clave` joining character vector and factor, coercing into
+## character vector
+
+# GRAFICA.Datos promedio para lineas vertical y horizontal  de cuadrantes.
+summary(agricola$vol)
+##      Min.   1st Qu.    Median      Mean   3rd Qu.      Max. 
+##      7000    716602   4789425  38387160  36158630 287555774
+summary(agricola$total)
+##    Min. 1st Qu.  Median    Mean 3rd Qu.    Max. 
+##     2.0    28.5   109.0   365.3   351.0  4107.0
+
+# GRAFICA labels. Para tener las labels only del cuadrante I #
+agricola&lt;-mutate(agricola, cc=as.character(clave))
+agricola&lt;-mutate(agricola, focus=ifelse(total&gt;=365&amp;vol&gt;=38387160,cc,&quot;&quot;))
+
+ggplot(agricola, aes(x=total, y=vol,colour=factor(zd),size=val))+
+geom_point()+
+scale_colour_brewer(palette=&quot;Spectral&quot;)+
+labs(colour=&quot;Zona&quot;)+ 
+labs(size=&quot;Recaudación potencial&quot;)+
+xlab(&quot;Número de concesiones&quot;)+
+ylab(&quot;Volumen concesionado m3&quot;)+
+  geom_vline(xintercept = 348)+
+  geom_hline(yintercept = 5365000)+
+  geom_text(aes(label=focus),color=&quot;black&quot;, size=2.5, vjust=2)+
+  theme_bw()</code></pre>
+<p><img src="/post/2018-08-23-r-Excersice_files/figure-html/unnamed-chunk-7-1.png" width="672" /></p>
+</div>
+
+		</div>
+		
+<div class="post__tags tags clearfix">
+	<svg class="icon icon-tag" width="16" height="16" viewBox="0 0 16 16"><path d="M16 9.5c0 .373-.24.74-.5 1l-5 5c-.275.26-.634.5-1 .5-.373 0-.74-.24-1-.5L1 8a2.853 2.853 0 0 1-.7-1C.113 6.55 0 5.973 0 5.6V1.4C0 1.034.134.669.401.401.67.134 1.034 0 1.4 0h4.2c.373 0 .95.113 1.4.3.45.187.732.432 1 .7l7.5 7.502c.26.274.5.632.5.998zM3.5 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/></svg>
+	<ul class="tags__list">
+		<li class="tags__item"><a class="tags__link btn" href="/tags/pr%C3%A1ctica/" rel="tag">Práctica</a></li>
+		<li class="tags__item"><a class="tags__link btn" href="/tags/datos/" rel="tag">datos</a></li>
+	</ul>
+</div>
+	</article>
+	
+<div class="authorbox clearfix">
+	<figure class="authorbox__avatar">
+		<img alt="José Luis Manzanares Rivera avatar" src="/img/aavatar.jpg" class="avatar" height="90" width="90">
+	</figure>
+	<div class="authorbox__header">
+		<span class="authorbox__name">About José Luis Manzanares Rivera</span>
+	</div>
+	<div class="authorbox__description">
+		José Luis is a data scientist. He is currently conducting applied research at El Colegio de la Frontera Norte.
+	</div>
+</div>
+	
+<nav class="post-nav flex">
+	<div class="post-nav__item post-nav__item--prev">
+		<a class="post-nav__link" href="/post/radd/" rel="prev"><span class="post-nav__caption">«&thinsp;Previous</span><p class="post-nav__post-title">Recursos Adicionales</p></a>
+	</div>
+	<div class="post-nav__item post-nav__item--next">
+		<a class="post-nav__link" href="/post/unidad_2/" rel="next"><span class="post-nav__caption">Next&thinsp;»</span><p class="post-nav__post-title">Unidad 2</p></a>
+	</div>
+</nav>
+	
+<section class="comments">
+	<div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "4insight" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+</main>
+
+
+<aside class="sidebar">
+	
+<div class="widget-search widget">
+	<form class="widget-search__form" role="search" method="get" action="https://google.com/search">
+		<label>
+			<input class="widget-search__field" type="search" placeholder="SEARCH..." value="" name="q" aria-label="SEARCH...">
+		</label>
+		<input class="widget-search__submit" type="submit" value="Search">
+		<input type="hidden" name="sitesearch" value="/" />
+	</form>
+</div>
+	
+<div class="widget-recent widget">
+	<h4 class="widget__title">Recent Posts</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/post/syllabus/">Syllabus</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/unidad_1/">Unidad 1</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/unidad_2/">Unidad 2</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/2018-08-23-r-excersice/">Ejercicios</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/radd/">Recursos Adicionales</a></li>
+			<li class="widget__item"><a class="widget__link" href="/post/reflexi%C3%B3n-final/">Reflexion Final</a></li>
+		</ul>
+	</div>
+</div>
+	
+<div class="widget-categories widget">
+	<h4 class="widget__title">Categories</h4>
+	<div class="widget__content">
+		<ul class="widget__list">
+			<li class="widget__item"><a class="widget__link" href="/categories/an%c3%a1lisis">Análisis</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/development">Development</a></li>
+			<li class="widget__item"><a class="widget__link" href="/categories/documentaci%c3%b3n">Documentación</a></li>
+		</ul>
+	</div>
+</div>
+	
+	
+<div class="widget-taglist widget">
+	<h4 class="widget__title">Tags</h4>
+	<div class="widget__content">
+		<a class="widget-taglist__link widget__link btn" href="/tags/basic-elements" title="Basic elements">Basic elements</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/css" title="Css">Css</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/datos" title="Datos">Datos</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/html" title="Html">Html</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/multimedia" title="Multimedia">Multimedia</a>
+		<a class="widget-taglist__link widget__link btn" href="/tags/pr%c3%a1ctica" title="Práctica">Práctica</a>
+	</div>
+</div>
+</aside>
+	</div>
+		<footer class="footer">
+			<div class="container container-inner">
+				<div class="footer__copyright">&copy; 2019 Cursos. <span class="footer__copyright-credits">Generated with <a href="https://gohugo.io/" rel="nofollow noopener" target="_blank">Hugo</a> and <a href="https://github.com/Vimux/Mainroad/" rel="nofollow noopener" target="_blank">Mainroad</a> theme.</span></div>
+			</div>
+		</footer>
+	</div>
+
+<script>
+	var navigation = responsiveNav(".menu", {
+		navClass: "menu--collapse",
+		label: "Menu",
+	});
+</script></body>
+</html>

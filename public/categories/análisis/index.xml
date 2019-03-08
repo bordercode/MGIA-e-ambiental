@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Análisis on Cursos</title>
+    <link>/categories/an%C3%A1lisis/</link>
+    <description>Recent content in Análisis on Cursos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 Aug 2018 21:13:14 -0500</lastBuildDate>
+    
+	<atom:link href="/categories/an%C3%A1lisis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ejercicios</title>
+      <link>/post/2018-08-23-r-excersice/</link>
+      <pubDate>Sun, 19 Aug 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2018-08-23-r-excersice/</guid>
+      <description>Ejercicio 1 (Unidad 1 20%) library(tidyverse)## -- Attaching packages ---------------------------- tidyverse 1.2.0 --## v ggplot2 2.2.1 v purrr 0.2.4## v tibble 1.3.4 v dplyr 0.7.4## v tidyr 0.7.2 v stringr 1.2.0## v readr 1.1.1 v forcats 0.2.0## -- Conflicts ------------------------------- tidyverse_conflicts() --## x dplyr::filter() masks stats::filter()## x dplyr::lag() masks stats::lag()library(foreign)library(ineq)  ############################################# Ejercicio 1 ###########################################getwd()## [1] &amp;quot;C:/Users/LENOVO/Desktop/DESK/web/curso-ea-101-2018/content/post&amp;quot;#Base de datos de disponibilildad por acuífero# Base de datos en: https://www.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Elements on Cursos</title>
+    <link>/tags/basic-elements/</link>
+    <description>Recent content in Basic Elements on Cursos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/basic-elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reflexion Final</title>
+      <link>/post/reflexi%C3%B3n-final/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/reflexi%C3%B3n-final/</guid>
+      <description>Setting the context of our course. A diferencia de la teoría económica neoclásica-keynesiana, o su expresión en lo que se conoce como economía ambiental, que parte de su propio instrumental económico para analizar los problemas ambientales de origen antrópico, la teoría económica-ecológica pretende “abrirse” para incorporar otras disciplinas, lo que correspondería más fielmente con el carácter multidisciplinar que la problemática ambiental exige (Guillermo Foladori,1995).
+Actividad: Leer y discutir la siguiente lectura:</description>
+    </item>
+    
+  </channel>
+</rss>
