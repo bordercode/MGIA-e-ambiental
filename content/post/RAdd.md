@@ -46,7 +46,7 @@ Complementar tema de externalidades con lectura de:
 
 ## Análisis aplicado. Migración y escasez hídrica.
 
-[Slides](https://drive.google.com/file/d/1T_XJC1JPBrZ-ZWADXajv0E0jNK6ADS4E/view?usp=sharing)
+[Estudio aplicado](https://themennonite-historyproject.netlify.app/)
 
 
 Métodos de valuación. Expo.
