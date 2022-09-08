@@ -29,4 +29,4 @@ El curso se desarrollará mediante los siguientes elementos:
 * Ensayo Final             20 %
 
 
-c 2018
+c 2022
