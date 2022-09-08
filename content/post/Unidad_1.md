@@ -116,7 +116,7 @@ future **supply** of water and the **demands** likely to be made on that **suppl
 
 Expresiones del concepto de escasez en México, distribución de RH en México. Notables contrastes en la disponibilidad  del recurso a escala regional.
 
-[Descriptive Statistics. MX Water Resources](https://drive.google.com/file/d/1IXNOMSSgVuPyQxEqplqwKEpiwNhkDsuo/view?usp=sharing)
+[Descriptive Statistics. MX Water Resources](https://sina.conagua.gob.mx/publicaciones/EAM_2019.pdf)
 
 Datos base para la GIRH y la aplicación de los conceptos de Economía ambiental al contexto Mexicano.
 
