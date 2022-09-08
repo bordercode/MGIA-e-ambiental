@@ -24,12 +24,15 @@ menu:
 
 #### Tema: Escasez de agua,  mercado de agua para consumo humano.
 
+[Escasez at a global scale](https://www.youtube.com/watch?v=_t6sg2C-jqw)
+
+
+[Water scarcity at a global scale](https://www.youtube.com/watch?v=1MZFrJPPIQ8)
+
 [Documental Consumo Doméstico](https://www.youtube.com/watch?v=dzntuXdE8dY)
 
 
 #### Tema: Fallas de mercado. Gestión de Recursos Hídricos y producción de alimentos.
-
-[Documental Uso intensivo RHS](https://www.youtube.com/watch?v=lWqUSGJg1eU)
 
 
 # Artículos 
