@@ -40,6 +40,7 @@ Nuestra clase se integra por un total de 8 sesiones a corde con el siguiente cal
 
 > ## Sesión 1
 > Jueves 8 de septiembre  
+
 - **Hora** 12 -3 pm 
 
 **Objetivos:** Presentación del profesor, entrega y explicación del programa del curso: objetivos de aprendizaje, bibliografía, actividades a evaluar y método de evaluación.
