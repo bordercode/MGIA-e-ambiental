@@ -8,8 +8,8 @@ googleAnalytics = "UA-124338825-1" # Enable Google Analytics by entering your tr
 
 [Author]
   name = "José Luis Manzanares Rivera"
-  bio = "José Luis is a data scientist. He is currently conducting applied research at El Colegio de la Frontera Norte."
-  avatar = "img/aavatar.jpg" 
+  bio = "[José Luis](https://joseluismanzanaresrivera.github.io/profile/index.html) is a data scientist. He is currently conducting applied research at El Colegio de la Frontera Norte."
+  avatar = "" 
 
 [Params]
   subtitle = "Economía Ambiental y ecológica del agua" # Subtitle of your site
