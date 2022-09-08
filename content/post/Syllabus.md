@@ -22,11 +22,11 @@ El curso se desarrollará mediante los siguientes elementos:
 
 # Métodos y estrategias de evaluación.
 
-*	Examen teórico 30 %
-*	Ejercicio uno  20 %
-* Ejercicio dos  20 %
-* Controles de lectura (4) 10%
-* Ensayo Final 20 %
+*	Exámen                   20 %
+*	Ejercicios               25 %
+* Participación            10 %
+* Controles de lectura (4) 20%
+* Ensayo Final             20 %
 
 
 c 2018
