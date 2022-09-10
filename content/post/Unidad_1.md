@@ -133,8 +133,7 @@ Datos base para la GIRH y la aplicación de los conceptos de Economía ambiental
 Ver mapa de cuencas en 
 [ArcGis](https://drive.google.com/file/d/19RFT_Xiulo2X1LeQOfyDma7VYZSvyJxs/view?usp=sharing)
 
-+ M.1.3 Regiones Hidrológico Administrativas p 11
-+ M.3.5 Grado de presión sobre agua en México. p 60
+
 + Fig .1.3 Regiones Hidrológicas p 12
 + Fig 2.2 Perfiles de precipitación. p 23 y 25 ver fig 2.3 Anomalias de precipitación.
 + Fig. 2.4 Sequía . p 30.
