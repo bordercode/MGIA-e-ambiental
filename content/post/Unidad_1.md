@@ -54,7 +54,9 @@ Una cuestión central para economía es la **determinación del valor** y un pri
 
 
 
-El desarrollo conceptual de la noción de valor a transitado diversos enfoque que se han sustentado en escuelas de pensamiento a lo largo de los siglos. Thomas Hobbes en Inglaterra *was very proud of the fact that he had found, in the pleasure-pain calculus, the single underlying spring for all human action*.  Richard Cumberland (1672) expanded Hobbes's narrow meaning of hedonism into a more general ethical precept.  By recognizing that our own pleasure and misery is tied up with that of society around us, Cumberland argued, the primary law of nature is not Hobbesian "self-preservation", but rather the preservation of the "common Good of the whole system of rational agents" (Cumberland, 1672: p.16).Para  indagar esta trayectoria conceptual se sugiere estudiar  [escuelas de pensamiento económico](http://www.hetwebsite.net/het/schools/utilitarian.htm). 
+El desarrollo conceptual de la noción de valor   ha transitado diversos enfoques que se han sustentado en escuelas de pensamiento a lo largo de los siglos. Thomas Hobbes en Inglaterra *was very proud of the fact that he had found, in the pleasure-pain calculus, the single underlying spring for all human action*. 
+
+**Richard Cumberland** (1672) expanded Hobbes's narrow meaning of hedonism into a more general ethical precept.  By recognizing that our own pleasure and misery is tied up with that of society around us, Cumberland argued, the primary law of nature is not Hobbesian "self-preservation", **but rather the preservation of the "common Good of the whole system of rational agents"** (Cumberland, 1672: p.16).Para  indagar esta trayectoria conceptual se sugiere estudiar  [escuelas de pensamiento económico](http://www.hetwebsite.net/het/schools/utilitarian.htm). 
 
 A propósito de escuelas del pensamiento y sus divergencias...
 
@@ -109,7 +111,7 @@ floods and filter our groundwater? Are we putting enough value on the aesthetics
 And, when we set prices for water usage, should we charge dramatically more for ground water than for surface water?
 
 
-Determining the value of water, as opposed to setting its price, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
+Determining **the value of water**, as opposed to setting its **price**, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
 future **supply** of water and the **demands** likely to be made on that **supply**.
 
 #### Ejemplo 1
@@ -117,6 +119,9 @@ future **supply** of water and the **demands** likely to be made on that **suppl
 Expresiones del concepto de escasez en México, distribución de RH en México. Notables contrastes en la disponibilidad  del recurso a escala regional.
 
 [Descriptive Statistics. MX Water Resources](https://sina.conagua.gob.mx/publicaciones/EAM_2019.pdf)
+
+**Revisar en clase los datos de página 7 (sección 1.3 sobre datos PIB) y 1.5 sobre RHA de MX** 1.6, 1.7 (contraste regional).
+
 
 Datos base para la GIRH y la aplicación de los conceptos de Economía ambiental al contexto Mexicano.
 
@@ -130,11 +135,13 @@ Ver mapa de cuencas en
 
 + M.1.3 Regiones Hidrológico Administrativas p 11
 + M.3.5 Grado de presión sobre agua en México. p 60
-+ D.2.1 Regiones Hidrológicas p 14
-+ G.2.3 Perfiles de precipitación. p 19
-+ D.2.3 Declaratorias de Sequía por Municipio. p 26.
-+ D.2.4 Acuiferos Sobre Explotados. p 35.
-+ M 2.9 Acuíferos con intrusión salina. p 36.
++ Fig .1.3 Regiones Hidrológicas p 12
++ Fig 2.2 Perfiles de precipitación. p 23 y 25 ver fig 2.3 Anomalias de precipitación.
++ Fig. 2.4 Sequía . p 30.
++ Fig. 2.5 Cuencas transfronterizas pag. 36.
++ Fig 2.7 Acuiferos Sobre Explotados. p 42.
++ Fig 2.8 Acuíferos con intrusión salina. p 43.
++ Fig 2.2 653 acuíferos. p18
 
 Expresiones de la escasez a partir de la perspectiva de la demanda Distribución de RH en MX por usos. 
 
