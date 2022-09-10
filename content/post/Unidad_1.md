@@ -133,6 +133,8 @@ Datos base para la GIRH y la aplicación de los conceptos de Economía ambiental
 Ver mapa de cuencas en 
 [ArcGis](https://drive.google.com/file/d/19RFT_Xiulo2X1LeQOfyDma7VYZSvyJxs/view?usp=sharing)
 
+34.84/(54.48+34.84)
+
 
 + Fig .1.3 Regiones Hidrológicas p 12
 + Fig 2.2 Perfiles de precipitación. p 23 y 25 ver fig 2.3 Anomalias de precipitación.
@@ -145,9 +147,9 @@ Ver mapa de cuencas en
 Expresiones de la escasez a partir de la perspectiva de la demanda Distribución de RH en MX por usos. 
 
 
-+ T3.1 Usos definiciones y clasificación p 46 .
-+ G3.2 Volumenes concesionados.p 47
-+ M3.2 Fuente predominante usos consuntivos p 49
++ Fig. 3.1 Usos definiciones y clasificación pag. 59 .
++ Gráfica 3.2 Volumenes concesionados.pag 61
++ Mapa 3.2 Fuente predominante usos consuntivos pag. 62
 
 #### Actividad: Lectura para discusión en clase. 
 (15 minutos. Comente en Disqus).
