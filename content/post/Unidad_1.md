@@ -42,7 +42,7 @@ Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los co
 
 [Proyectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
 
-Discutir la nocion de costos directos en contraste con los **costos de oportunidad** Ej, el valor (el uso alternativo de los recuross) de las alternativas rechazadas al decidir por un proyecto particular. 
+Discutir la nocion de costos directos en contraste con los **costos de oportunidad** Ej, el valor (el uso alternativo de los recuros) de las alternativas rechazadas al decidir por un proyecto particular. 
 
 
 [Capítulo 19 Routledge Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) 
@@ -53,7 +53,7 @@ Leer y comentar en Disqus. (Tiempo asignado 30 minutos)
 
 
 
-[Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua))
+[Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
 
 
 
@@ -62,10 +62,7 @@ Un objetivo principal en economía es la **asigación óptima** de los recursos 
 
 Dos retos que surgen en este contexto es el balance entre escenarios de asignación  **eficientes** y aquellos **equitativos**.
 
-Ejemplo de algunas acciones que se toman en el marco de la crisis de escasez de agua en Monterrey. estas muestran la importancia del paradígma de **eficiencia.**
-
-
-*Nueva tarifa para incentivar el ahorro y valor del agua.*
+Ejemplo de algunas acciones que se toman en el marco de la crisis de escasez de agua en Monterrey. estas muestran la importancia del paradígma de **eficiencia.**  *Nueva tarifa para incentivar el ahorro y valor del agua.*
 
 
 La definición del sistema para regular la propiedad de RH es una de las áreas de aplicación de mayor dinamísmo de los principios de economía. 
@@ -76,6 +73,7 @@ Básicamente debido a la creciente **demanda** por RH, que se expreza en una  co
 ## Principales enfoques desde economía para atender la gestión de recursos hidricos.
 
 #### Economía Ambiental: 
+
 Ofrece una aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
 naturales al instrumental de análisis 
 **neoclásfico** (agentes racionales que maximizan un función objetivo).  En este enfoque el crecimiento 
@@ -97,6 +95,10 @@ del medio ambiente.
 
 Una cuestión central para economía es la **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la utilidad marginal, esta entendida como un beneficio derivado del consumo de unidades subsecuentes de un bien, se asume que es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
 [Utilitarismo](http://www.hetwebsite.net/het/schools/utilitarian.htm) 
+
+**Principios de economía:** 
+
+Utilidad Marginal y Curva de demanda: 
 
 
 
@@ -257,8 +259,11 @@ Preguntas detonadoras.
 >Es un mecanismo de asignación de recursos y funciona mediante **incentivos**. El incentivo clásico es el sistema de precios. 
 Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía).
 
+An **incentive** is something (such as the prospect of a punishment or reward) that 
+induces a person to act. Because **rational people** make decisions by comparing 
+**costs** and **benefits**, they respond to incentives. 
 
-We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
+> We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
 
 The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
 
