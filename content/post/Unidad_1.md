@@ -196,19 +196,19 @@ Es una disciplina con una dependencia fundamental en supuestos cuyo cumplimiento
 A pesar de las limitaciones evidentes, el marco de análisis nos permite contar con una base para comprender el marco de toma de decisiones en torno al uso eficiente de los recursos hídricos. Y dado que se trata de un disciplina en el campo de las ciencias sociales, aporta elementos para el diseño de propuestas de solución ante los restos que la GIRH plantea.  
 
 
-Una crítica a las bases teóricas del planteamiento de modelos en economia se dirige a la Toma de decisiones bajo el supuesto de **RACIONALIDAD**, un supuesto heróico!  Ver crítica de [The Framing of Decisions and the Psychology of Choice](https://drive.google.com/file/d/19JZZkPIljjmhoteLqSdB50wS1yTYT3VN/view?usp=sharing) Amos Tversky; Daniel Kahneman (2001 Nobel Laurate in Economics).
+Una crítica a las bases teóricas del planteamiento de modelos en economia se dirige a la toma de decisiones bajo el supuesto de **RACIONALIDAD**, un supuesto heróico!  Ver crítica de [The Framing of Decisions and the Psychology of Choice](https://drive.google.com/file/d/19JZZkPIljjmhoteLqSdB50wS1yTYT3VN/view?usp=sharing) Amos Tversky; Daniel Kahneman (2001 Nobel Laurate in Economics).
 
 
 
 #### Tarea  1  
 
-(Control de Lectura  5%)  **Tema:** La noción de Escasez en el contexto de GIRH. Entrega miércoles 5 Septiembre
+(Control de Lectura  5%)  **Tema:** La noción de Escasez en el contexto de GIRH. 
 
 [Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Global outlook for water scarcity, food security, and hydropower de Mark W. Rosegrant (Capitulo 1).
 
 #### Tarea 2 
 
-(Control de Lectura 5% 1 cuartilla, entrega Viernes 7 Septiembre)
+(Control de Lectura 5% 1 cuartilla)
 Lectura y discusión de:
 
 [Book Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
@@ -226,8 +226,13 @@ Preguntas detonadoras.
 
 ## El mercado como mecanísmo de asignación de recursos. 
 
+¿Qué es el mercado? 
+
+>Es un mecanismo de asignación de recursos y funciona mediante **incentivos**. El incentivo clásico es el sistema de precios. 
+Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía)
+
 Teoría de la demanda.
-Determiantes de la demanda. Ingresos, preciso, preferencias. 
+Determiantes de la demanda. Ingresos, precios, preferencias. 
 
 * D=f(-P,+I,pr)
 
