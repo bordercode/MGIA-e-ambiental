@@ -15,30 +15,28 @@ Comprender los conceptos fundamentales de economía como disciplina para el aná
 
 
 
-# Conceptos fundamentales de Economía
+### Economía. Conceptos fundamentales. 
 
 *“Only what is rare is valuable, and water, which is the best of all things…is also the cheapest.” – Plato.*
 
 
 
-##### Definiciones.
 
+Una motivación central en economía. **escasez** de recursos . 
 
-El concepto de  **escasez** una motivación central en economía. 
+Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
-Economía como una disciplina científica centrada en la toma de **decisiones**.
+El instrumental desarrollado para el análisis económico: Los **supuestos** y el papel de los **modelos.**
+
 
 Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la Gestión Integral de los Recurosos Hídricos (GIRH).
 
-Un objetivo principal en economía es la **asigación óptima** de los recursos disponibles dado un contexto de escasez. 
-
-Dos retos que surgen en este contexto es el balance entre escenarios de asignación  **eficientes** y aquellos **equitativos**.
-
-La definición del sistema para regular la propiedad de RH es una de las áreas de aplicación de mayor dinamísmo de los principios de economía. 
-
-Básicamente debido a la creciente **demanda** por RH , que se expreza en una  competencia cada vez más intensa entre usuarios. (una manifestación evidente del fenómeno de escasez).
 
 ### Costos de oportunindad 
+
+[Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
+
+Discutir la nocion de costos directos en contraste con los **costos de oportunidad** Ej, el valor (el uso alternativo de los recuross) de las alternativas rechazadas al decidir por un proyecto particular. 
 
 
 [Capítulo 19 Routledge Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) 
@@ -49,10 +47,30 @@ Leer y comentar en Disqus. (Tiempo asignado 30 minutos)
 
 
 
-## Principales enfoque desde economía para atender la gestion de recursos hidricos.
+[Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua))
+
+
+
+Un objetivo principal en economía es la **asigación óptima** de los recursos disponibles dado un contexto de escasez. 
+
+
+Dos retos que surgen en este contexto es el balance entre escenarios de asignación  **eficientes** y aquellos **equitativos**.
+
+Ejemplo de algunas acciones que se toman en el marco de la crisis de escasez de agua en Monterrey. estas muestran la importancia del paradígma de **eficiencia.**
+
+
+*Nueva tarifa para incentivar el ahorro y valor del agua.*
+
+
+La definición del sistema para regular la propiedad de RH es una de las áreas de aplicación de mayor dinamísmo de los principios de economía. 
+
+Básicamente debido a la creciente **demanda** por RH, que se expreza en una  competencia cada vez más intensa entre usuarios. (Una manifestación evidente del fenómeno de escasez).
+
+
+## Principales enfoques desde economía para atender la gestión de recursos hidricos.
 
 #### Economía Ambiental: 
-Ofrece na aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
+Ofrece una aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
 naturales al instrumental de análisis 
 **neoclásfico** (agentes racionales que maximizan un función objetivo).  En este enfoque el crecimiento 
 puede continuar más allá de los límites 
@@ -87,7 +105,7 @@ A propósito de escuelas del pensamiento y sus divergencias...
 (J.W. Goethe, 1817, Principles of Natural Science)
 
 
-Cuando tratamos de los RH, la aplicación del principio de utilidad marginal y la noción de valor enteramente requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. 
+Cuando tratamos de los RH, la aplicación del principio de **utilidad marginal** y la noción de valor enteramente requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. 
 
 Pensemos en los **servicios ambientales** por ejemplo que proporcionan las corrientes superficiales de agua. 
 
