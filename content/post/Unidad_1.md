@@ -20,7 +20,10 @@ Comprender los conceptos fundamentales de economía como disciplina para el aná
 *“Only what is rare is valuable, and water, which is the best of all things…is also the cheapest.” – Plato.*
 
 
+Nota sobre la perspectiva de esta clase: 
 
++ Microeconomía
++ Macroeconomía
 
 Una motivación central en economía. **escasez** de recursos . 
 
@@ -68,8 +71,6 @@ En síntesis en este modelo básico vemos los siguientes conceptos fundamentales
 ----------
 
 La definición del sistema para regular la propiedad de RH es una de las áreas de aplicación de mayor dinamísmo de los principios de economía. 
-
-Básicamente debido a la creciente **demanda** por RH, que se expreza en una  competencia cada vez más intensa entre usuarios. (Una manifestación evidente del fenómeno de escasez).
 
 
 ## Principales enfoques desde economía para atender la gestión de recursos hidricos.
