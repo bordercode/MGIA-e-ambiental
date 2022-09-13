@@ -28,6 +28,13 @@ The study of how households and firms make decisions and how they interact in sp
 
 + Macroeconomía
 
+
+#### Enfoques 
+
++ **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública.
+
++ Positivo
+
 ### Economía. Conceptos fundamentales. 
 
 Una motivación central en economía. **escasez** de recursos . 
@@ -104,7 +111,7 @@ del medio ambiente.
 Una cuestión central para economía es la **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la utilidad marginal, esta entendida como un beneficio derivado del consumo de unidades subsecuentes de un bien, se asume que es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
 [Utilitarismo](http://www.hetwebsite.net/het/schools/utilitarian.htm) 
 
-**Principios de economía:** 
+**Principios de Microeconomía:** 
 
 Utilidad Marginal y Curva de demanda: 
 
