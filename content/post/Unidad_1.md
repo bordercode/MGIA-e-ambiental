@@ -55,34 +55,15 @@ La siguiente figura muestra que el modelo de la **FPP** no es estático de hecho
 
 ![](\img\PPF2.jpg)
 
-Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos no directos o  *implícitos* (**costos de oportunidad**) son de particular importancia cuando tratamos con la **Gestión Integral de los Recursos Hídricos** (GIRH).
 
-### Costos de oportunindad 
+En síntesis en este modelo básico vemos los siguientes conceptos fundamentales del instrumental economico: 
 
-[Proyectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
++ Escasez
++ Costos de oportunidad
++ Eficiencia
++ Crecimieto económico
 
-Discutir la nocion de costos directos en contraste con los **costos de oportunidad** Ej, el valor (el uso alternativo de los recuros) de las alternativas rechazadas al decidir por un proyecto particular. 
-
-
-[Capítulo 19 Routledge Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) 
-
-TRADE OFFS. Fish, farmers, and energy on the columbia.
-El concepto y aplicación a caso de estudio.
-Leer y comentar en Disqus. (Tiempo asignado 30 minutos) 
-
-
-
-[Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
-
-
-
-Un objetivo principal en economía es la **asigación óptima** de los recursos disponibles dado un contexto de escasez. 
-
-
-Dos retos que surgen en este contexto es el balance entre escenarios de asignación  **eficientes** y aquellos **equitativos**.
-
-Ejemplo de algunas acciones que se toman en el marco de la crisis de escasez de agua en Monterrey. estas muestran la importancia del paradígma de **eficiencia.**  *Nueva tarifa para incentivar el ahorro y valor del agua.*
-
+----------
 
 La definición del sistema para regular la propiedad de RH es una de las áreas de aplicación de mayor dinamísmo de los principios de economía. 
 
