@@ -28,6 +28,11 @@ Economía como una disciplina científica centrada en la toma de **decisiones**.
 
 El instrumental desarrollado para el análisis económico: Los **supuestos** y el papel de los **modelos.**
 
+Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducción al entorno de la GIRH. 
+
+![](/img/circular.jpg)
+
+![](/img/hydrological_model.jpg)
 
 Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la Gestión Integral de los Recurosos Hídricos (GIRH).
 
