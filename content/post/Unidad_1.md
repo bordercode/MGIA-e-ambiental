@@ -36,6 +36,16 @@ Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducc
 ![](/img/hydrological_model.jpg)
 *Surce: The price of water Stephen Merrett*
 
+
+La escasez expresada por la frontera de posibilidades de producción. 
+
+![](/img/PPF.jpg)
+
+Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada como fronera).
+
+Un escenario de producción fuera de la frontera no es asequible.
+
+
 Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos no directos o  *implícitos* (**costos de oportunidad**) son de particular importancia cuando tratamos con la **Gestión Integral de los Recursos Hídricos** (GIRH).
 
 ### Costos de oportunindad 
@@ -267,7 +277,8 @@ induces a person to act. Because **rational people** make decisions by comparing
 
 The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
 
-Teoría de la demanda.
+#### Teoría de la demanda.
+
 Determiantes de la demanda. Ingresos, precios, preferencias. 
 
 * D=f(-P,+I,pr)
