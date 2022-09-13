@@ -224,12 +224,19 @@ Preguntas detonadoras.
 4. Señale los elementos principales que intervienen en el contexto económico de los recursos hídricos. 
 
 
-## El mercado como mecanísmo de asignación de recursos. 
 
-¿Qué es el mercado? 
+
+### ¿Qué es el mercado? 
+
+##### El mercado como mecanísmo de asignación de recursos. 
 
 >Es un mecanismo de asignación de recursos y funciona mediante **incentivos**. El incentivo clásico es el sistema de precios. 
-Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía)
+Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía).
+
+
+We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
+
+The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
 
 Teoría de la demanda.
 Determiantes de la demanda. Ingresos, precios, preferencias. 
