@@ -40,7 +40,7 @@ Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los co
 
 ### Costos de oportunindad 
 
-[Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
+[Proyectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
 
 Discutir la nocion de costos directos en contraste con los **costos de oportunidad** Ej, el valor (el uso alternativo de los recuross) de las alternativas rechazadas al decidir por un proyecto particular. 
 
