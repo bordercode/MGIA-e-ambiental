@@ -14,18 +14,21 @@ Comprender los conceptos fundamentales de economía como disciplina para el aná
 #### Tiempo de la sesión: 2 horas. 
 
 
+#### Introducción 
 
-### Economía. Conceptos fundamentales. 
 
 *“Only what is rare is valuable, and water, which is the best of all things…is also the cheapest.” – Plato.*
 
 
 Nota sobre la perspectiva de esta clase: 
 
-+ Microeconomía: The study of how households and firms make decisions.
++ Microeconomía: 
 
-and how they interact in specific markets
+The study of how households and firms make decisions and how they interact in specific markets.
+
 + Macroeconomía
+
+### Economía. Conceptos fundamentales. 
 
 Una motivación central en economía. **escasez** de recursos . 
 
