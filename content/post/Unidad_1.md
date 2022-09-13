@@ -43,12 +43,17 @@ La escasez expresada por la frontera de posibilidades de producción.
 
 + Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada como frontera de posibilidades de producción).
 
-+ Los puntos que componene la curva implican niveles de producción eficientes ya que representan el uso total de los recursos disponibles.
++ Los puntos que componene la curva implican niveles de producción **eficientes** ya que representan el uso total de los recursos disponibles.
 
-+ Importante notar que la pendiente de la FPP mide el costo de oportunidad y este varia dependiendo de la cantidad de producción de los bienes en la economía. 
++ Importante notar que la pendiente de la **FPP** mide el **costo de oportunidad** y este varia dependiendo de la cantidad de producción de los bienes en la economía. No hay forma de producir mas de un bien sin producir menos de otro. 
+
++ El costo de oportunidad en la FPP se expreza  por la **pendiente**. A medida que los recursos se dirigen a la producción de un bien derterminado, la producción de unidades adicionales tiene un un costo de oportnidad mayor.    
 
 Un escenario de producción fuera de la frontera no es asequible.
 
+La siguiente figura muestra que el modelo de la **FPP** no es estático de hecho permite introducir un concepto muy importante: la **innovación tecnologica**  Ante la presencia de una innovación tecnológica, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
+
+![](\img\PPF2.jpg)
 
 Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos no directos o  *implícitos* (**costos de oportunidad**) son de particular importancia cuando tratamos con la **Gestión Integral de los Recursos Hídricos** (GIRH).
 
