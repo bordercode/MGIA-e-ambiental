@@ -34,12 +34,13 @@ Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducc
 *Source: Gregory Mankiw*
 
 ![](/img/hydrological_model.jpg)
-*Surce: The price of water Stephen Merrett*
+*Source: The price of water Stephen Merrett*
 
 
 La escasez expresada por la frontera de posibilidades de producción. 
 
 ![](/img/PPF.jpg)
+*Source: Gregory Mankiw Principles of economics*
 
 + Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada como frontera de posibilidades de producción).
 
@@ -55,7 +56,7 @@ La siguiente figura muestra que el modelo de la **FPP** no es estático de hecho
 Ante la presencia de una **innovación tecnológica**, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
 
 ![](/img/PPF2.jpg)
-
+*Source: Gregory Mankiw Principles of economics* 
 
 En síntesis en este modelo básico vemos los siguientes conceptos fundamentales del instrumental economico: 
 
