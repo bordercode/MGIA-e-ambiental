@@ -36,7 +36,7 @@ Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducc
 ![](/img/hydrological_model.jpg)
 *Surce: The price of water Stephen Merrett*
 
-Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos no directos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la **Gestión Integral de los Recursos Hídricos** (GIRH).
+Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos no directos o  *implícitos* (**costos de oportunidad**) son de particular importancia cuando tratamos con la **Gestión Integral de los Recursos Hídricos** (GIRH).
 
 ### Costos de oportunindad 
 
