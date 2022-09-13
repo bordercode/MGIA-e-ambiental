@@ -41,7 +41,11 @@ La escasez expresada por la frontera de posibilidades de producción.
 
 ![](/img/PPF.jpg)
 
-Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada como fronera).
++ Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada como frontera de posibilidades de producción).
+
++ Los puntos que componene la curva implican niveles de producción eficientes ya que representan el uso total de los recursos disponibles.
+
++ Importante notar que la pendiente de la FPP mide el costo de oportunidad y este varia dependiendo de la cantidad de producción de los bienes en la economía. 
 
 Un escenario de producción fuera de la frontera no es asequible.
 
