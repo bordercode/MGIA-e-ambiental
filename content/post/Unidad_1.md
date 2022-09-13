@@ -22,7 +22,9 @@ Comprender los conceptos fundamentales de economía como disciplina para el aná
 
 Nota sobre la perspectiva de esta clase: 
 
-+ Microeconomía
++ Microeconomía: The study of how households and firms make decisions.
+
+and how they interact in specific markets
 + Macroeconomía
 
 Una motivación central en economía. **escasez** de recursos . 
