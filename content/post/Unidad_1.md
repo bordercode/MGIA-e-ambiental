@@ -36,7 +36,6 @@ Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducc
 
 Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la Gestión Integral de los Recurosos Hídricos (GIRH).
 
-
 ### Costos de oportunindad 
 
 [Poryectos a largo plazo NL](https://www.nl.gob.mx/planmaestro-agua)
