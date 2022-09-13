@@ -23,9 +23,10 @@ Comprender los conceptos fundamentales de economía como disciplina para el aná
 
 ##### Definiciones.
 
+
 El concepto de  **escasez** una motivación central en economía. 
 
-Economía como una disciplina científica centrada en la toma de *decisiones*.
+Economía como una disciplina científica centrada en la toma de **decisiones**.
 
 Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la Gestión Integral de los Recurosos Hídricos (GIRH).
 
@@ -47,6 +48,27 @@ El concepto y aplicación a caso de estudio.
 Leer y comentar en Disqus. (Tiempo asignado 30 minutos) 
 
 
+
+## Principales enfoque desde economía para atender la gestion de recursos hidricos.
+
+#### Economía Ambiental: 
+Ofrece na aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
+naturales al instrumental de análisis 
+**neoclásfico** (agentes racionales que maximizan un función objetivo).  En este enfoque el crecimiento 
+puede continuar más allá de los límites 
+del ambiente físico.
+
+
+#### Economía Ecológica
+
+Propone un enfoque interdisciplinario que incorpora principios eticos y la perspectiva de biología; este paradigma supone la interrelación bajo un marco teórico orientado a los sistemas 
+complejos.
+
+En economía ambiental el **medio ambiente** es un sub conjunto del sistema económico.
+
+Mientras que en **economía ecológica** la economía es un subsistema 
+del medio ambiente.
+
 ### Determinación del valor de los RH. 
 
 Una cuestión central para economía es la **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la utilidad marginal, esta entendida como un beneficio derivado del consumo de unidades subsecuentes de un bien, se asume que es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
@@ -65,7 +87,9 @@ A propósito de escuelas del pensamiento y sus divergencias...
 (J.W. Goethe, 1817, Principles of Natural Science)
 
 
-Cuando tratamos de los RH, la aplicación del principio de utilidad marginal y la noción de valor enteramente requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. Pensemos en los servicios ambientales por ejemplo que proporcionan las corrientes superficiales de agua. 
+Cuando tratamos de los RH, la aplicación del principio de utilidad marginal y la noción de valor enteramente requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. 
+
+Pensemos en los **servicios ambientales** por ejemplo que proporcionan las corrientes superficiales de agua. 
 
 Otros escenarios comunes de aplicación del instrumental de economía incluyen: 
 
