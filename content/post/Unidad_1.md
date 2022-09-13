@@ -31,10 +31,12 @@ El instrumental desarrollado para el análisis económico: Los **supuestos** y e
 Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducción al entorno de la GIRH. 
 
 ![](/img/circular.jpg)
+*Source: Gregory Mankiw*
 
 ![](/img/hydrological_model.jpg)
+*Surce: The price of water Stephen Merrett*
 
-Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la Gestión Integral de los Recurosos Hídricos (GIRH).
+Implicaciones en el proceso de toma de decisiones. *Costos* especialmente los costos no directos implícitos (**costos de oportunidad**) son de particular importancia cuando tratamos con la **Gestión Integral de los Recursos Hídricos** (GIRH).
 
 ### Costos de oportunindad 
 
