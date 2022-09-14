@@ -26,7 +26,7 @@ Nota sobre la perspectiva de esta clase:
 
 The study of how households and firms make decisions and how they interact in specific markets.
 
-+ Macroeconomía
++ Macroeconomía: The study of aggregate activity: Production levels, inflation, employment.
 
 
 #### Enfoques 
