@@ -39,7 +39,14 @@ Decidir lo que es bueno o malo no es una cuestión que se ubica en el terreno de
 
 ### Economía. Conceptos fundamentales. 
 
-Una motivación central en economía. **escasez** de recursos . 
+Una motivación central en economía. **escasez** de recursos.
+
+Propuesta de **Robert Malthus** sobre el futuro de la Humanidad ante el hecho ineludible de la escasez, especialmente aplicada al escenario de los recursos naturales.
+
+Básicamente debido a la creciente **demanda** por Recursos Hídricos, que se expreza en una  **competencia** cada vez más 
+intensa entre usuarios. (Una 
+manifestación evidente del fenómeno de escasez).
+
 
 Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
@@ -59,23 +66,23 @@ La escasez expresada por la frontera de posibilidades de producción.
 ![](/img/PPF.jpg)
 *Source: Gregory Mankiw Principles of economics*
 
-+ Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada como frontera de posibilidades de producción).
++ Note que las combinaciones de producción posibles se ubican dentro o sobre la curva (denominada frontera de posibilidades de producción).
 
-+ Los puntos que componene la curva implican niveles de producción **eficientes** ya que representan el uso total de los recursos disponibles.
++ Los puntos que componen la curva implican niveles de producción **eficientes** ya que representan el uso total de los recursos disponibles. Un escenario ineficiente se muestra por niveles de producción al interior de esta curva.
 
-+ Importante notar que la pendiente de la **FPP** mide el **costo de oportunidad** y este varia dependiendo de la cantidad de producción de los bienes en la economía. No hay forma de producir mas de un bien sin producir menos de otro. 
++ Importante notar que la pendiente de la **FPP** mide el **costo de oportunidad** y este varia dependiendo de la cantidad de producción de los bienes en la economía. No hay forma de producir más de un bien sin producir menos de otro. 
 
 + El costo de oportunidad en la FPP se expreza  por la **pendiente**. A medida que los recursos se dirigen a la producción de un bien derterminado, la producción de unidades adicionales tiene un un costo de oportnidad mayor.    
 
 Un escenario de producción fuera de la frontera no es asequible.
 
-La siguiente figura muestra que el modelo de la **FPP** no es estático de hecho permite introducir un concepto muy importante: la **innovación tecnologica** que lleva al **crecimiento económico**  
+La siguiente figura muestra que el modelo de la **FPP** no es estático, de hecho permite introducir un concepto muy importante: la **innovación tecnologica** que lleva al **crecimiento económico**  
 Ante la presencia de una **innovación tecnológica**, lo que permite alcanzar niveles superiores de producción ej. las posibilidades productivas se expaden y la relación de costos de oportunidad se ajusta. 
 
 ![](/img/PPF2.jpg)
-*Source: Gregory Mankiw Principles of economics* 
+*Source: Gregory Mankiw. Principles of economics* 
 
-En síntesis en este modelo básico vemos los siguientes conceptos fundamentales del instrumental economico: 
+En síntesis, en este modelo básico, vemos los siguientes conceptos fundamentales del instrumental económico: 
 
 + Escasez
 + Costos de oportunidad
@@ -93,7 +100,9 @@ La definición del sistema para regular la propiedad de RH es una de las áreas 
 
 Ofrece una aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
 naturales al instrumental de análisis 
-**neoclásfico** (agentes racionales que maximizan un función objetivo).  En este enfoque el crecimiento 
+**neoclásfico** (agentes racionales que maximizan un función objetivo).
+
+En este enfoque el crecimiento 
 puede continuar más allá de los límites 
 del ambiente físico.
 
@@ -105,12 +114,13 @@ complejos.
 
 En economía ambiental el **medio ambiente** es un sub conjunto del sistema económico.
 
-Mientras que en **economía ecológica** la economía es un subsistema 
-del medio ambiente.
+Mientras que en **economía ecológica** la economía es un subsistema del medio ambiente.
 
 ### Determinación del valor de los RH. 
 
-Una cuestión central para economía es la **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la utilidad marginal, esta entendida como un beneficio derivado del consumo de unidades subsecuentes de un bien, se asume que es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
+Una cuestión central para economía es la **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la **utilidad marginal**, concepto que se entiende como un beneficio derivado del consumo de unidades adicionales de un bien.
+
+Se asume que la utilidad marginal es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
 [Utilitarismo](http://www.hetwebsite.net/het/schools/utilitarian.htm) 
 
 **Principios de Microeconomía:** 
@@ -130,7 +140,7 @@ A propósito de escuelas del pensamiento y sus divergencias...
 (J.W. Goethe, 1817, Principles of Natural Science)
 
 
-Cuando tratamos de los RH, la aplicación del principio de **utilidad marginal** y la noción de valor enteramente requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. 
+Cuando nos referimos a  menejo de RH, la aplicación del principio de **utilidad marginal**, la noción de valor  requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. 
 
 Pensemos en los **servicios ambientales** por ejemplo que proporcionan las corrientes superficiales de agua. 
 
@@ -214,15 +224,16 @@ Ver mapa de cuencas en
 Expresiones de la escasez a partir de la perspectiva de la demanda Distribución de RH en MX por usos. 
 
 
-+ Fig. 3.1 Usos definiciones y clasificación pag. 59 .
-+ Gráfica 3.2 Volumenes concesionados.pag 61
++ Fig. 3.1 Usos definiciones y clasificación pag. 59.
+
++ Gráfica 3.2 Volúmenes concesionados.pag 61
+
 + Mapa 3.2 Fuente predominante usos consuntivos pag. 62
 
 #### Actividad: Lectura para discusión en clase. 
 (15 minutos. Comente en Disqus).
 
 [Book Chapter. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo El estado del agua en México. Carlos A. López Morales, 2017 ver Sección 2 Disponibilidad del agua en México, usos económicos e indicadores de escasez, mapa Fig 1,2,3.  
-
 
 ### Pregunta
 
