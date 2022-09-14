@@ -125,7 +125,8 @@ Mientras que en **economía ecológica** la economía es un subsistema del medio
 
 ### Determinación del valor de los RH. 
 
-Una cuestión central para economía es la **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la **utilidad marginal**, concepto que se entiende como un beneficio derivado del consumo de unidades adicionales de un bien.
+Una cuestión central para economía es la
+**determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la **utilidad marginal**, concepto que se entiende como un beneficio derivado del consumo de unidades adicionales de un bien.
 
 Se asume que la utilidad marginal es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
 [Utilitarismo](http://www.hetwebsite.net/het/schools/utilitarian.htm) 
@@ -181,7 +182,11 @@ A propósito de conflictos...
 
 [Recurso Web](http://ocam.imta.mx/inicio.html) Observatorio de Conflictos por el Agua en México. 
 
+### Actividad Leer en clase.
 
+Monterrey acciones para atender la crisis por RH 2022.
+
+[]()
 
 ### Actividad. Leer en clase secciones 1.1 a 1.5.
 
@@ -301,6 +306,8 @@ induces a person to act. Because **rational people** make decisions by comparing
 > We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
 
 The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
+
+Dentro de las fallas del mercado veremos un subconjunto rederido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
 
 #### Teoría de la demanda.
 
