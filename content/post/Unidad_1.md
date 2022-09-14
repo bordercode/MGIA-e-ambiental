@@ -46,12 +46,14 @@ Exprezarse sobre lo que deberia ser o lo  que es bueno o malo no es una cuestió
 
 Una motivación central en economía. **escasez** de recursos.
 
-Propuesta de **Robert Malthus** sobre el futuro de la Humanidad ante el hecho ineludible de la escasez, especialmente aplicada al escenario de los recursos naturales.
+Se estima que para el año **2025** 2/3 de la población mundial se encontrará en condiciones de **estrés hídrico**.
+
 
 Básicamente debido a la creciente **demanda** por Recursos Hídricos, que se expreza en una  **competencia** cada vez más 
 intensa entre usuarios. (Una 
 manifestación evidente del fenómeno de escasez).
 
+Ya el  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez,planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
 
 Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
