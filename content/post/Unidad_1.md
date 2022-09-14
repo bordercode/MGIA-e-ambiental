@@ -26,16 +26,21 @@ Nota sobre la perspectiva de esta clase:
 
 The study of how households and firms make decisions and how they interact in specific markets.
 
-+ Macroeconomía: The study of aggregate activity: Production levels, inflation, employment.
++ Macroeconomía: 
+
+The study of aggregate activity: Production levels, inflation, employment.
 
 
 #### Enfoques 
 
 + **Normativo:** Involucra juicios de valor y depende de consideraciones éticas y perspectivas subjetivas de la realidad. Lo cual es útil en el terreno de diseño de política pública. Ejemplo: "Es injusto que los habitantes de Monterrey no tengan acceso a agua potable"
 
+Exprezarse sobre lo que deberia ser o lo  que es bueno o malo no es una cuestión que se ubica en el terreno de la **ciencia** propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor. 
 
-+ **Positivo** Un enfoque descriptivo, es objetivo por definición. Y es la base del análisis científico de economía. Ejemplo: "El volumen concesionado de agua subterránea en el acuifero excede 5 veces la capacidad de recarga." 
-Decidir lo que es bueno o malo no es una cuestión que se ubica en el terreno de la ciencia propiamente, ya que involucra un componente subjetivo que se deriva de las consideraciones éticas y valores del individuo que los hace e involucra juicios de valor. 
++ **Positivo** Un enfoque descriptivo, es objetivo por definición. E indica los hechos. Es la base del análisis científico de economía. 
+
+**Ejemplo:** "El volumen concesionado de agua subterránea en el acuifero "Los Medanos" excede en 500%  la capacidad de recarga." 
+
 
 ### Economía. Conceptos fundamentales. 
 
