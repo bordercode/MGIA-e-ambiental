@@ -56,10 +56,17 @@ manifestación evidente del fenómeno de escasez).
 
 El acceso de Recursos hidricos provee un ejemplo clasico de los desequilibrios entre oferta y demanda.  En México regiones enteras tienen patrones de extracción de agua que superar la capacidad de recarga de las fuentes de abasteciento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
+Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema de indadecuado tratamiento de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
+
+Alguna regiones compensan el desbalance con importaciones o travases entre areas con disponibilidad y areas de intensa demanda. 
+
+[Columna en NYT](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
+
+
 Ya el  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez,planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
 
 
-##### Exemplos de Extinción de civilizaciones e imperios
+##### Exemplos de Extinción de civilizaciones e imperios ante su relación con el medio ambiente.
 
 + Los Mayas [Artículo](https://www.pnas.org/doi/10.1073/pnas.1210106109). Sequía
 
