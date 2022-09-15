@@ -53,11 +53,30 @@ Básicamente debido a la creciente **demanda** por Recursos Hídricos, que se ex
 intensa entre usuarios. (Una 
 manifestación evidente del fenómeno de escasez).
 
+
+El acceso de Recursos hidricos provee un ejemplo clasico de los desequilibrios entre oferta y demanda.  En México regiones enteras tienen patrones de extracción de agua que superar la capacidad de recarga de las fuentes de abasteciento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
+
 Ya el  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez,planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
 
+
+##### Exemplos de Extinción de civilizaciones e imperios
+
++ Los Mayas [Artículo](https://www.pnas.org/doi/10.1073/pnas.1210106109). Sequía
+
++ Isla de Pascua.[Artículo](The simple economics of Easter Island: A Ricardo–Malthus model of renewable resource use. ) Deforestación y erosión. 
+
++ Imperio Romano. 
+
+See Text book page 3 *Environmental and Natural resource economics* de Tom Tietenberg y Lynne Lewis.
 Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
-El instrumental desarrollado para el análisis económico: Los **supuestos** y el papel de los **modelos.**
+
+En el pasado como sociedad hemos fallado en reconocer las concecuencias de este ineludible hecho. 
+
+##### El instrumental desarrollado para el análisis económico:
+
+
+Los **supuestos** y el papel de los **modelos.**
 
 Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducción al entorno de la GIRH. 
 
