@@ -31,14 +31,14 @@ Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico d
 
 En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
-Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  tratamiento indadecuado (o 
+Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  **tratamiento indadecuado** (o 
 nulo) de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
 
 Alguna regiones compensan el desbalance con importaciones o travases entre areas con disponibilidad y areas de intensa demanda. 
 
 [Columna en NYT: Caso Monterrey](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
 
-Ver las acciones del plan Maestro Monterrey en cuanto a proyectos de imporrtación []()
+Ver las acciones del plan Maestro Monterrey en cuanto a proyectos de imporrtación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
 Ya el  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
 
