@@ -1,6 +1,6 @@
 ---
 title: Sesion 1
-date: 2022-09-19
+date: 2022-09-16
 linktitle: Conceptos fundamentales de Economía
 menu:
   main:
