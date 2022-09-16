@@ -1,6 +1,6 @@
 ---
 title: Syllabus
-date: 2018-08-24
+date: 2022-09-01
 thumbnail: "img/Syllabus.png"
 linktitle: Syllabus
 menu:

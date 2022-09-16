@@ -91,7 +91,7 @@ b) Agua embotellada
 
 c) Agua residual tratada (Planta de tratamiento de aguas residuales). 
 
-d) Recursos hidricos subterráneos (Acuíferos).
+d) Recursos hídricos subterráneos (Acuíferos).
 
 
 **Actividad 1**. Leer * Garrett Hardin, The tragedy of the commons* . 

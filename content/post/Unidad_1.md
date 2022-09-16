@@ -1,10 +1,10 @@
 ---
-title: Unidad 1
-date: 2018-08-23
+title: Sesion 1
+date: 2022-09-19
 linktitle: Conceptos fundamentales de Economía
 menu:
   main:
-    name: Unidad 1
+    name: Sesion 1
     weight: 3
 ---
 #### Objetivos de aprendizaje de la sesión 1.  m
@@ -42,43 +42,6 @@ Exprezarse sobre lo que deberia ser o lo  que es bueno o malo no es una cuestió
 **Ejemplo:** "El volumen concesionado de agua subterránea en el acuifero "Los Medanos" excede en 500%  la capacidad de recarga." 
 
 
-### Economía. Conceptos fundamentales. 
-
-Una motivación central en economía. **escasez** de recursos.
-
-Se estima que para el año **2025** 2/3 de la población mundial se encontrará en condiciones de **estrés hídrico**.
-
-
-Básicamente debido a la creciente **demanda** por Recursos Hídricos, que se expreza en una  **competencia** cada vez más 
-intensa entre usuarios. (Una 
-manifestación evidente del fenómeno de escasez).
-
-
-El acceso de Recursos hidricos provee un ejemplo clasico de los desequilibrios entre oferta y demanda.  En México regiones enteras tienen patrones de extracción de agua que superar la capacidad de recarga de las fuentes de abasteciento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
-
-Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema de indadecuado tratamiento de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
-
-Alguna regiones compensan el desbalance con importaciones o travases entre areas con disponibilidad y areas de intensa demanda. 
-
-[Columna en NYT](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
-
-
-Ya el  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez,planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
-
-
-##### Exemplos de Extinción de civilizaciones e imperios ante su relación con el medio ambiente.
-
-+ Los Mayas [Artículo](https://www.pnas.org/doi/10.1073/pnas.1210106109). Sequía
-
-+ Isla de Pascua.[Artículo](The simple economics of Easter Island: A Ricardo–Malthus model of renewable resource use. ) Deforestación y erosión. 
-
-+ Imperio Romano. 
-
-See Text book page 3 *Environmental and Natural resource economics* de Tom Tietenberg y Lynne Lewis.
-Economía como una disciplina científica centrada en la toma de **decisiones**. 
-
-
-En el pasado como sociedad hemos fallado en reconocer las concecuencias de este ineludible hecho. 
 
 ##### El instrumental desarrollado para el análisis económico:
 
@@ -159,8 +122,39 @@ Se asume que la utilidad marginal es decreciente. Economistas del periodo clási
 
 **Principios de Microeconomía:** 
 
-Utilidad Marginal y Curva de demanda: 
+### Utilidad Marginal y Curva de demanda: 
 
+La utilidad que obtenemos por el consumo de unidades adicionales es decreciente, esto implica un costo de oportunidad creciente por unidad y una relación inversa respecto al precio. 
+
+**El precio refleja la disponibilidad a pagar** por parte del consumidor y dado que la utilidad que obtiene de consumir unidades adicionales de un bien particular, su disponibilidad a pagar por unidades adicionales decrece. 
+
+Hay una relación inversa entre cantidad demandad y el precio  
+
+
+#### Teoría de la demanda.
+
+Determiantes de la demanda son Ingresos, precios, preferencias. 
+
+* D=f(-P,+I,pr)
+
+Curva de demanda con pendiente negativa refleja el fenómeno de utilidad marginal decreciente. Unidaes adicionales de consumo representan un incremento cada vez menor de la utilidad asociada al consumo.  
+
+Teoría de la Oferta. 
+O=f(+C). La curva de oferta refleja el fenómeno de rendimiento marginal decreciente. El supuesto de esta teoría es la existencia de factores productivos ej. tierra trabajo, capital. El inclremento de uno de estos factores (trabajo) manteneindo fijo el resto de los factores implica una aportación cada vez menor sobre la producción. 
+Equilibrio del mercado y determinación del precio. Este se obtiene por la interacción de los procesos de oferta y demanda. 
+
+Los desequilibrios emergentes en el contexto del mercado por RH pueden clasificarse como relacionados al manejo de la Demanda o bien por los mecanismos que promueven la oferta. 
+
+
+
+![](/img/demand-supply.jpg)
+
+**Ejercicio**
+
+Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y clasifique las medidas propuestas como promotoras de demanda o de la oferta. 
+
+![](MTY project url....here)
+------------------------
 
 
 El desarrollo conceptual de la noción de valor   ha transitado diversos enfoques que se han sustentado en escuelas de pensamiento a lo largo de los siglos. Thomas Hobbes en Inglaterra *was very proud of the fact that he had found, in the pleasure-pain calculus, the single underlying spring for all human action*. 
@@ -186,33 +180,7 @@ Otros escenarios comunes de aplicación del instrumental de economía incluyen:
 
 * Toma de decisiones sobre proyectos de infraestructura (análisis costo-beneficio). 
 
-Un elemento a tener en cuenta en la implementación del instrumental de economía para el análisis de los recursos hídricos es el alto grado de **injerencia pública**, lo que propocia la aparición de  **CONFLICTO** 
 
-A propósito de conflictos... 
-
-*“Whiskey is for drinking; water is for fighting.”  Mark Twain.*
-
-*The fight will continue as long as water is allocated by politics instead of the market.  Wall Street Journal 1983 by Terry L. Anderson.*
-
-**Ejemplos** de conflictos por el agua en México recientemente. 
-
-* Acueducto Independencia. Dotación de Agua a Ciudad de Hermosillo con RH de región sur del estado. Conflicto pueblo Yaqui vs. Cd. Hermosillo. Sugerencia leer libro **Despojo de agua en la cuenca del río Yaqui de José Luis Moreno Vázquez**. 
-[reseña](<http://www.redalyc.org/pdf/600/60047003013.pdf>) 
-
-
-* Acueducto Monterrey VI. Obra hidráulica para llevar agua a la **zona metropolitana de MTY** de la capital neolonesa desde el **Río Pánuco** en el estado de Veracruz a través de una tubería de 372 kilómetros. "El proyecto hidráhulico, anunciado en octubre de 2012 y que costaría unos 47,000 millones de pesos, ha sido cuestionado por organismos empresariales, ambientalistas y civiles, que consideran que el acueducto de 372 kilómetros ocasionaría daños al medio ambiente."
-
-* Presa y acueducto El Zapotillo: Consiste en la construcción de Presa en el sitio “El Zapotillo”, sobre el Río Verde, en Yahualica Jalisco, y un acueducto de 140 kilómetros de longitud para conducir 5.6 metros cúbicos por segundo; 3.8 m3 para abastecer a la ciudad de León y 1.8 m3  para 14  localidades de los Altos de Jalisco, además, de un beneficio adicional para regular un escurrimiento de 3 m3 / seg,  para abastecer a la Zona Metropolitana de Guadalajara,  con lo que se atenderá la demanda de toda una región  para  los próximos años.
-[Proyecto](http://www.guanajuato.gob.mx/ceag/rio-verde.php) [Artículo](http://www.scielo.org.mx/pdf/argu/v27n74/v27n74a9.pdf) de Raúl Pacheco Vega, 2014.
-
-
-[Recurso Web](http://ocam.imta.mx/inicio.html) Observatorio de Conflictos por el Agua en México. 
-
-### Actividad Leer en clase.
-
-Monterrey acciones para atender la crisis por RH 2022.
-
-[]()
 
 ### Actividad. Leer en clase secciones 1.1 a 1.5.
 
@@ -229,57 +197,6 @@ And, when we set prices for water usage, should we charge dramatically more for 
 Determining **the value of water**, as opposed to setting its **price**, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
 future **supply** of water and the **demands** likely to be made on that **supply**.
 
-#### Ejemplo 1
-
-Expresiones del concepto de escasez en México, distribución de RH en México. Notables contrastes en la disponibilidad  del recurso a escala regional.
-
-[Descriptive Statistics. MX Water Resources](https://sina.conagua.gob.mx/publicaciones/EAM_2019.pdf)
-
-**Revisar en clase los datos de página 7 (sección 1.3 sobre datos PIB) y 1.5 sobre RHA de MX** 1.6, 1.7 (contraste regional).
-
-
-Datos base para la GIRH y la aplicación de los conceptos de Economía ambiental al contexto Mexicano.
-
-+ 653 Acuíferos
-+ 158 Cuencas
-+ 37 RH
-+ 13 RHA
-
-Ver mapa de cuencas en 
-[ArcGis](https://drive.google.com/file/d/19RFT_Xiulo2X1LeQOfyDma7VYZSvyJxs/view?usp=sharing)
-
-34.84/(54.48+34.84)
-
-
-+ Fig .1.3 Regiones Hidrológicas p 12
-+ Fig 2.2 Perfiles de precipitación. p 23 y 25 ver fig 2.3 Anomalias de precipitación.
-+ Fig. 2.4 Sequía . p 30.
-+ Fig. 2.5 Cuencas transfronterizas pag. 36.
-+ Fig 2.7 Acuiferos Sobre Explotados. p 42.
-+ Fig 2.8 Acuíferos con intrusión salina. p 43.
-+ Fig 2.2 653 acuíferos. p18
-
-Expresiones de la escasez a partir de la perspectiva de la demanda Distribución de RH en MX por usos. 
-
-
-+ Fig. 3.1 Usos definiciones y clasificación pag. 59.
-
-+ Gráfica 3.2 Volúmenes concesionados.pag 61
-
-+ Mapa 3.2 Fuente predominante usos consuntivos pag. 62
-
-#### Actividad: Lectura para discusión en clase. 
-(15 minutos. Comente en Disqus).
-
-[Book Chapter. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo El estado del agua en México. Carlos A. López Morales, 2017 ver Sección 2 Disponibilidad del agua en México, usos económicos e indicadores de escasez, mapa Fig 1,2,3.  
-
-### Pregunta
-
-1.-Describa las variables empleadas para el cálculo de los indicadores inverso de Falkenman y el  explotación hídrica.
-
-2.- ¿Qué RHA muestra el escenario de mayor explotación según el IEH?
-
-
 
 *Nota:* Es importante advertir la debilidad del instrumental de la economía para resolver los retos de la gestión integral de los recursos hídricos. 
 
@@ -289,31 +206,6 @@ A pesar de las limitaciones evidentes, el marco de análisis nos permite contar 
 
 
 Una crítica a las bases teóricas del planteamiento de modelos en economia se dirige a la toma de decisiones bajo el supuesto de **RACIONALIDAD**, un supuesto heróico!  Ver crítica de [The Framing of Decisions and the Psychology of Choice](https://drive.google.com/file/d/19JZZkPIljjmhoteLqSdB50wS1yTYT3VN/view?usp=sharing) Amos Tversky; Daniel Kahneman (2001 Nobel Laurate in Economics).
-
-
-
-#### Tarea  1  
-
-(Control de Lectura  5%)  **Tema:** La noción de Escasez en el contexto de GIRH. 
-
-[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Global outlook for water scarcity, food security, and hydropower de Mark W. Rosegrant (Capitulo 1).
-
-#### Tarea 2 
-
-(Control de Lectura 5% 1 cuartilla)
-Lectura y discusión de:
-
-[Book Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
-
-Preguntas detonadoras. 
-
-1. Indique los umbrales que definen los conceptos de estrés hídrico, escasez hídrica y escasez hídrica absolta  en términos percápita por año.   
-
-2. Describa los retos asociados con las proyecciones de escasez hidrica a escala global en la proximas décadas.
-
-3. Indique la proporción de recursos hídricos que se dedican a irrigación en actividades como la producción de alimentos mediante  agricultura a escala global. 
-
-4. Señale los elementos principales que intervienen en el contexto económico de los recursos hídricos. 
 
 
 
@@ -335,19 +227,6 @@ The **market**, as cold as it may seem, follows rules, set by humans and as such
 
 Dentro de las fallas del mercado veremos un subconjunto rederido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
 
-#### Teoría de la demanda.
-
-Determiantes de la demanda. Ingresos, precios, preferencias. 
-
-* D=f(-P,+I,pr)
-
-Curva de demanda con pendiente negativa refleja el fenómeno de utilidad marginal decreciente. Unidaes adicionales de consumo representan un incremento cada vez menor de la utilidad asociada al consumo.  
-
-Teoría de la Oferta. 
-O=f(+C). La curva de oferta refleja el fenómeno de rendimiento marginal decreciente. El supuesto de esta teoría es la existencia de factores productivos ej. tierra trabajo, capital. El inclremento de uno de estos factores (trabajo) manteneindo fijo el resto de los factores implica una aportación cada vez menor sobre la producción. 
-Equilibrio del mercado y determinación del precio. Este se obtiene por la interacción de los procesos de oferta y demanda. 
-
-Los desequilibrios emergentes en el contexto del mercado por RH pueden clasificarse como relacionados al manejo de la Demanda o bien por los mecanismos que promueven la oferta. 
 
 ### Actividad de particicpación en clase.
 (15 minutos)
@@ -384,7 +263,7 @@ La siguiente tabla muestra un ejemplo de estos montos por zona de disponibilidad
 
 ![](/img/art_223.jpg)
 
-**Pregunta**. ¿Por qué la cuota para agua subterránea es superior a la correspondiente a aguas superficial si en principio el agua superficial es menos escasa?
+**Pregunta**. ¿Por qué la cuota para agua subterránea es superior a la correspondiente a aguas superficial si en principio el agua superficial es menos abundante?
 
 Así la LFD publica las definiciones que permiten la estimación de los parámetros de disponibilidad de RH en el país. 
 
@@ -405,7 +284,7 @@ La figura siguiente muestra un ejemplo de esta aplicación para el caso Chihuahu
 
 [Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
 
-##### E.1 Estimación de sobre explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
+##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
 
 Estime los siguientes indicadores para los 653 acuíferos en México.
 
@@ -419,7 +298,7 @@ Estime los siguientes indicadores para los 653 acuíferos en México.
 
 - ¿Cuántos acuíferos por Zona se tienen en México?
 
-- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del pais se encuentra en situación de sobre explotación?
+- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
 
 - Emita su opinión sobre la pertienencia de utilizar el enfoque ivcas en contrsate con idas para detectar sobre explotación. (¿Qué proporción de acuiferos se encuentra en situación de sobre explotación bajo cada enfoqe?)
 
