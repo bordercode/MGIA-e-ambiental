@@ -10,7 +10,7 @@ menu:
      
 ### Economía. Conceptos fundamentales. 
 
-Una motivación central en economía. **escasez** de recursos.
+La **escasez** de recursos, un elemento central en el análisis de la ciencia  económica.
 
 Se estima que para el año **2025** 2/3 de la población mundial se encontrará en condiciones de **estrés hídrico**.
 
