@@ -7,6 +7,12 @@ menu:
     name: Preliminares escasez
     weight: 4
 ---
+#### Objetivos de aprendizaje de la sesión 2
+     
+Estudiar la relación entre la noción de escasez y el instrumental de análisis en economía. 
+
+     
+#### Tiempo de la sesión: 1 horas.     
      
 ### Economía. Conceptos fundamentales. 
 
