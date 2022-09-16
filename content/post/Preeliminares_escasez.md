@@ -21,6 +21,7 @@ La **escasez** de recursos, un elemento central en el análisis de la ciencia  e
 Se estima que para el año **2025** 2/3 de la población mundial se encontrará en condiciones de **estrés hídrico**.
 
 
+
 Básicamente debido a la creciente **demanda** por Recursos Hídricos, que se expreza en una  **competencia** cada vez más 
 intensa entre usuarios. (Una 
 manifestación evidente del fenómeno de escasez).
@@ -29,7 +30,14 @@ Acorde con el Banco Mundial: *"Within the next 3 decades, the global food system
 
 Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los desequilibrios entre oferta y demanda. 
 
-En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
+En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. Los datos sobre agua subterránea por ejemplo indican que **102 de los 653** acuíferos de la nación se encuentran sobreexplotados. 
+
+**Práctica Asignación 1  para Casa:**  Leer documento de investigación [Análisis del uso de los recursos hídricos subterráneos en el contexto de la producción de cerveza en la frontera norte de México](https://drive.google.com/file/d/1I4_nz-kLlaLHnx4e8sHeSVKCYIIoH4YO/view?usp=sharing)   y crear una composición de color RGB 8-4-3 (ej. infra rojo) en Qgis para detectar presencia de recursos hídricos en la zona donde se ubica la planta productora de cerveza Heineken de Meoqui, Chihuahua.  
+
+Requerimientos para realizar el ejercicio:  Instalar **Qgis** con plug in **SCP**, registrar una cta. en los sitios proveedores de imagenes: Copernicus, Landsat USG.
+
+Infomración para práctica adicional área de Cuauhtémoc Chihuahua.  Crear composición de color  NIR (843).
+[Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
 Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  **tratamiento indadecuado** (o 
 nulo) de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
@@ -55,10 +63,10 @@ El análisi de la escasez no es una preocupación nueva. Una exposición famosa 
 
 + **Isla de Pascua**.[Artículo](The simple economics of Easter Island: A Ricardo–Malthus model of renewable resource use. ) Deforestación y erosión. 
 
-+ **Imperio Romano.** (una metáfora sobre lo contrastante que puede ser una época de esplendor con abundantes recursos, tal como lo fue el Imperio Romano y la decadencia, la ruina. According to Gibbons, author que analiza la historia del Imperio Romano, 
-*"the the seeds for Rome’sdestruction were sown by the Empire itself."* 
+La decadencia del **Imperio Romano.** aunque no se debio a custiones ambientales es interesante por que nos  permite hacer una una metáfora sobre lo contrastante que puede ser una época de esplendor con abundantes recursos, tal como lo fue el Imperio Romano en su momento y la decadencia, la ruina. According to **Gibbons**, author que analiza la historia del Imperio Romano, 
+*"the  seeds for Rome’s destruction were sown by the Empire itself."* 
 
-¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada?) 
+¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada? 
 
 See Text book page 3 *Environmental and Natural resource economics* de Tom Tietenberg y Lynne Lewis.
 
@@ -94,8 +102,19 @@ A propósito de conflictos...
 
 Monterrey acciones para atender la crisis por RH 2022.
 
-[]()
+[Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
++ Ver caso del proyecto de  **Presa Vicente Guerrero**. Es una presa en **Tamaulipas**, con una dimensión 3 veces más grande que **El Cuchillo** y que por su ubicación es viable **llevar agua hacia Nuevo León**.
+
+**¿Qué reacción pueden tener los habitantes del estado de Tamaulipas ante esta propuesta?** 
+
+
++ Acuducto El Cuchillo II.
+
+Consiste en la construcción de un segundo ducto en la Presa El Cuchillo **(China, NL)** para extraer el doble de agua. Esto conforme al convenio y realizando las acciones de retorno necesarias.
+
+
+**¿Qué impacto tendrá en los usos actuales del Municipio de China, NL.?** 
 
 Expresiones del concepto de escasez en México, distribución de RH en México. Notables contrastes en la disponibilidad  del recurso a escala regional.
 
@@ -135,7 +154,7 @@ Ver mapa de cuencas en
 #### Actividad: Lectura para discusión en clase. 
 (15 minutos. Comente en Disqus).
 
-[Book Chapter. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo El estado del agua en México. Carlos A. López Morales, 2017 ver Sección 2 Disponibilidad del agua en México, usos económicos e indicadores de escasez, mapa Fig 1,2,3.  
+[Book Chapter. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo El estado del agua en México. Carlos A. López Morales, 2017 ver **Sección 2** Disponibilidad del agua en México, usos económicos e indicadores de escasez, mapa Fig 1,2,3.  
 
 ### Pregunta
 
