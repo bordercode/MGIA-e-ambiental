@@ -40,6 +40,10 @@ Alguna regiones compensan el desbalance con importaciones o travases entre areas
 
 Ver las acciones del plan Maestro Monterrey en cuanto a proyectos de imporrtación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
+Discutir la acción concreta:   **Río Pánuco**
+
+*"Consiste en la construcción de una obra de toma sobre la corriente del Río Pánuco y conducirla por bombeo hasta Monterrey, mediante un acueducto de 500 km."*
+
 Ya el  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
 
 
