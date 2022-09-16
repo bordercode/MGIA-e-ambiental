@@ -23,7 +23,7 @@ Acorde con el Banco Mundial: *"Within the next 3 decades, the global food system
 
 Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los desequilibrios entre oferta y demanda. 
 
-En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abasteciento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
+En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. [Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
 Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  tratamiento indadecuado (o 
 nulo) de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
