@@ -77,6 +77,10 @@ En el pasado como sociedad hemos fallado en reconocer las concecuencias de este 
 
 La escasez de recursos  hídricos involucra un alto grado de **injerencia pública**, lo que propocia la aparición de  **CONFLICTO** 
 
+
+
+[Trans-boundary-water issues](https://www.nytimes.com/2020/10/14/world/americas/mexico-water-boquilla-dam.html)
+
 A propósito de conflictos... 
 
 *“Whiskey is for drinking; water is for fighting.”  Mark Twain.*
