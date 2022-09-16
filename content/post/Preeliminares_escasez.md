@@ -5,7 +5,7 @@ linktitle: Escasez
 menu:
   main:
     name: Preliminares escasez
-    weight: 3
+    weight: 4
 ---
      
 ### Economía. Conceptos fundamentales. 
