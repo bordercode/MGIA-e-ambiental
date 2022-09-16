@@ -38,7 +38,7 @@ Alguna regiones compensan el desbalance con importaciones o travases entre areas
 
 [Columna en NYT: Caso Monterrey](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
 
-Ver las acciones del plan Maestro Monterrey en cuanto a proyectos de imporrtación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
+Ver las acciones del plan Maestro Nuevo León en cuanto a proyectos de importación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
 Discutir la acción concreta:   **Río Pánuco**
 
