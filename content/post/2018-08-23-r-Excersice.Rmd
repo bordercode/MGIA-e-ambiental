@@ -1,13 +1,13 @@
 ---
 title: "Ejercicios"
 author: "José Luis Manzanares Rivera"
-date: 2018-08-19T21:13:14-05:00
+date: 2022-09-01T21:13:14-05:00
 categories: ["Análisis"]
 tags: ["Práctica", "datos"]
 menu:
   main:
     name: Ejercicios
-    weight: 5
+    weight: 9
 ---
 
 ```{r setup, include=FALSE}

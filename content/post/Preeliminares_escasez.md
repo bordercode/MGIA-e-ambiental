@@ -30,6 +30,7 @@ Acorde con el Banco Mundial: *"Within the next 3 decades, the global food system
 
 Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los desequilibrios entre oferta y demanda. 
 
+
 En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. Los datos sobre agua subterránea por ejemplo indican que **102 de los 653** acuíferos de la nación se encuentran sobreexplotados. 
 
 **Práctica Asignación 1  para Casa:**  Leer documento de investigación [Análisis del uso de los recursos hídricos subterráneos en el contexto de la producción de cerveza en la frontera norte de México](https://drive.google.com/file/d/1I4_nz-kLlaLHnx4e8sHeSVKCYIIoH4YO/view?usp=sharing)   y crear una composición de color RGB 8-4-3 (ej. infra rojo) en Qgis para detectar presencia de recursos hídricos en la zona donde se ubica la planta productora de cerveza Heineken de Meoqui, Chihuahua.  
@@ -37,7 +38,7 @@ En **México** regiones enteras ya tienen patrones de extracción de agua que su
 Requerimientos para realizar el ejercicio:  Instalar **Qgis** con plug in **SCP**, registrar una cta. en los sitios proveedores de imagenes: Copernicus, Landsat USG.
 
 Infomración para práctica adicional área de Cuauhtémoc Chihuahua.  Crear composición de color  NIR (843).
-[Ver estudio sobre acuiferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
+[Ver estudio sobre acuíferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
 Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  **tratamiento indadecuado** (o 
 nulo) de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
@@ -52,12 +53,13 @@ Discutir la acción concreta:   **Río Pánuco**
 
 *"Consiste en la construcción de una obra de toma sobre la corriente del Río Pánuco y conducirla por bombeo hasta Monterrey, mediante un acueducto de 500 km."*
 
-El análisi de la escasez no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una persectiva que cobra relevancia especialmente aplicada al escenario de los recursos naturales.
+El análisi de la escasez no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una persectiva que cobra relevancia 
+especialmente aplicada al escenario de los recursos naturales.
 
 
 ##### Lecciones del pasado
 
-**Ejemplos de Extinción de civilizaciones e imperios ante su relación con el medio ambiente.**
+**El hombre en su relación con el medio ambiente.**
 
 + **Los Mayas** [Artículo](https://www.pnas.org/doi/10.1073/pnas.1210106109). Sequía
 
@@ -68,7 +70,7 @@ La decadencia del **Imperio Romano.** aunque no se debio a custiones ambientales
 
 ¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada? 
 
-See Text book page 3 *Environmental and Natural resource economics* de Tom Tietenberg y Lynne Lewis.
+See Text book page 3 *Environmental and Natural resource economics* de Tom Tietenberg y Lynne Lewis. [](googledrive link to book)
 
 Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
@@ -162,10 +164,21 @@ Ver mapa de cuencas en
 
 ### Pregunta
 
-1.-Describa las variables empleadas para el cálculo de los indicadores inverso de Falkenman y el  explotación hídrica.
+1.-Describa las variables empleadas para el cálculo de los indicadores inverso de Falkenmark y el  explotación hídrica.
 
 2.- ¿Qué RHA muestra el escenario de mayor explotación según el IEH?
 
+
+### Global outlook of water scarcity.
+
+![](/img/world.jpg)
+
+### Indice de escasez. Falkenmark
+
+![](/img/world2.jpg)
+![](/img/world3.jpg)
+![](/img/world4.jpg)
+![](/img/world5.jpg)
 
 
 #### Tarea  1  
@@ -181,6 +194,12 @@ Lectura y discusión de:
 
 [Book Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
 
+
+
+Lectura complementaria. pagina 8 - 45
+
+[The State of Water Resources and the Need for a Comprehensive Perspective](https://drive.google.com/file/d/1fGz0TCMsRr5PnwjJ8OratCBvoflP9xWE/view?usp=sharing)....
+
 Preguntas detonadoras. 
 
 1. Indique los umbrales que definen los conceptos de estrés hídrico, escasez hídrica y escasez hídrica absolta  en términos percápita por año.   
@@ -191,7 +210,6 @@ Preguntas detonadoras.
 
 4. Señale los elementos principales que intervienen en el contexto económico de los recursos hídricos. 
 
-**¿Cómo debe responder la sociedad ante los retos que plantea la escasez  de Recursos hidricos?**
+5. Estime los diferentes umbrales de estrés y escasez hidrica propuestos por Falkenmark para tres países de su elección.  
 
 
-Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el diseño de estrategia que generen los **incentivos** correctos.

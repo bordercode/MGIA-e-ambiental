@@ -93,6 +93,9 @@ c) Agua residual tratada (Planta de tratamiento de aguas residuales).
 
 d) Recursos hídricos subterráneos (Acuíferos).
 
+**Bonus:** 
+
+*List three sources of market failures that frequently afflict water economies.*
 
 **Actividad 1**. Leer * Garrett Hardin, The tragedy of the commons* . 
 Objetivo Ilustrar el escenario de tragedia de los comunes en el contexto del tema de **fallas de mercado**. 
