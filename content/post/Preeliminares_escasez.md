@@ -70,7 +70,7 @@ La decadencia del **Imperio Romano.** aunque no se debio a custiones ambientales
 
 ¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada? 
 
-See Text book page 3 *Environmental and Natural resource economics* de Tom Tietenberg y Lynne Lewis. [](googledrive link to book)
+See Text book page 3 [Environmental and Natural resource economics](https://drive.google.com/file/d/1HpZvL-QDVMFYw7AGbB6PrsEMRXosY2va/view?usp=sharing) de Tom Tietenberg y Lynne Lewis.
 
 Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
@@ -196,9 +196,9 @@ Lectura y discusión de:
 
 
 
-Lectura complementaria. pagina 8 - 45
+Lectura complementaria. página 8 - 45
 
-[The State of Water Resources and the Need for a Comprehensive Perspective](https://drive.google.com/file/d/1fGz0TCMsRr5PnwjJ8OratCBvoflP9xWE/view?usp=sharing)....
+[The State of Water Resources and the Need for a Comprehensive Perspective](https://drive.google.com/file/d/1fGz0TCMsRr5PnwjJ8OratCBvoflP9xWE/view?usp=sharing)
 
 Preguntas detonadoras. 
 
