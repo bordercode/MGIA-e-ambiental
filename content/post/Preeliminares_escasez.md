@@ -198,7 +198,7 @@ Lectura y discusión de:
 
 Lectura complementaria. página 8 - 45
 
-[The State of Water Resources and the Need for a Comprehensive Perspective](https://drive.google.com/file/d/1fGz0TCMsRr5PnwjJ8OratCBvoflP9xWE/view?usp=sharing)
+[The State of Water Resources and the Need for a Comprehensive Perspective](https://drive.google.com/file/d/1r0tuXMKOzc3lLE3tm0ehKmr2HPv6QvNi/view?usp=sharing)
 
 Preguntas detonadoras. 
 
