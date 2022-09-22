@@ -67,6 +67,17 @@ Discutir la acción concreta:   **Río Pánuco**
 
 *"Consiste en la construcción de una obra de toma sobre la corriente del Río Pánuco y conducirla por bombeo hasta Monterrey, mediante un acueducto de 500 km."*
 
+1.-¿ Qué implicaciones puede tener esta obra para las comunidades que dependen de este río en la región de orígen del acueducto proyectado? 
+
+
+2.- ¿Cuáles son los retos para la gestión en términos de los actores involucrados? 
+
+3- Considera que es una obra que tiene impactos ambientales adversos? 
+
+
+4.- En su opinión ¿es una proyecto sustentable en el largo plazo? Contribuye a resolver las causas o es una solución temporal?
+
+
 El análisis de la escasez no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una perspectiva que cobra relevancia 
 especialmente aplicada al escenario de los recursos naturales.
 
