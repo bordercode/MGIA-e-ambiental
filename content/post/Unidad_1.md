@@ -62,6 +62,11 @@ Un modelo consite en una **abstracción.** Veamos un modelo básico y su traducc
 *Source: The price of water Stephen Merrett*
 
 
+Elementos que integran el **modelo de oferta** y demanda a **escla regional**  en un periodo de tiempo determinado.
+
+![](/img/wbalancesheet.jpg)
+*Source: The price of water Stephen Merrett*
+
 La escasez expresada por la frontera de posibilidades de producción. 
 
 ![](/img/PPF.jpg)
