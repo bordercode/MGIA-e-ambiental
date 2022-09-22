@@ -37,13 +37,15 @@ En **México** regiones enteras ya tienen patrones de extracción de agua que su
 
 Requerimientos para realizar el ejercicio:  Instalar **Qgis** con plug in **SCP**, registrar una cta. en los sitios proveedores de imagenes: Copernicus, Landsat USG.
 
-InforMación para práctica adicional área de Cuauhtémoc Chihuahua.  Crear composición de color  NIR (843).
+Información para práctica adicional área de Cuauhtémoc Chihuahua.  Crear composición de color  NIR (843).
 [Ver estudio sobre acuíferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
 Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  **tratamiento indadecuado** (o 
 nulo) de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
 
 Alguna regiones compensan el desbalance con importaciones o travases entre areas con disponibilidad y areas de intensa demanda. 
+
+**Actividad en clase**: Analizar el siguiente material para reflexión grupal. Tiempo estimado: 15 min. 
 
 [Columna en NYT: Caso Monterrey](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
 
@@ -53,7 +55,7 @@ Discutir la acción concreta:   **Río Pánuco**
 
 *"Consiste en la construcción de una obra de toma sobre la corriente del Río Pánuco y conducirla por bombeo hasta Monterrey, mediante un acueducto de 500 km."*
 
-El análisi de la escasez no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una persectiva que cobra relevancia 
+El análisis de la escasez no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una perspectiva que cobra relevancia 
 especialmente aplicada al escenario de los recursos naturales.
 
 
@@ -65,7 +67,7 @@ especialmente aplicada al escenario de los recursos naturales.
 
 + **Isla de Pascua**.[Artículo](The simple economics of Easter Island: A Ricardo–Malthus model of renewable resource use. ) Deforestación y erosión. 
 
-La decadencia del **Imperio Romano.** aunque no se debio a custiones ambientales es interesante por que nos  permite hacer una una metáfora sobre lo contrastante que puede ser una época de esplendor con abundantes recursos, tal como lo fue el Imperio Romano en su momento y la decadencia, la ruina. According to **Gibbons**, author que analiza la historia del Imperio Romano, 
+La decadencia del **Imperio Romano.** aunque no se debio a custiones ambientales es interesante por que nos  permite hacer una metáfora sobre los contrastantes que se observan entre una época de esplendor con abundantes recursos, tal como lo fue el **Imperio Romano** en su momento y la decadencia, la ruina. According to **Gibbons**, author que analiza la historia del Imperio Romano, 
 *"the  seeds for Rome’s destruction were sown by the Empire itself."* 
 
 ¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada? 
