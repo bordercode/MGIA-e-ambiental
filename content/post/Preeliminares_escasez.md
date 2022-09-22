@@ -48,7 +48,7 @@ Información para práctica adicional área de Cuauhtémoc Chihuahua.  Crear com
 Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  **tratamiento indadecuado** (o 
 nulo) de aguas residuales. *According to the United Nations, 90 percent of sewage and 70 percent of industrial waste in developing countries are discharged without treatment.* 
 
-Alguna regiones compensan el desbalance con importaciones o travases entre areas con disponibilidad y areas de intensa demanda. 
+Alguna regiones compensan el desbalance con **importaciones** o travases entre areas con disponibilidad y areas de intensa demanda. 
 
 **Actividad en clase**: Analizar el siguiente material para reflexión grupal. Tiempo estimado: 15 min. 
 
