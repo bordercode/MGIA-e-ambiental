@@ -189,12 +189,15 @@ Ver mapa de cuencas en
 
 [Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Global outlook for water scarcity, food security, and hydropower de Mark W. Rosegrant (Capitulo 1).
 
+Leer sección *Introduction* y sección *water scarcity and food security*.
+
+
 #### Tarea 2 
 
 (Control de Lectura 5% 1 cuartilla)
 Lectura y discusión de:
 
-[Book Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
+[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
 
 
 
