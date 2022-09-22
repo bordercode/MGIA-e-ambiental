@@ -31,7 +31,12 @@ Acorde con el Banco Mundial: "Within the next 3 decades, the global **food** sys
 Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los desequilibrios entre oferta y demanda. 
 
 
-En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. Los datos sobre agua subterránea por ejemplo indican que **102 de los 653** acuíferos de la nación se encuentran sobreexplotados. 
+En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. 
+
+Los datos sobre agua subterránea por ejemplo indican que **245 de los 653** acuíferos de la nación se encuentran sobreexplotados **38%**.
+
+Este escenario enfrenta mayor presión en regiones específicas por ejemplo la RHA **VI Río Bravo**
+muestra una sobre explotación de1 **45%** con 46 delos 102 acuíferos en esta situación.
 
 **Práctica Asignación 1  para Casa:**  Leer documento de investigación [Análisis del uso de los recursos hídricos subterráneos en el contexto de la producción de cerveza en la frontera norte de México](https://drive.google.com/file/d/1I4_nz-kLlaLHnx4e8sHeSVKCYIIoH4YO/view?usp=sharing)   y crear una composición de color RGB 8-4-3 (ej. infra rojo) en Qgis para detectar presencia de recursos hídricos en la zona donde se ubica la planta productora de cerveza Heineken de Meoqui, Chihuahua.  
 
