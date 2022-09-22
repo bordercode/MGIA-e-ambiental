@@ -37,7 +37,7 @@ En **México** regiones enteras ya tienen patrones de extracción de agua que su
 
 Requerimientos para realizar el ejercicio:  Instalar **Qgis** con plug in **SCP**, registrar una cta. en los sitios proveedores de imagenes: Copernicus, Landsat USG.
 
-Infomración para práctica adicional área de Cuauhtémoc Chihuahua.  Crear composición de color  NIR (843).
+InforMación para práctica adicional área de Cuauhtémoc Chihuahua.  Crear composición de color  NIR (843).
 [Ver estudio sobre acuíferos en Chihuahua](https://themennonite-historyproject.netlify.app/)
 
 Adicionalmente a los problemas de acceso, en areas urbanas, se tiene el problema del  **tratamiento indadecuado** (o 
