@@ -26,7 +26,7 @@ Básicamente debido a la creciente **demanda** por Recursos Hídricos, que se ex
 intensa entre usuarios. (Una 
 manifestación evidente del fenómeno de escasez).
 
-Acorde con el Banco Mundial: *"Within the next 3 decades, the global food system will require between 40 to 50 percent more water; municipal and industrial water demand will increase by 50 to 70 percent; the energy sector will see water demand increase by 85 percent; and the environment, already the residual claimant, may receive even less.*
+Acorde con el Banco Mundial: "Within the next 3 decades, the global **food** system will require between 40 to **50** percent more water; **municipal** and industrial water demand will increase by 50 to **70** percent; the **energy sector** will see water demand increase by **85** percent; and **the environment**, already the residual claimant, may **receive even less.**
 
 Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los desequilibrios entre oferta y demanda. 
 
