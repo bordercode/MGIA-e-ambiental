@@ -54,6 +54,13 @@ Alguna regiones compensan el desbalance con **importaciones** o travases entre a
 
 [Columna en NYT: Caso Monterrey](https://www.nytimes.com/es/2022/08/03/espanol/mexico-monterrey-agua-sequia.html)
 
+
+1.- Comente  que causas contribuyen a este escenario.
+
+2.- ¿Hasta qué punto la actividad económica ha impactado la dsiponibilidad de RH en la región?
+
+3.- ¿Qué estrategias pueden ser viables para atender la actual situación hidrica de la región? 
+
 Ver las acciones del plan Maestro Nuevo León en cuanto a proyectos de importación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
 Discutir la acción concreta:   **Río Pánuco**
