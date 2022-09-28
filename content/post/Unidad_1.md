@@ -106,7 +106,7 @@ La definición del sistema para regular la propiedad de RH es una de las áreas 
 
 Ofrece una aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
 naturales al instrumental de análisis 
-**neoclásfico** (agentes racionales que maximizan un función objetivo).
+**neoclásico** (agentes racionales que maximizan un función objetivo).
 
 En este enfoque el crecimiento 
 puede continuar más allá de los límites 
