@@ -115,7 +115,7 @@ del ambiente físico.
 
 #### Economía Ecológica
 
-Propone un enfoque interdisciplinario que incorpora principios eticos y la perspectiva de biología; este paradigma supone la interrelación bajo un marco teórico orientado a los sistemas 
+Propone un enfoque interdisciplinario que incorpora principios éticos y la perspectiva de biología; este paradigma supone la interrelación bajo un marco teórico orientado a los sistemas 
 complejos.
 
 En economía ambiental el **medio ambiente** es un sub conjunto del sistema económico.
