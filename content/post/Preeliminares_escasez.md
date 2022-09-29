@@ -28,7 +28,7 @@ manifestación evidente del fenómeno de escasez).
 
 Acorde con el Banco Mundial: "Within the next 3 decades, the global **food** system will require between 40 to **50** percent more water; **municipal** and industrial water demand will increase by 50 to **70** percent; the **energy sector** will see water demand increase by **85** percent; and **the environment**, already the residual claimant, may **receive even less.**
 
-Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los desequilibrios entre oferta y demanda. 
+Las condiciones de **acceso** a Recursos hídricos, provee un ejemplo clásico de los **desequilibrios** entre **oferta** y **demanda**. 
 
 
 En **México** regiones enteras ya tienen patrones de extracción de agua que superan la capacidad de recarga de las fuentes de abastecimiento. 
@@ -38,7 +38,7 @@ Los datos sobre agua subterránea por ejemplo indican que **245 de los 653** acu
 Este escenario enfrenta mayor presión en regiones específicas por ejemplo la RHA **VI Río Bravo**
 muestra una sobre explotación de1 **45%** con 46 delos 102 acuíferos en esta situación.
 
-**Práctica Asignación 1  para Casa:**  Leer documento de investigación [Análisis del uso de los recursos hídricos subterráneos en el contexto de la producción de cerveza en la frontera norte de México](https://drive.google.com/file/d/1I4_nz-kLlaLHnx4e8sHeSVKCYIIoH4YO/view?usp=sharing)   y crear una composición de color RGB 8-4-3 (ej. infra rojo) en Qgis para detectar presencia de recursos hídricos en la zona donde se ubica la planta productora de cerveza Heineken de Meoqui, Chihuahua.  
+**Práctica Asignación 1  para Casa:**  Leer documento de investigación [Análisis del uso de los recursos hídricos subterráneos en el contexto de la producción de cerveza en la frontera norte de México](https://drive.google.com/file/d/1I4_nz-kLlaLHnx4e8sHeSVKCYIIoH4YO/view?usp=sharing)   y crear una composición de color RGB 8-4-3 (ej. infra rojo) en **Qgis** para detectar presencia de **recursos hídricos** en la zona donde se ubica la planta productora de cerveza Heineken de Meoqui, Chihuahua.  
 
 Requerimientos para realizar el ejercicio:  Instalar **Qgis** con plug in **SCP**, registrar una cta. en los sitios proveedores de imagenes: Copernicus, Landsat USG.
 
@@ -57,11 +57,11 @@ Alguna regiones compensan el desbalance con **importaciones** o travases entre a
 
 1.- Comente  que causas contribuyen a este escenario.
 
-2.- ¿Hasta qué punto la actividad económica ha impactado la dsiponibilidad de RH en la región?
+2.- ¿Hasta qué punto la actividad económica ha impactado la dsiponibilidad de **RH** en la región?
 
 3.- ¿Qué estrategias pueden ser viables para atender la actual situación hidrica de la región? 
 
-Ver las acciones del plan Maestro Nuevo León en cuanto a proyectos de importación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
+Ver las acciones del plan **Maestro Nuevo León** en cuanto a proyectos de importación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
 Discutir la acción concreta:   **Río Pánuco**
 
@@ -70,7 +70,7 @@ Discutir la acción concreta:   **Río Pánuco**
 1.-¿ Qué implicaciones puede tener esta obra para las comunidades que dependen de este río en la región de orígen del acueducto proyectado? 
 
 
-2.- ¿Cuáles son los retos para la gestión en términos de los actores involucrados? 
+2.- ¿Cuáles son los retos para la gestión en términos de los actores involucrados, en términos del balance entre eficiencia y equidad? 
 
 3- Considera que es una obra que tiene impactos ambientales adversos? 
 
@@ -78,7 +78,9 @@ Discutir la acción concreta:   **Río Pánuco**
 4.- En su opinión ¿es una proyecto sustentable en el largo plazo? Contribuye a resolver las causas o es una solución temporal?
 
 
-El análisis de la escasez no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la escasez, planteaba serios retos. Una perspectiva que cobra relevancia 
+El análisis de la **escasez** no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la **escasez**, planteaba serios retos. 
+
+Una perspectiva que cobra relevancia 
 especialmente aplicada al escenario de los recursos naturales.
 
 
@@ -90,7 +92,7 @@ especialmente aplicada al escenario de los recursos naturales.
 
 + **Isla de Pascua**.[Artículo](The simple economics of Easter Island: A Ricardo–Malthus model of renewable resource use. ) Deforestación y erosión. 
 
-La decadencia del **Imperio Romano.** aunque no se debio a custiones ambientales es interesante por que nos  permite hacer una metáfora sobre los contrastantes que se observan entre una época de esplendor con abundantes recursos, tal como lo fue el **Imperio Romano** en su momento y la decadencia, la ruina. According to **Gibbons**, author que analiza la historia del Imperio Romano, 
+La decadencia del **Imperio Romano.** aunque no se debió a custiones ambientales es interesante por que nos  permite hacer una **metáfora** sobre los contrastantes que se observan entre una época de esplendor con abundantes recursos, tal como lo fue el **Imperio Romano** en su momento y la decadencia, la ruina. According to **Gibbons**, author que analiza la historia del Imperio Romano, 
 *"the  seeds for Rome’s destruction were sown by the Empire itself."* 
 
 ¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada? 

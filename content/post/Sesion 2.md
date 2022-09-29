@@ -34,19 +34,53 @@ Se asume que la utilidad marginal es decreciente. Economistas del periodo clási
 
 ### Determinantes de la demanda.
 
-Determiantes de la demanda son Ingresos, precios, preferencias. 
+La **DEMANDA** representa el nivel mínimo de **recursos (p)** que los consumidores estan dispuestos a pagar por adquirir una determinada **cantidad (q)** de un bien.
 
-* D=f(-P,+I,pr)
+
+Los 4 determinantes principales de la **demanda** son: 
+
+
+El **precio del propio bien**, el precio de bienes relacionados (**substitutos** o **complementarios**), el ingreso del consumidor, las preferenias, la expectativas del precio el tamaño de la población y las expectativas del ingreso.
+
+
+**Dx=f(-px, py, I, Pr)**
+
+Adicionalmente 2 determinates de la demanda son las expectativas y el tamaño de la población. Abordaremos ambos a detalle más adelante en esta clase.
+
 
 Curva de demanda con pendiente negativa expreza la disposición a pagar por parte de los consumidores y refleja el fenómeno de **utilidad marginal** **decreciente. Unidades adicionales de consumo representan un incremento cada vez menor de la utilidad asociada al consumo.  
 
 ##### Utilidad Marginal y Curva de demanda: 
   
-La utilidad que obtenemos por el consumo de unidades adicionales es decreciente, esto implica un costo de oportunidad creciente por unidad y una relación inversa respecto al precio. 
+La utilidad que obtenemos por el consumo de unidades adicionales es decreciente, esto implica un costo de **oportunidad creciente** por unidad y una relación inversa respecto al precio. 
 
-**El precio refleja la disponibilidad a pagar** por parte del consumidor y dado que la utilidad que obtiene de consumir unidades adicionales de un bien particular, su disponibilidad a pagar por unidades adicionales decrece. 
+**El precio refleja la disponibilidad a pagar** por parte del consumidor y dado que la utilidad que obtiene de consumir unidades adicionales de un bien particular **tiende a disminuir**, su disponibilidad a pagar por unidades adicionales decrece. 
 
 Hay una relación inversa entre cantidad demandad y el precio.  
+
+
+### Elasticidad de la demanda.
+
+La sensibilidad que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
+
+Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
+
+
+Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
+
+
+
+Por ejemplo en un proyecto productivo con árboles de Aguacate, la infraestructura de riego por aspersión es un bien o  producto **complementario** de los **recursos hídricos** 
+
+las variacions en los precios en este conjunto de bienes impactan la demanda. 
+
+Un bien substituto del **agua azul**, utilizada en un proyecto como un campo de golf, puede tener un bien substituto como el agua tratada.
+
+Los recursos hídricos son un recurso **especial** entre otros aspectos por que no poseen substitutos cercanos.
+
+¿Qué recurso puede subtituir el **agua**?
+
+Podemos pensar en agua de distinta calidad pero esta se orienta a proceso bien diferenciados y muy específicos. Agua tratada para riego, agua necesaria para la producción de bebidas como la cerveza. Agua de plantas desalinizadoras. En todos los casos podemos observar que cada una tiene su nicho y no son subtitutos perfectos.
 
 
 
