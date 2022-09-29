@@ -106,7 +106,7 @@ La definición del sistema para regular la propiedad de RH es una de las áreas 
 
 Ofrece una aproximación desde la perspectiva de los **mecanismos de mercado** en la asignación de recursos incorpora el uso de recursos 
 naturales al instrumental de análisis 
-**neoclásico** (agentes racionales que maximizan un función objetivo).
+**neoclásico** (agentes racionales que maximizan una función objetivo).
 
 En este enfoque el crecimiento 
 puede continuar más allá de los límites 
@@ -148,22 +148,18 @@ la sociedad.
 lagos, arroyos y acuíferos del país para los diversos
 usos, tanto consuntivos como no consuntivos.
 
-* **Agua congénita**.- El agua congénita o de formación
-es agua salada que se encuentra dentro de la roca,
-asociada a la presencia de hidrocarburos. Contiene sales disueltas, como cloruros de calcio y sodio,
-carbonatos de sodio, cloruros de potasio, sulfatos
+* **Agua congénita**.- El agua congénita o de formación es agua salada que se encuentra dentro de la roca, asociada a la presencia de hidrocarburos. Contiene sales disueltas, como cloruros de calcio y sodio, carbonatos de sodio, cloruros de potasio, sulfatos
 de calcio o de bario, entre otros; puede incluso contener algunos metales. La concentración de estos
 componentes puede ocasionar impactos negativos
 al medio ambiente cuando su manejo y disposición
 no son adecuados. 
 
-* **Agua dulce**.- Agua que tiene de 0 a 525 partes por
-millón de sólidos totales disueltos. c
+* **Agua dulce**.- Agua que tiene de 0 a 525 partes por millón de sólidos totales disueltos.
 
 * **Agua potable**.- Literalmente agua que se puede beber. La normatividad mexicana (NOM-127-
-SSA1-1994) define el agua para uso y consumo humano como aquélla que no contiene contaminantes
+SSA1-1994) define el agua para uso y consumo humano como aquella que no contiene contaminantes
 objetables, ya sean químicos o agentes infecciosos,
-y que no causa efectos nocivos al ser humano. d
+y que no causa efectos nocivos al ser humano. 
 
 * **Agua renovable**.- Cantidad máxima de agua que
 es factible explotar anualmente. El agua renovable
@@ -174,7 +170,7 @@ o países, menos las exportaciones de agua a otras
 regiones o países.
 
 * **Agua salada**.- Agua que tiene más de 1 400 partes
-por millón de sólidos totales disueltos. c
+por millón de sólidos totales disueltos. 
 
 * **Agua subterránea**.- Agua que satura por completo
 los poros o intersticios del subsuelo.
@@ -185,22 +181,19 @@ la humedad del suelo y que es utilizada en los cultivos de temporal y vegetació
 * **Agua virtual**.- Suma de la cantidad de agua empleada en el proceso productivo para la elaboración
 de un producto.
 
-* **Aguas nacionales**.- Las aguas propiedad de la Nación, en los términos del párrafo quinto del Artículo
-27 de la Constitución Política de los Estados Unidos
-Mexicanos. a
+* **Aguas nacionales**.- Las aguas propiedad de la Nación, en los términos del párrafo quinto del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos. 
 
 * **Aguas residuales**.- Las aguas de composición variada provenientes de las descargas de usos público
-urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general de cualquier otro uso, así como la
-mezcla de ellas. a
+urbano, doméstico, industrial, comercial, de servicios, agrícola, pecuario, de las plantas de tratamiento y en general de cualquier otro uso, así como la mezcla de ellas. 
 
 * **Aguas salobres**.- Agua que contiene entre 525 y
 1,400 mg/l de sólidos disueltos.
 Aguas superficiales.- Agua que fluye o se almacena en la superficie de la corteza terrestre en forma
 de ríos, lagos o embalses artificiales como presas,
-bordos y canales. c
+bordos y canales. 
 
 * **Alcantarillado**.- Conjunto de tuberías que conducen las aguas residuales hasta el sitio de disposición
-final de las mismas. e
+final de las mismas. 
 
 * **Almacenamiento**.- Volumen o cantidad de agua que
 puede ser captada, en millones de metros cúbicos. c
