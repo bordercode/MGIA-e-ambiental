@@ -1,7 +1,7 @@
 ---
 title: Sesión 4
 date: 2022-10-19
-linktitle: Teoría del productor: Costos
+linktitle: Teoría del productor. Costos
 menu:
   main:
      name: Sesión 4

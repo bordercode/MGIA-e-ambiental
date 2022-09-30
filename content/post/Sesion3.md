@@ -1,5 +1,5 @@
 ---
-title: El mercado
+title: Teoría del consumidor
 date: 2022-10-08
 linktitle: El mercado
 menu:
@@ -105,9 +105,9 @@ Concretamente en la definición del pago por derechos de agua y tarifas en los d
 
 En algunos estados de la república Méxicana se establece el pago por servicios como de carácter fiscal.   
 
-**Ejemplo:** 
+**Actualmente, la determinación de las cuotas por el consumo del agua está ligada al esquema fiscal.**
 
-*"conforme al artículo 22(1) de la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, la obligación de pago de las cuotas por consumo de agua, tendrán carácter fiscal."*"
+*"conforme al artículo 22(1) de la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, la obligación de pago de las cuotas por consumo de agua, tendrán carácter fiscal."*
 
 
 *"cuando no se cubran los derechos a que se refiere el artículo 15 de la citada ley, el adeudo se haría efectivo en los términos y condiciones que establezca la legislación fiscal del Estado de Baja California."*
@@ -119,6 +119,69 @@ En algunos estados de la república Méxicana se establece el pago por servicios
 Lectura capitulo 4. [Introduction to the economics of water Resources](https://drive.google.com/file/d/1kGQO1XsnrqKCI5sxthq3Nkwf0NGA3XZd/view?usp=sharing)
 
   (pp. 50-66, secc.4.1-4.6 and 4.9.)
+
+### Ejercicios   
+
+[Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
+
+##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
+
+Estime los siguientes indicadores para los 653 acuíferos en México.
+
+- Volumen concesionado.
+
+- El coeficinte de GINI para mediar el grado de inequidad en el volumen concesionado en relación a la proporción de usuarios. 
+
+- Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
+
+- Aplique el enfoque de CONAGUA y estime el indice de disponibilidad (IDAS) para establecer las zonas de disponibilidad y asignación de cuotas para cobro de derechos de aprovechamiento de RHS.
+
+- ¿Cuántos acuíferos por Zona se tienen en México?
+
+- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
+
+- Emita su opinión sobre la pertienencia de utilizar el enfoque ivcas en contrsate con idas para detectar sobre explotación. (¿Qué proporción de acuiferos se encuentra en situación de sobre explotación bajo cada enfoqe?)
+
+##### E.2
+
++ Estime el número de concesiones por acuífero para extracción de agua subterránea.
+
++ Estime el índice de concentración de concesiones por Km2, para el caso Chihuahua.
+
++ Determine el valor recaudado por acuífero según Zona de disponibilidad.
+
++ Presente los resultados en versión gráfica, indicando lineas de referencia para valores promedio (thresholds).
+
++ Estime el valor recaudado por acuífero según Zona de disponibilidad considerando unicamente el principal uso consuntivo.
+
++ Presente resultados en versión gráfica.
+
+
+
+#### E.3 Demanda de RH subterrános.
+
+Utilice herramientas de percepción remota para caracterizar la demanda por RHS para el caso del acuífero 819 Laguna la Vieja y Los Juncos 847 en el estado de Chihuahua.
+
+[Input data](https://landsat.usgs.gov/pathrow-shapefiles)
+[Images](ftp://ftp.glcf.umd.edu/glcf/Landsat/WRS2/)
+[EarthExplorer](https://earthexplorer.usgs.gov/)
+
+
+Este es un caso de interés ya que en esta zona se ubica el principal desarrollo agrícola productor de algodón de México,lo que ha generado una intensa utilización de recursos hídricos subterráneos  dadas las condiciones climáticas de estas zonas que presentan regímenes  de precipitación limitada.
+
+la utilización de herramientas de percepción remota permite en este caso evidenciar la demanda generada por RHS en la zona.
+
+Técnica aplicada composición de color (RGB R4 G3 B2 y color natural R3 G2 B1 ) con imagenes de proyecto Landsat 8. 
+
+Software: Integrated Land and Water Information Systems (ILWIS).
+
+
+Insumos: Imagen WRS  Path 31, Row 40.*(Acuifero 847 Los Juntos y Path 33 Row 39, para acuífero Laguna La Vieja 819)
+
+
+
+
+
 
 
 #### Determinantes de la Oferta. 
@@ -151,7 +214,7 @@ Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y c
 ------------------------
   
   
-  El desarrollo conceptual de la noción de valor   ha transitado diversos enfoques que se han sustentado en escuelas de pensamiento a lo largo de los siglos. Thomas Hobbes en Inglaterra *was very proud of the fact that he had found, in the pleasure-pain calculus, the single underlying spring for all human action*. 
+  El desarrollo conceptual de la noción de valor  ha transitado diversos enfoques que se han sustentado en escuelas de pensamiento a lo largo de los siglos. Thomas Hobbes en Inglaterra *was very proud of the fact that he had found, in the pleasure-pain calculus, the single underlying spring for all human action*. 
 
 **Richard Cumberland** (1672) expanded Hobbes's narrow meaning of hedonism into a more general ethical precept.  By recognizing that our own pleasure and misery is tied up with that of society around us, Cumberland argued, the primary law of nature is not Hobbesian "self-preservation", **but rather the preservation of the "common Good of the whole system of rational agents"** (Cumberland, 1672: p.16).Para  indagar esta trayectoria conceptual se sugiere estudiar  [escuelas de pensamiento económico](http://www.hetwebsite.net/het/schools/utilitarian.htm). 
 
@@ -173,33 +236,6 @@ Otros escenarios comunes de aplicación del instrumental de economía incluyen:
 * Diseño de política pública para evitar conflictos entre usuarios competidores por el uso del recurso. 
 
 * Toma de decisiones sobre proyectos de infraestructura (análisis costo-beneficio). 
-
-
-
-### Actividad. Leer en clase secciones 1.1 a 1.5.
-
-[Book](https://drive.google.com/file/d/1mhY7N-cLJHtSjkHZ6ArOtuYE2t7G4C5s/view?usp=sharing) The Analysis of Scarcity, Policies, and Projects. Cambridge, MA: MIT Press, 2006.Ronald C. Griffin]
-
-Pregunta para reflexionar. 
-
-How should we value water? In public policy decisions, when **costs** and **benefits** are weighed, what value should we attach to the services we receive from wetlands that protect us from
-floods and filter our groundwater? Are we putting enough value on the aesthetics, heritage and recreational uses of the lakes. 
-
-And, when we set prices for water usage, should we charge dramatically more for ground water than for surface water?
-
-
-Determining **the value of water**, as opposed to setting its **price**, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
-future **supply** of water and the **demands** likely to be made on that **supply**.
-
-
-*Nota:* Es importante advertir la debilidad del instrumental de la economía para resolver los retos de la gestión integral de los recursos hídricos. 
-
-Es una disciplina con una dependencia fundamental en supuestos cuyo cumplimiento generalmente resultan una excepción. Ej. **Racionalidad.**
-
-A pesar de las limitaciones evidentes, el marco de análisis nos permite contar con una base para comprender el marco de toma de decisiones en torno al uso eficiente de los recursos hídricos. Y dado que se trata de un disciplina en el campo de las ciencias sociales, aporta elementos para el diseño de propuestas de solución ante los restos que la GIRH plantea.  
-
-
-Una crítica a las bases teóricas del planteamiento de modelos en economia se dirige a la toma de decisiones bajo el supuesto de **RACIONALIDAD**, un supuesto heróico!  Ver crítica de [The Framing of Decisions and the Psychology of Choice](https://drive.google.com/file/d/19JZZkPIljjmhoteLqSdB50wS1yTYT3VN/view?usp=sharing) Amos Tversky; Daniel Kahneman (2001 Nobel Laurate in Economics).
 
 
 
@@ -274,64 +310,12 @@ La figura siguiente muestra un ejemplo de esta aplicación para el caso Chihuahu
 
 ![](/img/Ejerciciovedas2-1.jpg)
 
-### Ejercicios   
-
-[Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
-
-##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
-
-Estime los siguientes indicadores para los 653 acuíferos en México.
-
-- Volumen concesionado.
-
-- El coeficinte de GINI para mediar el grado de inequidad en el volumen concesionado en relación a la proporción de usuarios. 
-
-- Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
-
-- Aplique el enfoque de CONAGUA y estime el indice de disponibilidad (IDAS) para establecer las zonas de disponibilidad y asignación de cuotas para cobro de derechos de aprovechamiento de RHS.
-
-- ¿Cuántos acuíferos por Zona se tienen en México?
-
-- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
-
-- Emita su opinión sobre la pertienencia de utilizar el enfoque ivcas en contrsate con idas para detectar sobre explotación. (¿Qué proporción de acuiferos se encuentra en situación de sobre explotación bajo cada enfoqe?)
-
-##### E.2
-
-+ Estime el número de concesiones por acuífero para extracción de agua subterránea.
-
-+ Estime el índice de concentración de concesiones por Km2, para el caso Chihuahua.
-
-+ Determine el valor recaudado por acuífero según Zona de disponibilidad.
-
-+ Presente los resultados en versión gráfica, indicando lineas de referencia para valores promedio (thresholds).
-
-+ Estime el valor recaudado por acuífero según Zona de disponibilidad considerando unicamente el principal uso consuntivo.
-
-+ Presente resultados en versión gráfica.
-
-#### E.3 Demanda de RH subterrános.
-
-Utilice herramientas de percepción remota para caracterizar la demanda por RHS para el caso del acuífero 819 Laguna la Vieja y Los Juncos 847 en el estado de Chihuahua.
-
-[Input data](https://landsat.usgs.gov/pathrow-shapefiles)
-[Images](ftp://ftp.glcf.umd.edu/glcf/Landsat/WRS2/)
-[EarthExplorer](https://earthexplorer.usgs.gov/)
 
 
-Este es un caso de interés ya que en esta zona se ubica el principal desarrollo agrícola productor de algodón de México,lo que ha generado una intensa utilización de recursos hídricos subterráneos  dadas las condiciones climáticas de estas zonas que presentan regímenes  de precipitación limitada.
-
-la utilización de herramientas de percepción remota permite en este caso evidenciar la demanda generada por RHS en la zona.
-
-Técnica aplicada composición de color (RGB R4 G3 B2 y color natural R3 G2 B1 ) con imagenes de proyecto Landsat 8. 
-
-Software: Integrated Land and Water Information Systems (ILWIS).
 
 
-Insumos: Imagen WRS  Path 31, Row 40.*(Acuifero 847 Los Juntos y Path 33 Row 39, para acuífero Laguna La Vieja 819)
 
-
-### Resultado
+-*-*--*--*--*--*-*-*-*-*-*-*-*-*
 
 Imagen WRS:P33R39 Región El Valle, Chihuahua, **acuífero 819: Laguna la Vieja**. 
 
