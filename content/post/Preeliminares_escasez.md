@@ -1,10 +1,10 @@
 ---
 title: Preliminares escasez
-date: 2022-09-12
+date: 2022-09-29
 linktitle: Escasez
 menu:
   main:
-    name:  escasez
+    name:  Sesión 2
     weight: 4
 ---
 #### Objetivos de aprendizaje de la sesión 2
