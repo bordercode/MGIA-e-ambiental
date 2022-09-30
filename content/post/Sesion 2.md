@@ -8,7 +8,7 @@ menu:
     weight: 5
 ---
 
-### ¿Cómo debe responder la sociedad ante los retos que plantea la escasez  de Recursos hidricos?**
+### ¿Cómo debe responder la sociedad ante los retos que plantea la escasez  de Recursos hidricos?
 
 
 Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el diseño de estrategias que generen los **incentivos** correctos. Por ejemplo mediante el sistema de **precios**
@@ -65,16 +65,16 @@ La sensibilidad que tiene la cantidad demandada de un bien respecto a variacione
 
 Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
 
+La expresión queda definida por $$ED=Variación porcentual de la demanda/Variación porcentual del precio$$
 
 Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
 
 
+Por ejemplo en un proyecto productivo de un cultivo como el Aguacate, la infraestructura de riego por aspersión es un bien o  producto **complementario** de los **recursos hídricos** 
 
-Por ejemplo en un proyecto productivo con árboles de Aguacate, la infraestructura de riego por aspersión es un bien o  producto **complementario** de los **recursos hídricos** 
+Las variacions en los precios en este conjunto de bienes impactan la demanda. 
 
-las variacions en los precios en este conjunto de bienes impactan la demanda. 
-
-Un bien substituto del **agua azul**, utilizada en un proyecto como un campo de golf, puede tener un bien substituto como el agua tratada.
+Un bien **substituto** del **agua azul**, utilizada en un proyecto como un campo de golf, puede tener un bien substituto como el agua tratada.
 
 Los recursos hídricos son un recurso **especial** entre otros aspectos por que no poseen substitutos cercanos.
 
@@ -82,7 +82,7 @@ Los recursos hídricos son un recurso **especial** entre otros aspectos por que 
 
 Podemos pensar en agua de distinta calidad pero esta se orienta a proceso bien diferenciados y muy específicos. Agua tratada para riego, agua necesaria para la producción de bebidas como la cerveza. Agua de plantas desalinizadoras. En todos los casos podemos observar que cada una tiene su nicho y no son subtitutos perfectos.
 
-Con base en evidnecia empirica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua la insulina, etc.  tendrán una **elasticidad menor**,  serán  inelásticos.
+Con base en evidnecia empirica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua, la insulina, etc.  tendrán una **elasticidad menor**,  serán  **inelásticos**.
 
 
 El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
@@ -91,15 +91,26 @@ El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
 
 + Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
 
+La representación siguiente nos muestra los tres escenarios relevantes en cuanto al parámetro de elasticidad precio de la demanda. 
 
-Los recursos hidricos para uso doméstico, qué comportamiento en relación a la elasticidad pueden exhibir? 
+![](/img/elasticity.jpg)
 
-Es probable que la elasticidad dependa de la circunstancia (uso consuntivo) pero en general no se espera una elasticidad elevada. No se espera una reducción en la demanda ante cambios en su precio y en última instancia en un escenario de relativa escasez, la demanda tenderá a ser completamente inelástica.
+Considere el caso de los recursos hídricos para uso doméstico, ¿qué comportamiento en relación a la elasticidad pueden exhibir? 
 
-Este resultado tiene implicaciones para la fijación de precios, coutas y tarifas en los diferentes sectores.
+Es probable que la elasticidad dependa de la circunstancia (uso consuntivo) pero en general **no se espera una elasticidad elevada**. No se espera una reducción en la demanda ante cambios en su precio y en última instancia en un escenario de relativa escasez, la demanda tenderá a ser **completamente inelástica.**
+
+Este resultado tiene implicaciones para la fijación de precios, la aplicación cuotas.  
+
+Concretamente en la definición del pago por derechos de agua y tarifas en los diferentes sectores.
+
+En algunos estados de la república Méxicana se establece el pago por servicios como de carácter fiscal.   
+
+**Ejemplo:** 
+
+*"conforme al artículo 22(1) de la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, la obligación de pago de las cuotas por consumo de agua, tendrán carácter fiscal."*"
 
 
-
+cuando no se cubran los derechos a que se refiere el artículo 15 de la citada ley, respecto lo cual, el adeudo se haría efectivo en los términos y condiciones que establezca la legislación fiscal del Estado de Baja California.
 
 #### Determinantes de la Oferta. 
 
@@ -375,3 +386,129 @@ Realizar Lectura del capítulo 2: Optimal Allocation and Development by Ronald G
 
 15. Explique el comportamiento de maximización de ganancias que la forma convencional de la función de producción implica y utilizando los principios de  RCD indique el rango óptimo de operación para suministro de RH. 
 
+### Glosario 
+
+**Términos de dominio general para la materia.**
+
+
+Agua en bloque: Volumen de agua potable que entrega la Comisión al Municipio y al
+organismo operador, así como el que éstos a su vez entregan a subdivisiones o
+conjuntos habitacionales, industriales, y/o de servicios, o a otros prestadores de los
+servicios para los fines correspondientes;
+
+Agua pluvial: La proveniente de la lluvia, nieve o granizo;
+
+Agua potable: Aquella que no contiene contaminantes objetables, ya sean químicos o
+agentes infecciosos, que puede ser ingerida o utilizada para fines domésticos sin
+provocar efectos nocivos a la salud y que reúne las características establecidas por las
+normas oficiales mexicanas, y llega a los usuarios mediante la red de distribución
+correspondiente;
+
+Agua residual: La que se vierte al drenaje, alcantarillado o cualquier cuerpo receptor o
+cauce, proveniente de alguno de los usos a que se refiere la presente Ley y que haya
+sufrido degradación de sus propiedades originales;
+
+Agua tratada: La residual resultante de haber sido sometida a los procesos de
+tratamiento para remover sus cargas contaminantes, en términos de las normas
+oficiales mexicanas y demás normatividad aplicable;
+
+Aguas alumbradas: Aquellas que son extraídas del subsuelo mediante obras artificiales;
+
+Aguas claras: Aquellas provenientes de una fuente natural o de almacenamientos
+artificiales, que no hayan sido objeto de utilización previa;
+
+Aguas residuales estatales: Las que se localicen en los sistemas de drenaje y de
+alcantarillado estatal previo a su descarga a un cuerpo receptor federal;
+
+Aguas residuales municipales: Las que se localicen en los sistemas de drenaje y de
+alcantarillado municipal previo a su descarga a un cuerpo receptor estatal o federal;
+
+Alcantarillado: El sistema de ductos, accesorios y cuerpos receptores para recolectar y
+conducir las aguas residuales y pluviales al drenaje;
+
+Aprovechamiento: Aplicación del agua para usos no consuntivos;
+
+Asignación: Convenio que suscribe el Gobernador del Estado, a través de la Secretaría,
+para realizar la explotación, uso o aprovechamiento de las aguas de jurisdicción estatal
+destinadas a la prestación de los servicios de agua potable para uso doméstico o público
+urbano;
+
+Cauce: Canal natural o artificial con capacidad necesaria para conducir las aguas de
+una creciente máxima ordinaria de una corriente;
+
+Certificación de procesos: Acción de constatar que la prestación de los servicios se
+ajusta a los criterios de calidad establecidos por la Comisión Técnica;
+
+Consumidor: Personas física o jurídica colectiva que adquiere agua potable o tratada a través de pipas autorizadas;
+
+Cloración: El servicio de suministro, aplicación y recarga de reactivos;
+
+Concesión: Acto administrativo mediante el cual la autoridad competente faculta a las
+personas físicas o jurídicas colectivas, para la construcción, explotación, operación,
+conservación y/o mantenimiento de obras hidráulicas, y, en su caso, de los bienes inherentes, y/o para la prestación de los servicios a que se refiere esta Ley, de forma
+regular y continua y por tiempo determinado, mediante la expedición del título respectivo;
+
+Concesionario: Persona física o jurídica colectiva a quien se le otorga una concesión;
+
+Condiciones particulares de descarga: Concentraciones permitidas de elementos
+físicos, químicos y bacteriológicos, que contienen las descargas de aguas residuales;
+
+Contaminación: La presencia de uno o más contaminantes o cualquier combinación de
+ellos en los cuerpos de agua o en los ecosistemas;
+
+Contaminante: Toda materia que al mezclarse con aguas claras, agua potable o tratada, altera, corrompe o modifica sus características e impide con ello su uso consuntivo;
+
+Costos del servicio del agua: La suma de las inversiones para la construcción,
+ampliación, operación, rehabilitación y mantenimiento de la infraestructura hidráulica y
+los recursos económicos necesarios para prestar el servicio de agua potable, así como
+los demás servicios a los usuarios, incluyendo el pago por los servicios ambientales
+hidrológicos que prestan los ecosistemas, de acuerdo con la política hídrica estatal y los
+objetivos y metas propuestos en el programa hídrico integral estatal;
+
+Cultura del agua: Conjunto de creencias, conductas y estrategias comunitarias para la
+utilización del agua, que se encuentra en las normas, formas organizativas,
+conocimientos, prácticas y objetos materiales que la comunidad se da o acepta tener, así
+como el tipo de relación entre las organizaciones sociales y en los procesos políticos que
+se concretan en relación con el aprovechamiento, uso y protección del agua;
+
+Depósito o vaso: La depresión natural o artificial de captación o almacenamiento de los
+escurrimientos y corrientes de agua;
+
+Derivación: La conexión de cualquiera de los servicios a que se refiere la presente Ley,
+de un predio a otro;
+
+Descarga: La acción de vaciar agua o cualquier otra sustancia, de forma continua o
+intermitente, al drenaje o alcantarillado, incluyendo los cauces, depósitos y vasos;
+
+Desinfección: Aplicación de métodos físicos o químicos para destruir o eliminar los
+gérmenes nocivos a la salud;
+
+Drenaje: Sistema de obras hidráulicas para la descarga y alejamiento de las aguas residuales y pluviales;
+
+**Gestión integral del agua:** Procesos asociados a la prestación de los servicios
+relacionados con los recursos hídricos, considerando su calidad, disponibilidad y los
+usos a los que se destinan, así como los costos del servicio del agua, y que, sin
+comprometer la sustentabilidad de los ecosistemas, deben orientarse a maximizar el
+bienestar social y económico de la población;
+
+
+Dilución: La acción de mezclar dos tipos de agua con diferentes características con
+objeto de obtener niveles intermedios de contaminación;
+
+Distribución de agua a través de pipas: Entrega de agua potable o tratada al
+consumidor a través de pipas;
+
+
+Drenaje: Sistema de obras hidráulicas para la descarga y alejamiento de las aguas
+residuales y pluviales;
+
+Explotación: Aplicación del agua en actividades encaminadas a extraer elementos
+químicos u orgánicos disueltos en la misma, después de lo cual es retornada a su fuente
+original sin consumo significativo;
+
+Grupos organizados de usuarios: Conjunto de ciudadanos, constituidos o no bajo una
+figura jurídica determinada, diferentes de los prestadores de los servicios, que prestan el
+servicio de agua potable;
+
+Infraestructura domiciliaria: Instalaciones hidráulicas y sanitarias en el domicilio del
+usuario para la prestación de los servicios que establece esta Ley;
