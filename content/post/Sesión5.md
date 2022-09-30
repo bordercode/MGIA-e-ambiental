@@ -1,10 +1,10 @@
 ---
-title: Sesion 5
+title: Sesión 5
 date: 2022-09-02
 linktitle: El enfoque de la Economía Ambiental
 menu:
   main:
-    name: Sesion 5
+    name: Sesión 5
     weight: 5
 ---
   

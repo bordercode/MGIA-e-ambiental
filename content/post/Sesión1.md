@@ -4,7 +4,7 @@ date: 2022-09-08
 linktitle: Conceptos fundamentales de Economía
 menu:
   main:
-    name: Sesion 1
+    name: Sesión 1
     weight: 3
 ---
 #### Objetivos de aprendizaje de la sesión 1.  m
