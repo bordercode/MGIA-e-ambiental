@@ -84,6 +84,8 @@ Una perspectiva que cobra relevancia
 especialmente aplicada al escenario de los recursos naturales.
 
 
+
+
 ##### Lecciones del pasado
 
 **El hombre en su relación con el medio ambiente.**
@@ -196,6 +198,8 @@ Ver mapa de cuencas en
 2.- ¿Qué RHA muestra el escenario de mayor explotación según el IEH?
 
 
+
+
 ### Global outlook of water scarcity.
 
 ![](/img/world.jpg)
@@ -206,23 +210,6 @@ Ver mapa de cuencas en
 ![](/img/world3.jpg)
 ![](/img/world4.jpg)
 ![](/img/world5.jpg)
-
-
-#### Tarea  1  
-
-(Control de Lectura  5%)  **Tema:** La noción de Escasez en el contexto de GIRH. 
-
-[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Global outlook for water scarcity, food security, and hydropower de Mark W. Rosegrant (Capitulo 1).
-
-Leer sección *Introduction* y sección *water scarcity and food security*.
-
-
-#### Tarea 2 
-
-(Control de Lectura 5% 1 cuartilla)
-Lectura y discusión de:
-
-[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
 
 
 
@@ -256,6 +243,28 @@ Source https://data.worldbank.org/indicator/ER.H2O.INTR.PC
 glimpse(datos)
 
 ```
+
+
+
+
+#### Tarea  1  
+
+(Control de Lectura )  **Tema:** La noción de Escasez en el contexto de GIRH. 
+
+[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Global outlook for water scarcity, food security, and hydropower de Mark W. Rosegrant (Capitulo 1).
+
+Leer sección *Introduction* y sección *water scarcity and food security*.
+
+
+#### Tarea 2 
+
+(Control de Lectura 1 cuartilla)
+Lectura y discusión de:
+
+[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
+
+
+
 
 
 

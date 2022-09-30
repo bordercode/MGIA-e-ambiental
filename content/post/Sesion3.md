@@ -15,7 +15,7 @@ menu:
 
 Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el diseño de estrategias que generen los **incentivos** correctos. Por ejemplo mediante el sistema de **precios**
 
-##### Esquema de la economia de los recursos hidricos.
+##### Esquema de la economía de los recursos hídricos.
 
 + **3 Fuentes**
 + **4 Sectores**
@@ -146,7 +146,7 @@ Estime los siguientes indicadores para los 653 acuíferos en México.
 
 + Estime el número de concesiones por acuífero para extracción de agua subterránea.
 
-+ Estime el índice de concentración de concesiones por Km2, para el caso Chihuahua.
++ Estime el índice de concentración de concesiones por $Km^{2}$, para el caso Chihuahua.
 
 + Determine el valor recaudado por acuífero según Zona de disponibilidad.
 
@@ -162,26 +162,17 @@ Estime los siguientes indicadores para los 653 acuíferos en México.
 
 Utilice herramientas de percepción remota para caracterizar la demanda por RHS para el caso del acuífero 819 Laguna la Vieja y Los Juncos 847 en el estado de Chihuahua.
 
-[Input data](https://landsat.usgs.gov/pathrow-shapefiles)
-[Images](ftp://ftp.glcf.umd.edu/glcf/Landsat/WRS2/)
-[EarthExplorer](https://earthexplorer.usgs.gov/)
-
 
 Este es un caso de interés ya que en esta zona se ubica el principal desarrollo agrícola productor de algodón de México,lo que ha generado una intensa utilización de recursos hídricos subterráneos  dadas las condiciones climáticas de estas zonas que presentan regímenes  de precipitación limitada.
 
-la utilización de herramientas de percepción remota permite en este caso evidenciar la demanda generada por RHS en la zona.
+La utilización de herramientas de percepción remota permite en este caso evidenciar la demanda generada por RHS en la zona.
 
-Técnica aplicada composición de color (RGB R4 G3 B2 y color natural R3 G2 B1 ) con imagenes de proyecto Landsat 8. 
+Técnica aplicada composición de color (RGB R4 G3 B2 y color natural R3 G2 B1 ) con imagenes de proyecto  Sentinel. 
 
-Software: Integrated Land and Water Information Systems (ILWIS).
-
-
-Insumos: Imagen WRS  Path 31, Row 40.*(Acuifero 847 Los Juntos y Path 33 Row 39, para acuífero Laguna La Vieja 819)
+Software: **QGIS** con el plug-in **SCP**
 
 
-
-
-
+Insumos: Acuífero 847 Los Juntos, para acuífero Laguna La Vieja 819.
 
 
 #### Determinantes de la Oferta. 
@@ -212,17 +203,6 @@ Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y c
 
 [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 ------------------------
-  
-  
-  El desarrollo conceptual de la noción de valor  ha transitado diversos enfoques que se han sustentado en escuelas de pensamiento a lo largo de los siglos. Thomas Hobbes en Inglaterra *was very proud of the fact that he had found, in the pleasure-pain calculus, the single underlying spring for all human action*. 
-
-**Richard Cumberland** (1672) expanded Hobbes's narrow meaning of hedonism into a more general ethical precept.  By recognizing that our own pleasure and misery is tied up with that of society around us, Cumberland argued, the primary law of nature is not Hobbesian "self-preservation", **but rather the preservation of the "common Good of the whole system of rational agents"** (Cumberland, 1672: p.16).Para  indagar esta trayectoria conceptual se sugiere estudiar  [escuelas de pensamiento económico](http://www.hetwebsite.net/het/schools/utilitarian.htm). 
-
-A propósito de escuelas del pensamiento y sus divergencias...
-
-*Every school of thought is like a man who has talked to himself for a hundred years and is delighted with his own mind, however stupid it may be.* 
-
-(J.W. Goethe, 1817, Principles of Natural Science)
 
 
 Cuando nos referimos a  menejo de RH, la aplicación del principio de **utilidad marginal**, la noción de valor  requiere de ajustes ya que los RH proveen beneficios (utilidad en el lenguaje de economía) indirectos que se extienden mas allá de los usuarios directos. 
@@ -237,111 +217,11 @@ Otros escenarios comunes de aplicación del instrumental de economía incluyen:
 
 * Toma de decisiones sobre proyectos de infraestructura (análisis costo-beneficio). 
 
-
-
-
-### ¿Qué es el mercado? 
-
-##### El mercado como mecanísmo de asignación de recursos. 
-
->Es un mecanismo de asignación de recursos y funciona mediante **incentivos**. El incentivo clásico es el sistema de precios. 
-Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía).
-
-An **incentive** is something (such as the prospect of a punishment or reward) that 
-induces a person to act. Because **rational people** make decisions by comparing 
-**costs** and **benefits**, they respond to incentives. 
-
-> We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
-
-The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
-
-Dentro de las fallas del mercado veremos un subconjunto rederido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
-
-
-### Actividad de particicpación en clase.
-(15 minutos)
-
-Exposción de [The Nature of the economy. Chapter 3](https://drive.google.com/file/d/1AUzxdA6DTaOnFZrcnsei2e5qzH7me6ff/view?usp=sharing)
-
-Intro, 3.1, 3.1.1, 3.1.2, 3.2.1, 3.2.2, (3.2.3 3.2.3.1).
-
-#### Tarea 2  Control de Lectura y Exposición en clase. (Opcional)
-(Entrega Viernes 7 5%) 
-
-[Book Chapter P.215. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo Cambio y confrontación de proyectos políticos en la gestión del agua en México. Alex Ricardo Caldera Ortega, 2017.  
-
-
-Preguntas detonadoras en la reflexión.
-
-1. Consecuencias  de estrategias de impulso a la oferta de RH en México. 
-
-2. Como caracteriza el autor la crisis del agua que actualmente se tiene en México?
-
-3. Comente sobre la siguiente afirmación "La escasez no es una propiedad intrínseca del agua, sino es una construcción social donde se perciben restricciones en el aprovechamiento” (Ávila, 2003: 41)." 
-4. Considerando el manejo historico de los recursos hídricos en México. Comente sobre la disyuntiva desarrollo económico-sustentabilidad.
-
-## Determinación de valor de RH en el contexto Mexicano. 
-
-En nuestro país se tienen definidos instrumentos regulatorios que retoman los preceptos de economía para establecer valores. Uno de estos instrumentos se expreza por la Ley federal de derechos LFD. En este se definen criterios para el cobro de cuotas para el otorgamiento de concesiones de aprovecheamiento de aguas nacionales. 
-
-
-![](/img/LFD_capVII.jpg)
-
-La condición de  escasez influye para la definición de zonas de disponibilidad, estas a su vez implican niveles de cobro diferenciados. El supuesto de partida en esta asignación es la existencia de una relación inversa entre disponibilidad del recurso y monto de la cuota a pagar por usuarios. 
-
-La siguiente tabla muestra un ejemplo de estos montos por zona de disponibilidad. 
-
-![](/img/art_223.jpg)
-
-**Pregunta**. ¿Por qué la cuota para agua subterránea es superior a la correspondiente a aguas superficial si en principio el agua superficial es menos abundante?
-
-Así la LFD publica las definiciones que permiten la estimación de los parámetros de disponibilidad de RH en el país. 
-
-La figura siguiente muestra estas definiciones. 
-
-![](/img/idas.jpg)
-
-![](/img/idas2.jpg)
-
-
-La aplicación de los principios de economía a la regulación de los RH en México también permite la definición de zonas protegidas o zonas de veda en el caso del aprovechamiento de RHS. 
-
-La figura siguiente muestra un ejemplo de esta aplicación para el caso Chihuahua. 
-
-![](/img/Ejerciciovedas2-1.jpg)
-
-
-
-
-
-
--*-*--*--*--*--*-*-*-*-*-*-*-*-*
-
-Imagen WRS:P33R39 Región El Valle, Chihuahua, **acuífero 819: Laguna la Vieja**. 
-
-
-![819](/img/cc3339.jpg)
-
-
-Imagen WRS:P31R40 Región Oasis, Chihuahua, **acuífero 847: Los Juncos**
-
-![847](/img/cc3140.jpg)
-
-### Datos para trabajo final sobre SONORA
-
-[aprovechamientos_subte_26.csv](https://drive.google.com/file/d/1kEWdYQzJCDrmtQBH9dkuHH2X0wqZWhpb/view?usp=sharing)
-
-[dataacuiferos26t.dbf ](https://drive.google.com/file/d/1au6ky1N-v9j37GMwkK-EzVhxzLtrEvLD/view?usp=sharing)
-
 ### Tarea.
-
-
 
 Realizar Lectura del capítulo 2: Optimal Allocation and Development by Ronald Griffin [Book](https://drive.google.com/file/d/19D7oW3jc9xYgK15CcVd3vfp5iGXZRQR3/view?usp=sharing)
 
-*Comentar en Disqus. (Entrega Martes 18)*
-
-
+*Comentar en Disqus.*
 
 1. Describa la noción de eficiencia económica neutral.
 
