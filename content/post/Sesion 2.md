@@ -82,6 +82,23 @@ Los recursos hídricos son un recurso **especial** entre otros aspectos por que 
 
 Podemos pensar en agua de distinta calidad pero esta se orienta a proceso bien diferenciados y muy específicos. Agua tratada para riego, agua necesaria para la producción de bebidas como la cerveza. Agua de plantas desalinizadoras. En todos los casos podemos observar que cada una tiene su nicho y no son subtitutos perfectos.
 
+Con base en evidnecia empirica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua la insulina, etc.  tendrán una **elasticidad menor**,  serán  inelásticos.
+
+
+El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
+
++ Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
+
++ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
+
+
+Los recursos hidricos para uso doméstico, qué comportamiento en relación a la elasticidad pueden exhibir? 
+
+Es probable que la elasticidad dependa de la circunstancia (uso consuntivo) pero en general no se espera una elasticidad elevada. No se espera una reducción en la demanda ante cambios en su precio y en última instancia en un escenario de relativa escasez, la demanda tenderá a ser completamente inelástica.
+
+Este resultado tiene implicaciones para la fijación de precios, coutas y tarifas en los diferentes sectores.
+
+
 
 
 #### Determinantes de la Oferta. 
