@@ -1,6 +1,6 @@
 ---
 title: El mercado
-date: 2022-09-11
+date: 2022-10-08
 linktitle: El mercado
 menu:
   main:
