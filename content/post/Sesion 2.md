@@ -1,6 +1,6 @@
 ---
 title: Sesion 2
-date: 2018-09-11
+date: 2022-09-11
 linktitle: El mercado
 menu:
   main:
