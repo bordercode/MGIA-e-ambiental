@@ -8,6 +8,8 @@ menu:
     weight: 5
 ---
 
+## Teoría del consumidor y los mecanismos de mercado. 
+
 ### ¿Cómo debe responder la sociedad ante los retos que plantea la escasez  de Recursos hidricos?
 
 
@@ -28,8 +30,6 @@ Una cuestión central para economía es la
 
 Se asume que la utilidad marginal es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
 [Utilitarismo](http://www.hetwebsite.net/het/schools/utilitarian.htm) 
-
-**Principios de Microeconomía:** 
 
 
 ### Determinantes de la demanda.
@@ -110,7 +110,16 @@ En algunos estados de la república Méxicana se establece el pago por servicios
 *"conforme al artículo 22(1) de la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, la obligación de pago de las cuotas por consumo de agua, tendrán carácter fiscal."*"
 
 
-cuando no se cubran los derechos a que se refiere el artículo 15 de la citada ley, respecto lo cual, el adeudo se haría efectivo en los términos y condiciones que establezca la legislación fiscal del Estado de Baja California.
+*"cuando no se cubran los derechos a que se refiere el artículo 15 de la citada ley, el adeudo se haría efectivo en los términos y condiciones que establezca la legislación fiscal del Estado de Baja California."*
+
+
+
+#### Demanda Efectiva y el precio de los RH.
+
+Lectura capitulo 4. [Introduction to the economics of water Resources](https://drive.google.com/file/d/1kGQO1XsnrqKCI5sxthq3Nkwf0NGA3XZd/view?usp=sharing)
+
+  (pp. 50-66, secc.4.1-4.6 and 4.9.)
+
 
 #### Determinantes de la Oferta. 
 
@@ -136,7 +145,7 @@ En la práctica diversas acciones institucionaes y inducen modificaciones en la 
 
 **Ejercicio**
   
-  Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y clasifique las medidas propuestas como promotoras de demanda o de la oferta. 
+Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y clasifique las medidas propuestas como promotoras de demanda o de la oferta. 
 
 [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 ------------------------
