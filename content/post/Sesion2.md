@@ -229,6 +229,7 @@ and **1,000** indicates **Stress**, CMpy between **500** and **1000** indicates
 
 
 Lectura complementaria. página 8 - 45
+Para comentar en **Disquss**
 
 [The State of Water Resources and the Need for a Comprehensive Perspective](https://drive.google.com/file/d/1r0tuXMKOzc3lLE3tm0ehKmr2HPv6QvNi/view?usp=sharing)
 
