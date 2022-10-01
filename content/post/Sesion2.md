@@ -248,14 +248,11 @@ Preguntas detonadoras.
 ```{r}
 library(tidyverse)
 
-datos<-read.csv("C:/Users/josel/Desktop/on/docencia/Semestre-2022-2/MAGIA/data/d.csv")%>%select(1:3,X2018,X1962)
+# Cargar los datos desde el URL
 
+agua<-read.csv("agua_R.csv")
 
 Source https://data.worldbank.org/indicator/ER.H2O.INTR.PC
-
-
-glimpse(datos)
-
 ```
 
 
