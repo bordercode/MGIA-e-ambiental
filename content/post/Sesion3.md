@@ -15,7 +15,7 @@ menu:
 
 Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el diseño de estrategias que generen los **incentivos** correctos. Por ejemplo mediante el sistema de **precios**
 
-##### Esquema de la economía de los recursos hídricos.
+##### Esquema de la economía de los recursos hídricos considerando los sectores demandantes y la oferta o fuentes que rpoveen el recurso. 
 
 + **3 Fuentes**
 + **4 Sectores**
@@ -28,8 +28,23 @@ Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el 
 Una cuestión central para economía es la
 **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la **utilidad marginal**, concepto que se entiende como un beneficio derivado del consumo de unidades adicionales de un bien.
 
-Se asume que la utilidad marginal es decreciente. Economistas del periodo clásico como **Jeremy Bentham** (siglo XIX) son pioneros en esta conceptualización basada en el **hedonismo** que asume el placer como benéfico y el dolor en detrimento del bienestar de una persona.
-[Utilitarismo](http://www.hetwebsite.net/het/schools/utilitarian.htm) 
+Se asume que la utilidad marginal es decreciente. El grado de satisfacción de n a necesidad que se cubre con el consumo de unidades adicionales tiende a decrecer. 
+
+
+**Preguntas para reflexionar. **
+
+How should we value water? 
+
+In public policy decisions, when **costs** and **benefits** are weighed, what value should we attach to the **services we receive from wetlands** that protect us from floods and filter our groundwater? 
+
+Are we putting enough value on the **aesthetics**, heritage and **recreational** uses of the **lakes**. 
+
+And, when we set prices for water usage, **should we charge dramatically more for ground water** than for **surface water?**
+  
+  
+Determining **the value of water**, as opposed to setting its **price**, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
+future **supply** of water and the **demands** likely to be made on that **supply**.
+
 
 
 ### Determinantes de la demanda.
@@ -82,7 +97,7 @@ Los recursos hídricos son un recurso **especial** entre otros aspectos por que 
 
 Podemos pensar en agua de distinta calidad pero esta se orienta a proceso bien diferenciados y muy específicos. Agua tratada para riego, agua necesaria para la producción de bebidas como la cerveza. Agua de plantas desalinizadoras. En todos los casos podemos observar que cada una tiene su nicho y no son subtitutos perfectos.
 
-Con base en evidnecia empirica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua, la insulina, etc.  tendrán una **elasticidad menor**,  serán  **inelásticos**.
+Con base en evidnecia empírica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua, la insulina, etc.  tendrán una **elasticidad menor**,  serán  **inelásticos**.
 
 
 El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].

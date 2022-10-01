@@ -37,20 +37,60 @@ Exposción de [The Nature of the economy. Chapter 3](https://drive.google.com/fi
 
 Intro, 3.1, 3.1.1, 3.1.2, 3.2.1, 3.2.2, (3.2.3 3.2.3.1).
 
+
+
 #### Tarea 2  Control de Lectura y Exposición en clase. (Opcional)
 (5%) 
 
-[Book Chapter P.215. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo Cambio y confrontación de proyectos políticos en la gestión del agua en México. Alex Ricardo Caldera Ortega, 2017.  
+[Book Chapter P.215. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo Cambio y confrontación de proyectos políticos en la gestión del agua en México. Alex Ricardo Caldera Ortega, 2017.   Sección 3.2.1. (en clase, resto de articulo para casa.)
+
+Preguntas detonadoras en la reflexión en clase. 
+
+1.- El caso Méxicano en materia del manejo de gestión hídrica es referido com oun ejemplo de ideas: 
 
 
-Preguntas detonadoras en la reflexión.
+a) Progresistas.
+
+b) Socialistas
+
+c) Neoliberales.
+
+
+2.-¿Qué influencia han tendio las ideas de la  **Conferencia Internacional sobre Agua y Medioambiente de Dublín en 1992** respecto a la perspectiva de análisis de la gestión de los recursos hidricos en México. 
+
+
+3.- Organismos como el **Banco Mundial** han emitido recomendaciones en torno a la GRH, indique tres directrices que han sido emitidas por este organismo y que han tenido infleuncia en la forma que México diseña su política hídrica? 
+
+
+4.-¿Cuál era el padrón estimado de concesionarios y  el universo estimado de usuarios hacia 1992 en México? 
+
+5.-¿Qué usuarios pagan los los valumens concesionados? 
+
+a) Agrícolas hasta el limite concesionado.
+
+b) Indsutriales.
+
+c) Organismos operadores del servicio de
+agua potable.
+
+5.-¿Qué objetivos y finalidades promovió el **Programa Nacional de Agua Potable, Alcantarillado y Saneamiento en Zonas Urbanas** (APAZU)?
+
+6.- ¿Cuántos contratos  **M&L** (*Management and leasing*) y **COT** (*Construcción, Operación, Transferencia*) indica el autor que existian en México al momento de su investigación?   
+
+
+7.- ¿Acorde con la investigación, ¿Qué municipio en México fue el primer caso que firmó contrato de prestación de servicios para extracción, conducción y cobranza?
+
+8.- ¿Qué concluye el autor en relación a los procesos de asignación de concesiones y dados los resultados obervados en municipios como Saltillo, Coahuila, Aguascalientes, Navojoa, Sonora.
+
+
+##### Preguntas: **Tarea**
 
 1. Consecuencias  de estrategias de impulso a la oferta de RH en México. 
 
 2. Como caracteriza el autor la crisis del agua que actualmente se tiene en México?
   
   3. Comente sobre la siguiente afirmación "La escasez no es una propiedad intrínseca del agua, sino es una construcción social donde se perciben restricciones en el aprovechamiento” (Ávila, 2003: 41)." 
-4. Considerando el manejo historico de los recursos hídricos en México. Comente sobre la disyuntiva desarrollo económico-sustentabilidad.
+4. Considerando el manejo histórico de los recursos hídricos en México. Comente sobre la disyuntiva desarrollo económico-sustentabilidad.
 
 ## Determinación de valor de RH en el contexto Mexicano. 
 
@@ -83,35 +123,4 @@ La figura siguiente muestra un ejemplo de esta aplicación para el caso Chihuahu
 ![](/img/Ejerciciovedas2-1.jpg)
 
 
-
-
-
-
-
--*-*-*-*-
-
-### Actividad. Leer en clase secciones 1.1 a 1.5.
-
-[Book](https://drive.google.com/file/d/1mhY7N-cLJHtSjkHZ6ArOtuYE2t7G4C5s/view?usp=sharing) The Analysis of Scarcity, Policies, and Projects. Cambridge, MA: MIT Press, 2006.Ronald C. Griffin]
-
-Pregunta para reflexionar. 
-
-How should we value water? In public policy decisions, when **costs** and **benefits** are weighed, what value should we attach to the services we receive from wetlands that protect us from
-floods and filter our groundwater? Are we putting enough value on the aesthetics, heritage and recreational uses of the lakes. 
-
-And, when we set prices for water usage, should we charge dramatically more for ground water than for surface water?
-  
-  
-  Determining **the value of water**, as opposed to setting its **price**, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
-future **supply** of water and the **demands** likely to be made on that **supply**.
-
-
-*Nota:* Es importante advertir la debilidad del instrumental de la economía para resolver los retos de la gestión integral de los recursos hídricos. 
-
-Es una disciplina con una dependencia fundamental en supuestos cuyo cumplimiento generalmente resultan una excepción. Ej. **Racionalidad.**
-  
-  A pesar de las limitaciones evidentes, el marco de análisis nos permite contar con una base para comprender el marco de toma de decisiones en torno al uso eficiente de los recursos hídricos. Y dado que se trata de un disciplina en el campo de las ciencias sociales, aporta elementos para el diseño de propuestas de solución ante los restos que la GIRH plantea.  
-
-
-Una crítica a las bases teóricas del planteamiento de modelos en economia se dirige a la toma de decisiones bajo el supuesto de **RACIONALIDAD**, un supuesto heróico!  Ver crítica de [The Framing of Decisions and the Psychology of Choice](https://drive.google.com/file/d/19JZZkPIljjmhoteLqSdB50wS1yTYT3VN/view?usp=sharing) Amos Tversky; Daniel Kahneman (2001 Nobel Laurate in Economics).
 

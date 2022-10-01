@@ -61,7 +61,9 @@ Alguna regiones compensan el desbalance con **importaciones** o travases entre a
 
 3.- ¿Qué estrategias pueden ser viables para atender la actual situación hidrica de la región? 
 
-Ver las acciones del plan **Maestro Nuevo León** en cuanto a proyectos de importación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
+
+
+### Analizar las acciones del plan **Maestro Nuevo León**  discutir  proyectos de importación [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
 Discutir la acción concreta:   **Río Pánuco**
 
@@ -78,15 +80,15 @@ Discutir la acción concreta:   **Río Pánuco**
 4.- En su opinión ¿es una proyecto sustentable en el largo plazo? Contribuye a resolver las causas o es una solución temporal?
 
 
-El análisis de la **escasez** no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la **escasez**, planteaba serios retos. 
+Desde el punto de vista teorico el análisis de la **escasez**  en el contexto de la actividad humana, no es una preocupación nueva. Una exposición famosa sobre el tema la encontramos a cargo del  profesor **Thomas Robert Malthus**  (1766-1834) en su ensayo *An Essay on the Principle of Population* al referirse al futuro de la Humanidad ante el hecho ineludible de la **escasez**, planteaba serios retos. 
 
 Una perspectiva que cobra relevancia 
 especialmente aplicada al escenario de los recursos naturales.
 
 
+##### Lecciones del pasado sobre la relación del hombre con sus recursos.
 
-
-##### Lecciones del pasado
+Del libro de texto  [Environmental and Natural resource economics](https://drive.google.com/file/d/1HpZvL-QDVMFYw7AGbB6PrsEMRXosY2va/view?usp=sharing) de Tom Tietenberg y Lynne Lewis. Página 3.
 
 **El hombre en su relación con el medio ambiente.**
 
@@ -99,15 +101,12 @@ La decadencia del **Imperio Romano.** aunque no se debió a custiones ambientale
 
 ¿Qué podemos decir de la manera en que, como sociedad,  estamos acabando con los recursos naturales y causando su contaminación indiscriminada? 
 
-See Text book page 3 [Environmental and Natural resource economics](https://drive.google.com/file/d/1HpZvL-QDVMFYw7AGbB6PrsEMRXosY2va/view?usp=sharing) de Tom Tietenberg y Lynne Lewis.
-
 Economía como una disciplina científica centrada en la toma de **decisiones**. 
 
 
 En el pasado como sociedad hemos fallado en reconocer las concecuencias de este ineludible hecho. 
 
 La escasez de recursos  hídricos involucra un alto grado de **injerencia pública**, lo que propocia la aparición de  **CONFLICTO** 
-
 
 
 [Trans-boundary-water issues](https://www.nytimes.com/2020/10/14/world/americas/mexico-water-boquilla-dam.html)
@@ -139,7 +138,7 @@ Monterrey acciones para atender la crisis por RH 2022.
 
 [Plan Maestro Nuevo León](https://www.nl.gob.mx/planmaestro-agua)
 
-+ Ver caso del proyecto de  **Presa Vicente Guerrero**. Es una presa en **Tamaulipas**, con una dimensión 3 veces más grande que **El Cuchillo** y que por su ubicación es viable **llevar agua hacia Nuevo León**.
++ Discutir caso del proyecto de  **Presa Vicente Guerrero**. Es una presa en **Tamaulipas**, con una dimensión 3 veces más grande que **El Cuchillo** y que por su ubicación es viable **llevar agua hacia Nuevo León**.
 
 **¿Qué reacción pueden tener los habitantes del estado de Tamaulipas ante esta propuesta?** 
 
@@ -152,6 +151,13 @@ Consiste en la construcción de un segundo ducto en la Presa El Cuchillo **(Chin
 **¿Qué impacto tendrá en los usos actuales del Municipio de China, NL.?** 
 
 Expresiones del concepto de escasez en México, distribución de RH en México. Notables contrastes en la disponibilidad  del recurso a escala regional.
+
+
+Obras de infraestrucutra para enfrentar la creciente demanda
+
+[Obras de ingeniería: El Sistema Cutzamala](https://www.youtube.com/watch?v=7VFA8AhxGlE)
+
+
 
 [Descriptive Statistics. MX Water Resources](https://sina.conagua.gob.mx/publicaciones/EAM_2019.pdf)
 
