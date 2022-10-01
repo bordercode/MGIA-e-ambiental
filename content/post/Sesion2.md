@@ -201,7 +201,7 @@ Ver mapa de cuencas en
 
 1.-Describa las variables empleadas para el cálculo de los indicadores inverso de Falkenmark y el  explotación hídrica.
 
-2.- ¿Qué RHA muestra el escenario de mayor explotación según el IEH?
+2.- ¿Qué Región Hidrológica Administrativa (RHA) muestra el escenario de mayor explotación según el índice de explotación hídrica (IEH)?
 
 
 
