@@ -214,6 +214,13 @@ alteración ecohidrológica de ríos en México,
 
 ### Indice de escasez. Falkenmark
 
+The Falkenmark indicator
+proposes three levels of available renewable water per capita per year,
+measured in cubic meter per capita per year and denoted CMpy, as
+follows: CMpy above **1,700** indicates **No Stress**, CMpy between **1700**
+and **1,000** indicates **Stress**, CMpy between **500** and **1000** indicates
+**Scarcity**, and CMpy below **500** indicates **Absolute Scarcity**.
+
 ![](/img/world2.jpg)
 ![](/img/world3.jpg)
 ![](/img/world4.jpg)
