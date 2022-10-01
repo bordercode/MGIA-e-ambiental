@@ -246,7 +246,7 @@ Preguntas detonadoras.
 
 [Datos Enlace descarga](https://drive.google.com/file/d/1tjN8LNzoz3hBOJYuAgD_5AbE2FXVSIQY/view?usp=sharing)
 
-[Base de datos de America Latina](https://drive.google.com/file/d/1JUEPEdiYmgrBpxnRmFDZXbkljNsvaVvG/view?usp=sharing)
+[Base de datos de América Latina](https://drive.google.com/file/d/1JUEPEdiYmgrBpxnRmFDZXbkljNsvaVvG/view?usp=sharing)
 
 
 ```{r}
