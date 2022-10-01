@@ -203,6 +203,10 @@ Ver mapa de cuencas en
 
 2.- ¿Qué Región Hidrológica Administrativa (RHA) muestra el escenario de mayor explotación según el índice de explotación hídrica (IEH)?
 
+3.- Considerando la información que aborda el autor sobre la situación de las fuentes superficiales en cuanto a indicadores sobre la
+alteración ecohidrológica de ríos en México, 
+¿Qué porcentaje de las cuencas hidrológicas en México exhiben grados de alteración de medio a alto?  Y cuáles son las cuencas hidrológicas con aleración muy alta?
+
 
 ### Global outlook of water scarcity.
 
