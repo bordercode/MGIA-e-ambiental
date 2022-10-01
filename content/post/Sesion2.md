@@ -250,7 +250,9 @@ library(tidyverse)
 
 # Cargar los datos desde el URL
 
-AmericaLatina<-read.csv("agua-AL.csv")
+AmericaLatina<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/agua-AL.csv")
+
+# Acceder a los datos agua renovable de todos los paises coparativo 1962 y 2018.
 
 agua<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/Agua_R.csv")
 
@@ -260,7 +262,12 @@ agua<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/ma
 
 agua<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/Agua_R.csv")%>%
 mutate(year=as.factor(year))%>%
-  mutate(AL=ifelse(pais%in%americalatina$pais,1,0))
+  mutate(AL=ifelse(pais%in%americalatina$pais,1,0))%>%
+  arrange(m3)%>%mutate(pais=as.factor(pais))
+  
+  
+  write.csv(agua, "agua2018.csv")
+  
 
 Source https://data.worldbank.org/indicator/ER.H2O.INTR.PC
 
