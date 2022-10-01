@@ -214,9 +214,9 @@ alteración ecohidrológica de ríos en México,
 
 ### Indice de escasez. Falkenmark
 
-The Falkenmark indicator
+The **Falkenmark** indicator
 proposes three levels of available renewable water per capita per year,
-measured in cubic meter per capita per year and denoted CMpy, as
+measured in **cubic meter** per capita **per year** and denoted **CMpy**, as
 follows: CMpy above **1,700** indicates **No Stress**, CMpy between **1700**
 and **1,000** indicates **Stress**, CMpy between **500** and **1000** indicates
 **Scarcity**, and CMpy below **500** indicates **Absolute Scarcity**.
@@ -234,15 +234,13 @@ Lectura complementaria. página 8 - 45
 
 Preguntas detonadoras. 
 
-1. Indique los umbrales que definen los conceptos de estrés hídrico, escasez hídrica y escasez hídrica absolta  en términos percápita por año.   
+1. Describa los retos asociados con las proyecciones de escasez hidrica a escala global en la proximas décadas.
 
-2. Describa los retos asociados con las proyecciones de escasez hidrica a escala global en la proximas décadas.
+2. Indique la proporción de recursos hídricos que se dedican a irrigación en actividades como la producción de alimentos mediante  agricultura a escala global. 
 
-3. Indique la proporción de recursos hídricos que se dedican a irrigación en actividades como la producción de alimentos mediante  agricultura a escala global. 
+3. Señale los elementos principales que intervienen en el contexto económico de los recursos hídricos. 
 
-4. Señale los elementos principales que intervienen en el contexto económico de los recursos hídricos. 
-
-5. Considerando la base de [datos](https://drive.google.com/file/d/163rvW7LWd2N0fDrnWoD90blylq9bS7-3/view?usp=sharing) sobre recursos hidricos renovables disponibles por pais, analice los diferentes niveles  para 5 paises de la región América Latina de su elección en contraste con los umbrales de estrés y escasez hidrica propuestos por Falkenmark. 
+4. Considerando la base de [datos](https://drive.google.com/file/d/163rvW7LWd2N0fDrnWoD90blylq9bS7-3/view?usp=sharing) sobre recursos hidricos renovables disponibles por pais, analice los diferentes niveles  para 5 paises de la región América Latina de su elección en contraste con los umbrales de estrés y escasez hidrica propuestos por **Falkenmark**. 
 
 
 
@@ -269,18 +267,4 @@ glimpse(datos)
 [Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Global outlook for water scarcity, food security, and hydropower de Mark W. Rosegrant (Capitulo 1).
 
 Leer sección *Introduction* y sección *water scarcity and food security*.
-
-
-#### Tarea 2 
-
-(Control de Lectura 1 cuartilla)
-Lectura y discusión de:
-
-[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
-
-
-
-
-
-
 

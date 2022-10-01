@@ -400,3 +400,20 @@ servicio de agua potable;
 
 Infraestructura domiciliaria: Instalaciones hidráulicas y sanitarias en el domicilio del
 usuario para la prestación de los servicios que establece esta Ley;
+
+
+
+
+#### Tarea 2.
+
+(Control de Lectura 1 cuartilla)
+Lectura y discusión de:
+
+[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
+
+
+
+
+
+
+
