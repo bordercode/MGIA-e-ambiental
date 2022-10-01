@@ -250,9 +250,40 @@ library(tidyverse)
 
 # Cargar los datos desde el URL
 
-agua<-read.csv("agua_R.csv")
+AmericaLatina<-read.csv("agua-AL.csv")
+
+agua<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/Agua_R.csv")
+
+# Source https://data.worldbank.org/indicator/ER.H2O.INTR.PC
+
+
+
+agua<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/Agua_R.csv")%>%
+mutate(year=as.factor(year))%>%
+  mutate(AL=ifelse(pais%in%americalatina$pais,1,0))
 
 Source https://data.worldbank.org/indicator/ER.H2O.INTR.PC
+
+
+Al<-agua%>%
+  arrange(m3)%>%mutate(pais=as.factor(pais))%>%
+  filter(AL=="1")
+  
+  write.csv(Al, "agua-AL.csv")
+  
+  Al2018<-agua2018%>%filter(AL=="1")
+
+glimpse(agua2018)
+
+agua1962<-agua%>%filter(year==1962)%>%
+  arrange(m3)
+
+
+ggplot(agua2018, aes(x=fct_inorder(pais, m3), y=m3)+
+geom_bar(stat="identity")
+
+
+
 ```
 
 
