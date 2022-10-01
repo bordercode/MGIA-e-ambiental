@@ -244,6 +244,10 @@ Preguntas detonadoras.
 4. Considerando la base de [datos](https://drive.google.com/file/d/163rvW7LWd2N0fDrnWoD90blylq9bS7-3/view?usp=sharing) sobre recursos hidricos renovables disponibles por pais, analice los diferentes niveles  para 5 paises de la región América Latina de su elección en contraste con los umbrales de estrés y escasez hidrica propuestos por **Falkenmark**. 
 
 
+[Datos Enlace descarga](https://drive.google.com/file/d/1tjN8LNzoz3hBOJYuAgD_5AbE2FXVSIQY/view?usp=sharing)
+
+[Base de datos de America Latina](https://drive.google.com/file/d/1JUEPEdiYmgrBpxnRmFDZXbkljNsvaVvG/view?usp=sharing)
+
 
 ```{r}
 library(tidyverse)
