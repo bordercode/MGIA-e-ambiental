@@ -28,10 +28,14 @@ Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el 
 Una cuestión central para economía es la
 **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la **utilidad marginal**, concepto que se entiende como un beneficio derivado del consumo de unidades adicionales de un bien.
 
-Se asume que la utilidad marginal es decreciente. El grado de satisfacción de n a necesidad que se cubre con el consumo de unidades adicionales tiende a decrecer. 
+Se asume que la **utilidad marginal**   (UM) es decreciente. $$\frac{\delta{UM}}{\delta{Q}}<0$$
+
+Donde $$UM=\frac{\delta{U}}{\delta{Q}}$$
+
+El grado de satisfacción que se obtiene con el **consumo** de unidades adicionales tiende a decrecer. 
 
 
-**Preguntas para reflexionar. **
+**Preguntas para reflexionar.**
 
 How should we value water? 
 
@@ -42,28 +46,28 @@ Are we putting enough value on the **aesthetics**, heritage and **recreational**
 And, when we set prices for water usage, **should we charge dramatically more for ground water** than for **surface water?**
   
   
-Determining **the value of water**, as opposed to setting its **price**, is a complex issue that is heavily influenced by the values one espouses, as well as the assumptions one makes about the
+Determining **the value of water**, as opposed to setting its **price**, is a **complex** issue that is heavily influenced by **the values one considers**, as well as the assumptions one makes about the
 future **supply** of water and the **demands** likely to be made on that **supply**.
 
-
-
 ### Determinantes de la demanda.
+
 
 La **DEMANDA** representa el nivel mínimo de **recursos (p)** que los consumidores estan dispuestos a pagar por adquirir una determinada **cantidad (q)** de un bien.
 
 
 Los 4 determinantes principales de la **demanda** son: 
 
-
-El **precio del propio bien**, el precio de bienes relacionados (**substitutos** o **complementarios**), el ingreso del consumidor, las preferenias, la expectativas del precio el tamaño de la población y las expectativas del ingreso.
+El **precio del propio bien**, el precio de bienes relacionados (**substitutos** o **complementarios**), el ingreso del consumidor, las preferencias, las expectativas del precio, el tamaño de la población y las expectativas del ingreso.
 
 
 **Dx=f(-px, py, I, Pr)**
 
-Adicionalmente 2 determinates de la demanda son las expectativas y el tamaño de la población. Abordaremos ambos a detalle más adelante en esta clase.
+Adicionalmente 2 determinates de la demanda son las expectativas y el tamaño de la población. 
 
 
-Curva de demanda con pendiente negativa expreza la disposición a pagar por parte de los consumidores y refleja el fenómeno de **utilidad marginal** **decreciente. Unidades adicionales de consumo representan un incremento cada vez menor de la utilidad asociada al consumo.  
+Curva de demanda con pendiente negativa expreza la **disposición a pagar** por parte de los consumidores y refleja el fenómeno de **utilidad marginal** **decreciente**.
+
+Unidades adicionales de consumo representan un incremento cada vez menor de la utilidad asociada al consumo.  
 
 ##### Utilidad Marginal y Curva de demanda: 
   
@@ -71,56 +75,65 @@ La utilidad que obtenemos por el consumo de unidades adicionales es decreciente,
 
 **El precio refleja la disponibilidad a pagar** por parte del consumidor y dado que la utilidad que obtiene de consumir unidades adicionales de un bien particular **tiende a disminuir**, su disponibilidad a pagar por unidades adicionales decrece. 
 
-Hay una relación inversa entre cantidad demandad y el precio.  
+Hay una **relación inversa** entre cantidad demandada y el precio.  $$Q=f(P)_{-}$$
 
 
 ### Elasticidad de la demanda.
 
 La sensibilidad que tiene la cantidad demandada de un bien respecto a variaciones en su precio se denomina elasticidad. 
 
-Intuitavamente la definición de **elasticidad** nos permite determinar qué tan flexible es la demanda cuando experimentamos un incremento en el precio de un bien. 
+Intuitavamente la definición de **elasticidad** nos permite determinar qué tan **flexible** es la demanda cuando experimentamos un **incremento en el precio** de un bien. 
 
 La expresión queda definida por $$ED=Variación porcentual de la demanda/Variación porcentual del precio$$
+
+$$\frac{\delta{{Q}}{\delta{P}}*\frac{P}{Q}$$
+
 
 Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
 
 
-Por ejemplo en un proyecto productivo de un cultivo como el Aguacate, la infraestructura de riego por aspersión es un bien o  producto **complementario** de los **recursos hídricos** 
+Por ejemplo, en un proyecto productivo de un cultivo como el Aguacate, la infraestructura de riego por aspersión es un bien o  producto **complementario** de los **recursos hídricos** 
 
 Las variacions en los precios en este conjunto de bienes impactan la demanda. 
 
-Un bien **substituto** del **agua azul**, utilizada en un proyecto como un campo de golf, puede tener un bien substituto como el agua tratada.
+Un bien **substituto** del **agua azul**, utilizada en un proyecto como un campo de golf, puede tener un bien substituto como el **agua tratada**.
 
-Los recursos hídricos son un recurso **especial** entre otros aspectos por que no poseen substitutos cercanos.
+Los recursos hídricos son un recurso **especial** entre otros aspectos, por que **no poseen substitutos** cercanos.
 
-¿Qué recurso puede subtituir el **agua**?
+¿Qué recurso puede substituir el **agua**?
 
-Podemos pensar en agua de distinta calidad pero esta se orienta a proceso bien diferenciados y muy específicos. Agua tratada para riego, agua necesaria para la producción de bebidas como la cerveza. Agua de plantas desalinizadoras. En todos los casos podemos observar que cada una tiene su nicho y no son subtitutos perfectos.
+Podemos pensar en **agua con distintos grados de calidad** pero esta se orienta a procesos muy específicos y bien diferenciados.
 
-Con base en evidnecia empírica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua, la insulina, etc.  tendrán una **elasticidad menor**,  serán  **inelásticos**.
+Ejemplo: Agua tratada para riego, vs. agua necesaria para la producción de bebidas como la cerveza o el agua resultante de los procesos de plantas desaladoras. 
+
+En todos los casos podemos observar que cada una tiene su nicho y no son recursos que se identifiquen como **subtitutos perfectos**.
+
+Con base en evidencia empírica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua, la insulina, etc.  tendrán una **elasticidad menor**,  serán  **inelásticos**.
 
 
 El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
 
 + Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
 
-+ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio). 
++ Mientras que valores **|e|<1**, productos cuya reducción en la demanda es menos que proporcional a la magnitud del incremento en el precio. 
 
-La representación siguiente nos muestra los tres escenarios relevantes en cuanto al parámetro de elasticidad precio de la demanda. 
+La representación siguiente nos muestra los **tres escenarios** relevantes en cuanto al parámetro de **elasticidad precio de la demanda**. 
 
 ![](/img/elasticity.jpg)
 
-Considere el caso de los recursos hídricos para uso doméstico, ¿qué comportamiento en relación a la elasticidad pueden exhibir? 
+Considere el caso de los recursos hídricos para uso **doméstico**, ¿qué comportamiento en relación a la elasticidad pueden exhibir? 
 
-Es probable que la elasticidad dependa de la circunstancia (uso consuntivo) pero en general **no se espera una elasticidad elevada**. No se espera una reducción en la demanda ante cambios en su precio y en última instancia en un escenario de relativa escasez, la demanda tenderá a ser **completamente inelástica.**
+Es probable que la elasticidad dependa de la circunstancia (uso consuntivo) pero en general **no se espera una elasticidad elevada**. 
 
-Este resultado tiene implicaciones para la fijación de precios, la aplicación cuotas.  
+No se espera una reducción en la demanda ante cambios en su **precio** y en última instancia en un escenario de relativa escasez, **la demanda tenderá a ser completamente inelástica.**
+
+
+Este resultado tiene **implicaciones para la fijación de cuotas**.  
 
 Concretamente en la definición del pago por derechos de agua y tarifas en los diferentes sectores.
 
-En algunos estados de la república Méxicana se establece el pago por servicios como de carácter fiscal.   
+En algunos estados de la república Méxicana se establece el pago por servicios  de agua potable y saneamiento como un tema con carácter fiscal.   
 
-**Actualmente, la determinación de las cuotas por el consumo del agua está ligada al esquema fiscal.**
 
 *"conforme al artículo 22(1) de la Ley de las Comisiones Estatales de Servicios Públicos del Estado de Baja California, la obligación de pago de las cuotas por consumo de agua, tendrán carácter fiscal."*
 
@@ -133,47 +146,10 @@ En algunos estados de la república Méxicana se establece el pago por servicios
 
 Lectura capitulo 4. [Introduction to the economics of water Resources](https://drive.google.com/file/d/1kGQO1XsnrqKCI5sxthq3Nkwf0NGA3XZd/view?usp=sharing)
 
-  (pp. 50-66, secc.4.1-4.6 and 4.9.)
-
-### Ejercicios   
-
-[Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
-
-##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
-
-Estime los siguientes indicadores para los 653 acuíferos en México.
-
-- Volumen concesionado.
-
-- El coeficinte de GINI para mediar el grado de inequidad en el volumen concesionado en relación a la proporción de usuarios. 
-
-- Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
-
-- Aplique el enfoque de CONAGUA y estime el indice de disponibilidad (IDAS) para establecer las zonas de disponibilidad y asignación de cuotas para cobro de derechos de aprovechamiento de RHS.
-
-- ¿Cuántos acuíferos por Zona se tienen en México?
-
-- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
-
-- Emita su opinión sobre la pertienencia de utilizar el enfoque ivcas en contrsate con idas para detectar sobre explotación. (¿Qué proporción de acuiferos se encuentra en situación de sobre explotación bajo cada enfoqe?)
-
-##### E.2
-
-+ Estime el número de concesiones por acuífero para extracción de agua subterránea.
-
-+ Estime el índice de concentración de concesiones por $Km^{2}$, para el caso Chihuahua.
-
-+ Determine el valor recaudado por acuífero según Zona de disponibilidad.
-
-+ Presente los resultados en versión gráfica, indicando lineas de referencia para valores promedio (thresholds).
-
-+ Estime el valor recaudado por acuífero según Zona de disponibilidad considerando unicamente el principal uso consuntivo.
-
-+ Presente resultados en versión gráfica.
+  (pp. 50-66, secc.4.1-4.6 y 4.9.)
 
 
-
-#### E.3 Demanda de RH subterrános.
+#### Ejercicio.  Demanda de RH subterrános.
 
 Utilice herramientas de percepción remota para caracterizar la demanda por RHS para el caso del acuífero 819 Laguna la Vieja y Los Juncos 847 en el estado de Chihuahua.
 
@@ -190,11 +166,57 @@ Software: **QGIS** con el plug-in **SCP**
 Insumos: Acuífero 847 Los Juntos, para acuífero Laguna La Vieja 819.
 
 
-#### Determinantes de la Oferta. 
+### Determinantes de la Oferta. 
 
-O=f(+C). La curva de oferta refleja el fenómeno de rendimiento marginal decreciente. El supuesto de esta teoría es la existencia de factores productivos ej. tierra trabajo, capital. 
 
-El incremento de uno de estos factores (trabajo) manteneindo fijo el resto de los factores implica una aportación cada vez menor sobre la producción. 
+La determianción de la oferta se basa en la **teoría del productor**
+
+El supuesto de partida es que el productor busca minimizar un función objetivo: **la función de costos.** 
+
+La producción a su vez es posible debido a la utilización **eficiente** de los factores productivos, dado un proceso **tecnológico concreto**, este último, entendido como una manera de combinar los recursos para producir.
+
+
+En términos generales ej. **Q= f(tierra, trabajo, capital).** 
+
+El incremento de uno de estos factores (trabajo) manteneindo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
+
+El efecto de esta relación se resume bajo el concepto de prodductividad marginal decreciente,  $$PMD_{L}=\frac{\delta {Productividad}}{\delta{L}}$$
+
+La siguiente gráfica muestra esta conceptualización
+
+![](/img/porduction.jpg)
+*Producción Marginal decreciente *
+
+
+Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CM**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
+
+Por su parte el impacto de una innovación tecnológica, permitirá deslplazar la curva de producción a mayores niveles,  manteniendo (*ceteris paribus*) el resto de insumos  constante.
+
+**Note** en la figura siguiente, el cambio en la pendiente de la curva que representa la función de producción.
+
+![](/img/tecnologia.jpg)
+
+
+
+### ¿Qué es el mercado? 
+
+##### El mercado como mecanísmo de asignación de recursos. 
+
+>Es un mecanismo de asignación de recursos y funciona mediante **incentivos**. El incentivo clásico es el sistema de precios. 
+Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía).
+
+An **incentive** is something (such as the prospect of a punishment or reward) that 
+induces a person to act. Because **rational people** make decisions by comparing 
+**costs** and **benefits**, they respond to incentives. 
+
+> We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
+
+The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
+  
+  Dentro de las fallas del mercado veremos un subconjunto rederido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
+
+Observamos en la siguiente represetnación gráfica, el comportamiento teórico de las fuerzas del mercado.
+
 
 ![](/img/supply-demmand.jpg)
 
@@ -211,6 +233,12 @@ Los desequilibrios emergentes en el contexto del mercado por RH pueden clasifica
 En la práctica diversas acciones institucionaes y inducen modificaciones en la oferta y la demanda. 
 
 ![](/img/demand-supply.jpg)
+
+#### Actividad
+
+Observe el siguiente clip y comente en el grupo sobre las obras que impulsan la oferta.
+
+[Supply side. Infraestructura](https://www.youtube.com/watch?v=T1Nq2XxEjwU)
 
 **Ejercicio**
   
@@ -232,47 +260,16 @@ Otros escenarios comunes de aplicación del instrumental de economía incluyen:
 
 * Toma de decisiones sobre proyectos de infraestructura (análisis costo-beneficio). 
 
-### Tarea.
 
-Realizar Lectura del capítulo 2: Optimal Allocation and Development by Ronald Griffin [Book](https://drive.google.com/file/d/19D7oW3jc9xYgK15CcVd3vfp5iGXZRQR3/view?usp=sharing)
+#### Tarea 2.
 
-*Comentar en Disqus.*
+(Control de Lectura 1 cuartilla)
+Lectura y discusión de:
 
-1. Describa la noción de eficiencia económica neutral.
-
-2. Comente en que consiste el concepto de eficiencia económica agregada.
-
-3. Defina el costo de provisión de RH. 
-
-4. ¿Qué papel tienen los organismos operadores en el proceso de oferta de RH? Y los Distritos de Riego?
-
-5. ¿Es posible contar con un mercado competitivo (Mercado con diversos proveedores) para la provisión de RH 
-
-6. Algua excepción a este esquema de mercado para proveer RH.Por qué?
+[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
 
 
 
-7. Explique el diagrama de costos totales y marginales en un caso hipotético de suministro de RH. 
-
-
-8. Cómo se forma la curva de CT?
-
-
-9. Qué son los costos marginales?
-
-10. Explique el mecanismo que generar un costo marginal decreciente durante la fase inicial de suministro? 
-
-
-11. ¿Es posible considerar la curva de costos totales como la función de oferta de RH? 
-
-
-12. Explique la noción de función de producción y los conceptos de rendimientos crecientes a escala y decrecientes a escala.  (Utilice la expresión formal)
-
-
-14. Presente el diagrama de los rendimientos a escala para la función de costo marginal.
-
-
-15. Explique el comportamiento de maximización de ganancias que la forma convencional de la función de producción implica y utilizando los principios de  RCD indique el rango óptimo de operación para suministro de RH. 
 
 ### Glosario 
 
@@ -400,16 +397,6 @@ servicio de agua potable;
 
 Infraestructura domiciliaria: Instalaciones hidráulicas y sanitarias en el domicilio del
 usuario para la prestación de los servicios que establece esta Ley;
-
-
-
-
-#### Tarea 2.
-
-(Control de Lectura 1 cuartilla)
-Lectura y discusión de:
-
-[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
 
 
 

@@ -14,7 +14,67 @@ menu:
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-#  Ejercicio 1  (Unidad 1 20%)
+#  Ejercicio   (Sesion 2)
+
+```{r}
+
+library(tidyverse)
+library(plotly)
+
+
+# Acceder a los datos agua renovable de todos los paises coparativo 1962 y 2018.
+
+
+agua<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/agua2018.csv")%>%
+na.omit()%>%
+arrange(m3)%>%
+mutate(pais=as.factor(pais))%>%
+mutate(year=as.factor(year))
+
+
+# Acceder a los datos desde el URL
+
+AmericaLatina<-read.csv("https://raw.githubusercontent.com/bordercode/MGIA-e-ambiental/master/agua-AL.csv")%>%
+arrange(m3)%>%
+mutate(pais=as.factor(pais))%>%
+mutate(year=as.factor(year))
+
+# Source https://data.worldbank.org/indicator/ER.H2O.INTR.PC
+
+
+
+#Comparativo para AL 
+
+ggplot(AmericaLatina, aes(x=reorder(pais,m3), y=m3,  fill=year)) + 
+  geom_bar(stat="identity")+
+coord_flip()+
+  facet_wrap(~year)+
+  ylab("Agua renovable (m3) per cápita/año")+
+  xlab("páis")+
+  theme_light()+
+ geom_hline(yintercept = 1700, size=.5, linetype="dashed",color='orangered3')+
+  scale_fill_manual(values =c("indianred2", "deepskyblue4"))
+
+
+
+# Comparativo para los paises del mundo
+
+world<-ggplot(agua, aes(x=reorder(pais,m3), y=m3,  fill=year)) +   geom_bar(stat="identity")+
+coord_flip()+
+  facet_wrap(~year)+
+  ylab("Agua renovable (m3) per cápita/año")+
+  xlab("páis")+
+  theme_light()+
+ geom_hline(yintercept = 1700, size=.5, linetype="dashed",color='orangered3')+
+ geom_hline(yintercept = 1000, size=.5, linetype="dashed",color='purple')+
+ geom_hline(yintercept = 500, size=.5, linetype="dashed",color='green')+
+  scale_fill_manual(values =c("indianred2", "deepskyblue4"))
+
+ggplotly(world)
+```
+
+
+## Ejercicio E.1 Sesión 3 
 
 ```{r Load req. packages  }
                library(tidyverse)

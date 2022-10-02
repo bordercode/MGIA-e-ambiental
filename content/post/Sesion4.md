@@ -9,44 +9,16 @@ menu:
 ---
   
 
+### El mercado.
 
 
-
-### ¿Qué es el mercado? 
-
-##### El mercado como mecanísmo de asignación de recursos. 
-
->Es un mecanismo de asignación de recursos y funciona mediante **incentivos**. El incentivo clásico es el sistema de precios. 
-Los precios permiten emitir señales a las que reaccionan los agentes (consumidores, productores ej. proveedores de servicios de agua o usuarios en los diferentes segmentos: agrícola, industrial, doméstico, generación de energía).
-
-An **incentive** is something (such as the prospect of a punishment or reward) that 
-induces a person to act. Because **rational people** make decisions by comparing 
-**costs** and **benefits**, they respond to incentives. 
-
-> We need to keep in mind that decisions are made by **HUMANS** (still...), by that  I mean that as humans we are ruled by **pleasure and pain**, seeking the former and avoiding the latter. 
-
-The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
-  
-  Dentro de las fallas del mercado veremos un subconjunto rederido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
-
-
-### Actividad de particicpación en clase.
-(15 minutos)
-
-Exposción de [The Nature of the economy. Chapter 3](https://drive.google.com/file/d/1AUzxdA6DTaOnFZrcnsei2e5qzH7me6ff/view?usp=sharing)
-
-Intro, 3.1, 3.1.1, 3.1.2, 3.2.1, 3.2.2, (3.2.3 3.2.3.1).
-
-
-
-#### Tarea 2  Control de Lectura y Exposición en clase. (Opcional)
-(5%) 
+#### Actividad  reflexión en clase.
 
 [Book Chapter P.215. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo Cambio y confrontación de proyectos políticos en la gestión del agua en México. Alex Ricardo Caldera Ortega, 2017.   Sección 3.2.1. (en clase, resto de articulo para casa.)
 
 Preguntas detonadoras en la reflexión en clase. 
 
-1.- El caso Méxicano en materia del manejo de gestión hídrica es referido com oun ejemplo de ideas: 
+1.- El caso Méxicano en materia del manejo de gestión hídrica es referido como un ejemplo de ideas: 
 
 
 a) Progresistas.
@@ -59,12 +31,12 @@ c) Neoliberales.
 2.-¿Qué influencia han tendio las ideas de la  **Conferencia Internacional sobre Agua y Medioambiente de Dublín en 1992** respecto a la perspectiva de análisis de la gestión de los recursos hidricos en México. 
 
 
-3.- Organismos como el **Banco Mundial** han emitido recomendaciones en torno a la GRH, indique tres directrices que han sido emitidas por este organismo y que han tenido infleuncia en la forma que México diseña su política hídrica? 
+3.- Organismos como el **Banco Mundial** han emitido recomendaciones en torno a la GRH, indique tres directrices que han sido emitidas por este organismo y que han tenido influencia en la forma que México diseña su política hídrica? 
 
 
 4.-¿Cuál era el padrón estimado de concesionarios y  el universo estimado de usuarios hacia 1992 en México? 
 
-5.-¿Qué usuarios pagan los los valumens concesionados? 
+5.-¿Qué usuarios pagan los valumens concesionados? 
 
 a) Agrícolas hasta el limite concesionado.
 
@@ -89,7 +61,8 @@ agua potable.
 
 2. Como caracteriza el autor la crisis del agua que actualmente se tiene en México?
   
-  3. Comente sobre la siguiente afirmación "La escasez no es una propiedad intrínseca del agua, sino es una construcción social donde se perciben restricciones en el aprovechamiento” (Ávila, 2003: 41)." 
+3. Comente sobre la siguiente afirmación "La escasez no es una propiedad intrínseca del agua, sino es una construcción social donde se perciben restricciones en el aprovechamiento” (Ávila, 2003: 41)." 
+
 4. Considerando el manejo histórico de los recursos hídricos en México. Comente sobre la disyuntiva desarrollo económico-sustentabilidad.
 
 ## Determinación de valor de RH en el contexto Mexicano. 
@@ -118,9 +91,55 @@ La figura siguiente muestra estas definiciones.
 
 La aplicación de los principios de economía a la regulación de los RH en México también permite la definición de zonas protegidas o zonas de veda en el caso del aprovechamiento de RHS. 
 
+
+### Ejercicios   
+
+[Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
+
+
+Revisar documentación en [Las zonas de disponibilidad de agua subterránea en México: Propuesta para su rediseño.](https://drive.google.com/file/d/1DRzNLaa1tTTuSMMxS1ER9GCr3igPzQtY/view?usp=sharing)
+
+##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
+
+
+
+Estime los siguientes indicadores para los 653 acuíferos en México.
+
+- Volumen concesionado.
+
+- El coeficinte de GINI para medir el grado de inequidad en el volumen concesionado en relación a la proporción de usuarios. 
+
+- Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
+
+- Aplique el enfoque de CONAGUA y estime el indice de disponibilidad (IDAS) para establecer las zonas de disponibilidad y asignación de cuotas para cobro de derechos de aprovechamiento de RHS.
+
+- ¿Cuántos acuíferos por Zona se tienen en México?
+
+- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
+
+- Emita su opinión sobre la pertinencia de utilizar el enfoque **ivcas** en contrsate con **idas** para detectar sobre explotación. (¿Qué proporción de acuíferos se encuentra en situación de sobre explotación bajo cada enfoqe?)
+
+##### E.2
+
++ Estime el número de concesiones por acuífero para extracción de agua subterránea.
+
++ Estime el índice de concentración de concesiones por $Km^{2}$, para el caso Chihuahua.
+
++ Determine el valor recaudado por acuífero según Zona de disponibilidad.
+
++ Presente los resultados en versión gráfica, indicando lineas de referencia para valores promedio (thresholds).
+
++ Estime el valor recaudado por acuífero según Zona de disponibilidad considerando unicamente el principal uso consuntivo.
+
++ Presente resultados en versión gráfica.
+
+
+
+
+
+
 La figura siguiente muestra un ejemplo de esta aplicación para el caso Chihuahua. 
 
 ![](/img/Ejerciciovedas2-1.jpg)
-
 
 
