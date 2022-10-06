@@ -1,6 +1,6 @@
 ---
 title: Teoría del consumidor
-date: 2022-10-05
+date: 2022-11-05
 linktitle: El mercado
 menu:
   main:
