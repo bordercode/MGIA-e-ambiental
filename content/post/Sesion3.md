@@ -180,7 +180,9 @@ En términos generales ej. **Q= f(tierra, trabajo, capital).**
 
 El incremento de uno de estos factores (trabajo) manteneindo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
 
-El efecto de esta relación se resume bajo el concepto de prodductividad marginal decreciente,  $$PMD_{L}=\frac{\delta {Productividad}}{\delta{L}}$$
+El efecto de esta relación se resume bajo el concepto de prodductividad marginal decreciente,  $$PMD_{L}=\frac{\delta {y}}{\delta{L}}$$
+
+Donde $$y=f(L)$$
 
 La siguiente gráfica muestra esta conceptualización
 
