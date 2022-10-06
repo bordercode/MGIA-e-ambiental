@@ -28,9 +28,9 @@ Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el 
 Una cuestión central para economía es la
 **determinación del valor** y un principio de asignación de valor desarrollado teóricamente es a través de la **utilidad marginal**, concepto que se entiende como un beneficio derivado del consumo de unidades adicionales de un bien.
 
-Se asume que la **utilidad marginal**   (UM) es decreciente. $$\frac{\delta{UM}}{\delta{Q}}<0$$
+Se asume que la **utilidad marginal**   (UM) es decreciente. $$\frac{\partial{UM}}{\partial{Q}}<0$$
 
-Donde $$UM=\frac{\delta{U}}{\delta{Q}}$$
+Donde $$UM=\frac{\partial{U}}{\partial{Q}}$$
 
 El grado de satisfacción que se obtiene con el **consumo** de unidades adicionales tiende a decrecer. 
 
@@ -86,7 +86,7 @@ Intuitavamente la definición de **elasticidad** nos permite determinar qué tan
 
 La expresión queda definida por $$ED=Variación porcentual de la demanda/Variación porcentual del precio$$
 
-$$\frac{\delta{Q}}{\delta{P}} \frac{P}{Q}$$
+$$\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}$$
 
 
 Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
@@ -180,7 +180,7 @@ En términos generales ej. **Q= f(tierra, trabajo, capital).**
 
 El incremento de uno de estos factores (trabajo) manteneindo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
 
-El efecto de esta relación se resume bajo el concepto de prodductividad marginal decreciente,  $$PMD_{L}=\frac{\delta {y}}{\delta{L}}$$
+El efecto de esta relación se resume bajo el concepto de prodductividad marginal decreciente,  $$PMD_{L}=\frac{\partial {y}}{\partial{L}}$$
 
 Donde $$y=f(L)$$
 
