@@ -240,7 +240,7 @@ En la práctica diversas acciones institucionaes y inducen modificaciones en la 
 
 Observe el siguiente clip y comente en el grupo sobre las obras que impulsan la oferta.
 
-[Supply side. Infraestructura](https://www.youtube.com/watch?v=T1Nq2XxEjwU)
+[Supply side. Infraestructura](https://www.youtube.com/watch?v=7zvt49-jEY4)
 
 **Ejercicio**
   
