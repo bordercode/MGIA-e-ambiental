@@ -8,7 +8,7 @@ menu:
     weight: 5
 ---
 
-## Teoría del consumidor y los mecanismos de mercado. 
+## Teoría del consumidor y los mecanismos de mercado
 
 ### ¿Cómo debe responder la sociedad ante los retos que plantea la escasez  de Recursos hidricos?
 
