@@ -213,7 +213,7 @@ induces a person to act. Because **rational people** make decisions by comparing
 
 The **market**, as cold as it may seem, follows rules, set by humans and as such it is subject to **failure**  
   
-  Dentro de las fallas del mercado veremos un subconjunto rederido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
+  Dentro de las fallas del mercado veremos un subconjunto referido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
 
 Observamos en la siguiente represetnación gráfica, el comportamiento teórico de las fuerzas del mercado.
 
