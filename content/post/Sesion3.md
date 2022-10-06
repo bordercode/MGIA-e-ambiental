@@ -86,7 +86,7 @@ Intuitavamente la definición de **elasticidad** nos permite determinar qué tan
 
 La expresión queda definida por $$ED=Variación porcentual de la demanda/Variación porcentual del precio$$
 
-$$\frac{\delta{{Q}}{\delta{P}}*\frac{P}{Q}$$
+$$\frac{\delta{Q}}{\delta{P}} \frac{P}{Q}$$
 
 
 Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
