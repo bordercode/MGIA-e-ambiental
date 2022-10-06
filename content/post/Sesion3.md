@@ -215,7 +215,7 @@ The **market**, as cold as it may seem, follows rules, set by humans and as such
   
 Dentro de las fallas del mercado veremos un subconjunto referido como **Externalidades** Estos son efesctos no intencionados que un agente económico genera afectando a otros.
 
-Observamos en la siguiente represetnación gráfica, el comportamiento teórico de las fuerzas del mercado.
+Observamos en la siguiente representación gráfica, el comportamiento teórico de las fuerzas del mercado.
 
 
 ![](/img/supply-demmand.jpg)
