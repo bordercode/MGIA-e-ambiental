@@ -23,6 +23,88 @@ Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el 
 ![](/img/water-economy.jpg)
 *Fuente: The economics of water resources*
 
+
+
+De manera complementaria podemos incorporar las variables ambientales para integrar un modelo hidro-social-economico.
+
+
+![](/img/modelo_hydro_soc.jpg)
+
+
+En terminos conceptuales podemos definir la sigueinte relación entre las variables del modelo: 
+
+
+$$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-ET(t)-(1-h)x-r(t)$$
+
+Donde: **S(t)**: El volumen del stock de agua en el momento *t*
+
+Este volumen puede correponder tanto con el agua **subterránea** en una **cuenca** específica, la cantidad disponible en un lago o bien el volumen de **agua superficial** correspondiente al caudal de un río.
+
+> R(t): Recarga: La recarga puede ocurrir
+por un río que ingresa al área o por flujos subterráneos de agua desde el exterior.
+
+> P(t): Precipitación. Ej lluvia. 
+
+> x(t): El agua usada en una economia local (ej. concesionada)
+
+El parámetro $$h \in [0, 1]$$ indica la porción de **x** que se devuelve a la cuenca local.
+
+Para simplificar, tomamos **R**, **P** y **x** como independientes del tiempo. es decir estan dados para un momento particular. 
+
+> r(t) describe
+la **escorrentía, escurriemiento o drenaje** en el tiempo t. 
+
+Las escorrentías, son todas las corrientes, ya sean superficiales o subterráneas, que
+abandonan el área. Dependen, por supuesto, de la gestión del agua, de la economía.
+y de la hidrología de la zona de captación.
+
+
+
+> **ET (t)** representa la **evapotranspiración**. Consiste en esa porción de agua que sale del área en forma de vapor. Bosques, plantas y
+los cultivos transpiran y el agua se evapora en la superficie del paisaje. Esta agua verde
+sube y es llevada por el viento en varias direcciones. Una parte de ella vuelve
+como lluvia.
+
+
+En particular suponemos que el parámetro de **evapotranspiración** depende linealmente del volumen de agua contenido en la cuenca. 
+
+$$ET(t)=\gamma_{1} S(t)$$
+
+Si por ejemplo, la cantidad de agua en una región o la humedad del suelo aumenta, la **evapotranspiración** aumentará.
+
+De manera similar, la función de escorrentía exhibe lo siguiente relación:
+
+$$r(t)=\gamma_{2}S(t)$$
+
+El modelo dinámico de balance considerando estas relaciones será:
+
+$$\frac{\partial s(t)}{\partial (t)}=R(t) + P(t) − \gamma_{1} S(t) − \gamma_{2} S(t) − (1 − h)x$$
+
+
+
+
+En términos gráficos podemos representar las fuerzas intrinsecas de este modelo dinámico, mediante un **diagrama de fase**.
+
+
+![](/img/diagrama.jpg)
+
+Precisar que el nivel de utilización por los humanos en una cuenca particular **(1-h)x**  no depende, en este modelo, del stock de agua *S(t)* disponible y por lo tanto es representado como una linea horizontal.  
+
+
+La **línea de pendiente negativa** muestra la tasa de reposición del stock de agua
+a través de las **entradas** de precipitación, aguas superficiales y aguas subterráneas menos los **efluentes** de aguas superficiales y subterráneas, así como efluentes por **evapotranspiración** (agua verde).
+
+
+
+Note que cuando $$(1 − h)x > R(t) + P(t) − (\gamma_{1}+ \gamma_{2}) S(t) $$
+
+El volumen utilizado es mayor y se tiene una reducción en el **stock** de agua disponible (flecha en sentido ascendente hacia el punto de equilibrio $$S^{*}$$  
+
+Nivel que denotamos como un equilibrio de **estado estacionario** al que el stock retornara a pesar de la existencia de desviaciones temporales (ej. eventos climaticos atípicos que incrementen o disminuyan el stock). 
+
+
+
+
 ### Determinación del valor de los RH. 
 
 Una cuestión central para economía es la
@@ -37,17 +119,17 @@ El grado de satisfacción que se obtiene con el **consumo** de unidades adiciona
 
 **Preguntas para reflexionar.**
 
-How should we value water? 
+¿Cómo debemos valorar el agua?
 
-In public policy decisions, when **costs** and **benefits** are weighed, what value should we attach to the **services we receive from wetlands** that protect us from floods and filter our groundwater? 
+En las decisiones de política pública, cuando se sopesan **costos** y **beneficios**, ¿qué valor debemos asignar a los **servicios que recibimos de los humedales** que nos protegen de las inundaciones y filtran nuestras aguas subterráneas?
 
-Are we putting enough value on the **aesthetics**, heritage and **recreational** uses of the **lakes**. 
+¿Estamos valorando lo suficiente la **estética**, el patrimonio y los usos **recreativos** de los **lagos**?
 
-And, when we set prices for water usage, **should we charge dramatically more for ground water** than for **surface water?**
+Y, cuando establecemos precios para el uso del agua, **¿deberíamos cobrar mucho más por el agua subterránea** que por el **agua superficial?**
   
   
-Determining **the value of water**, as opposed to setting its **price**, is a **complex** issue that is heavily influenced by **the values one considers**, as well as the assumptions one makes about the
-future **supply** of water and the **demands** likely to be made on that **supply**.
+Determinar **el valor del agua**, en lugar de fijar su **precio**, es un tema **complejo** que está fuertemente influenciado por **los valores que uno considera**, así como las suposiciones que uno hace acerca de
+futuro **suministro** de agua y las **demandas** que probablemente se hagan sobre ese **suministro**.
 
 ### Determinantes de la demanda.
 
@@ -111,7 +193,7 @@ En todos los casos podemos observar que cada una tiene su nicho y no son recurso
 Con base en evidencia empírica podemos observar que, productos que no tienen **substitutos** cercanos, como por ejemplo, el agua, la insulina, etc.  tendrán una **elasticidad menor**,  serán  **inelásticos**.
 
 
-El rango de interés en este indicador  se ubica en el intervalo [0,$-\infty$].
+El rango de interés en este indicador  se ubica en el intervalo $$|(\infty, 0]|$$.
 
 + Donde  **|e|>1**, representa productos que experimentan **una reducción más que proporcional en la demanda** ante un incremento en su precio.
 
