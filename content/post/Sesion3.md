@@ -124,8 +124,10 @@ $$x^{max}=\frac{R_{0}+P_{0} - \gamma_{1} \Omega- \gamma_{2} \Omega}{1-h}$$
 Donde **xmax** es la cantidad limite superior admisible de extracción de agua, asumiendo entonces que hay un entevalo sostenible de extracción [0, xmax].
 
 
-Actividad revisar la aplicación del modelo en página 19 ejercicio 2.2 [The economics of water](https://drive.google.com/file/d/15Bq-rTeSXt5gbIbT3SVu17yt6glRHvGb/view?usp=sharing)
+Actividad revisar la aplicación del modelo en página 19 ejercicio 2.2  Sobre decadencia de los Mayas[The economics of water](https://drive.google.com/file/d/15Bq-rTeSXt5gbIbT3SVu17yt6glRHvGb/view?usp=sharing)
 
+
+Comente en Disquss.
 
 ### Determinación del valor de los RH. 
 
