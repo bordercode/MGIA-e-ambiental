@@ -115,7 +115,7 @@ Tales como:  estabilización del microclima, control del suelo, retención de nu
 Para determinar **cuál es el límite superior** de utilización del recurso por encima del cual, se tendrán afectaciones en el ambiente unicamente resolvemos para **x** en la ecuación dinámica e incluimos el umbral $$S(t)=\Omega$$
 
 
-$$x=\frac{R{0}+P{0}-\gamma_{1}}{1-h}$$
+$$x=\frac{R{0}+P_{0}-\gamma_{1}}{1-h}$$
 
 
 
