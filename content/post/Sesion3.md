@@ -80,7 +80,7 @@ El modelo dinámico de balance considerando estas relaciones será:
 
 $$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-\gamma{1} S(t)-\gamma_{2} S(t)-(1-h)x$$
 
-En términos gráficos podemos representar las fuerzas intrinsecas de este modelo dinámico, mediante un **diagrama de fase**.
+En términos gráficos podemos representar las fuerzas intrínsecas de este modelo dinámico, mediante un **diagrama de fase**.
 
 
 ![](/img/diagrama.jpg)
@@ -115,7 +115,7 @@ Tales como:  estabilización del microclima, control del suelo, retención de nu
 Para determinar **cuál es el límite superior** de utilización del recurso por encima del cual, se tendrán afectaciones en el ambiente unicamente resolvemos para **x** en la ecuación dinámica e incluimos el umbral $$S(t)=\Omega$$
 
 
-$$x^{max}=\frac{R_{0}+P_{0}-\gamma_{1}{\Omega}{x}$$
+$$x^{max}=\frac{R_{0}+P_{0}-\gamma_{1}{\Omega}}{1-h}$$
 
 
 
