@@ -127,7 +127,12 @@ Donde **xmax** es la cantidad limite superior admisible de extracción de agua, 
 Actividad revisar la aplicación del modelo en página 19 ejercicio 2.2  Sobre decadencia de los Mayas[The economics of water](https://drive.google.com/file/d/15Bq-rTeSXt5gbIbT3SVu17yt6glRHvGb/view?usp=sharing)
 
 
-Comente en Disquss.
+### Actividad para Disquss.
+
+Comente la incorporación de la variable **albedo**. ¿Qué efecto tiene sobre el componente de **Evapotranspiración** y el nivel de precipitación? 
+
+Explique a qué se debe el cambio en la pendiente de la función de reserva de agua y como esto puede dar sustento a la hipótesis sobre el manejo inapropiado de los recursos  en la decadencia de los **Mayas** 
+
 
 ### Determinación del valor de los RH. 
 
