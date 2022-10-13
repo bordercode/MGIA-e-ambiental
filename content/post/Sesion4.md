@@ -243,10 +243,6 @@ Asociado a este fenómeno, nos referimos al caso opuesto como **deseconomias de 
 + Presente resultados en versión gráfica.
 
 
-
-
-
-
 La figura siguiente muestra un ejemplo de esta aplicación para el caso Chihuahua. 
 
 ![](/img/Ejerciciovedas2-1.jpg)
