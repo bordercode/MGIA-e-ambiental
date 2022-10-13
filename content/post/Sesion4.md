@@ -9,115 +9,222 @@ menu:
 ---
   
 
-### El mercado.
+### Teoria del productor.
+
+## Objetivo: Estudiar los conceptos básicos relacionados a la teoría del produtor.
+
+### Particulares:
+
++ Comprender las definiciones principales  de la estrucutra de costos de la empresa.
+
++ Analizar la relación de los costos con respecto a las decisiones de fijación de los niveles de producción de la empresa.
+
++ Determinar el criterio de cierre o no de la empresa con base en la relación entre los niveles de producción y el nivel de costo, haciendo la distinción entre costo total, costo promedio y  costo marginal.  
+
++ Discutir la conformación de la curva de oferta y sus determinantes.
+
+## Teoría del productor.
+
+La empresa es la unidad básica de una industria. 
+
++ Su objetivo es la **maximización** de los beneficios (*profits*), como veremos esta condición implica la **minimización** de costos. 
 
 
-#### Actividad  reflexión en clase.
+Los tomadores de decisiones en una empresa son Administradores (*Managers*) y accionistas. (*shareholders*)
 
-[Book Chapter P.215. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo Cambio y confrontación de proyectos políticos en la gestión del agua en México. Alex Ricardo Caldera Ortega, 2017.   Sección 3.2.1. (en clase, resto de articulo para casa.)
+Las empresas en su operación incurren en una serie de **costos** y mediante la integración de insumos genera un producto o servicio que ofrecen a los consumidores. 
 
-Preguntas detonadoras en la reflexión en clase. 
+En esta sesión estudiaremos **la teoria del productor** y los elementos principales de la estructura de costos, así como los umbrales que determian la decisión del **nivel óptimo de producción** (de cuánto producir) y en qué momento cerrar la operación.
 
-1.- El caso Méxicano en materia del manejo de gestión hídrica es referido como un ejemplo de ideas: 
+Estas decisiones implican el conocimiento de la estrucuctura de costos y la determinación de una **función objetivo** que en el caso de la empresa será la maximización de los beneficios definidos como la diferencia entre los ingresos y los costos totales. **B=Y-CT.**
 
+**Donde:**
 
-a) Progresistas.
++ B = **Beneficios**
 
-b) Socialistas
++ Y = **Ingresos = P.Q**. P=precio, Q= Cantidad producida. 
 
-c) Neoliberales.
-
-
-2.-¿Qué influencia han tendio las ideas de la  **Conferencia Internacional sobre Agua y Medioambiente de Dublín en 1992** respecto a la perspectiva de análisis de la gestión de los recursos hidricos en México. 
++ CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo**  Un rasgo **importante** es que esta estructura de costos es aplicable al **Corto plazo**, ya que en el **largo plazo** Todos los costos pueden tratarse como variables, es decir, por ejemplo se pueden renogociar los contratos de arrendamiento o reestructurar la renta de ciertos equipos.   
 
 
-3.- Organismos como el **Banco Mundial** han emitido recomendaciones en torno a la GRH, indique tres directrices que han sido emitidas por este organismo y que han tenido influencia en la forma que México diseña su política hídrica? 
+![](/images/costosfv.jpg)
 
 
-4.-¿Cuál era el padrón estimado de concesionarios y  el universo estimado de usuarios hacia 1992 en México? 
++ Observe que la suma de los costos fijos y los variables integran los costos totales   $$CT=CF+CV$$.
 
-5.-¿Qué usuarios pagan los valumens concesionados? 
++ La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  O dicho de otra manera, la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo.
 
-a) Agrícolas hasta el limite concesionado.
++ Note que la curva de costos totales no inicia en cero, ya que se tienen costos fijos. Ejemplo renta de las instalaciones en el parque industrial.
 
-b) Indsutriales.
-
-c) Organismos operadores del servicio de
-agua potable.
-
-5.-¿Qué objetivos y finalidades promovió el **Programa Nacional de Agua Potable, Alcantarillado y Saneamiento en Zonas Urbanas** (APAZU)?
-
-6.- ¿Cuántos contratos  **M&L** (*Management and leasing*) y **COT** (*Construcción, Operación, Transferencia*) indica el autor que existian en México al momento de su investigación?   
++ Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión. 
 
 
-7.- ¿Acorde con la investigación, ¿Qué municipio en México fue el primer caso que firmó contrato de prestación de servicios para extracción, conducción y cobranza?
-
-8.- ¿Qué concluye el autor en relación a los procesos de asignación de concesiones y dados los resultados obervados en municipios como Saltillo, Coahuila, Aguascalientes, Navojoa, Sonora.
-
-
-##### Preguntas: **Tarea**
-
-1. Consecuencias  de estrategias de impulso a la oferta de RH en México. 
-
-2. Como caracteriza el autor la crisis del agua que actualmente se tiene en México?
-  
-3. Comente sobre la siguiente afirmación "La escasez no es una propiedad intrínseca del agua, sino es una construcción social donde se perciben restricciones en el aprovechamiento” (Ávila, 2003: 41)." 
-
-4. Considerando el manejo histórico de los recursos hídricos en México. Comente sobre la disyuntiva desarrollo económico-sustentabilidad.
-
-## Determinación de valor de RH en el contexto Mexicano. 
-
-En nuestro país se tienen definidos instrumentos regulatorios que retoman los preceptos de economía para establecer valores. Uno de estos instrumentos se expreza por la Ley federal de derechos LFD. En este se definen criterios para el cobro de cuotas para el otorgamiento de concesiones de aprovecheamiento de aguas nacionales. 
-
-
-![](/img/LFD_capVII.jpg)
-
-La condición de  escasez influye para la definición de zonas de disponibilidad, estas a su vez implican niveles de cobro diferenciados. El supuesto de partida en esta asignación es la existencia de una relación inversa entre disponibilidad del recurso y monto de la cuota a pagar por usuarios. 
-
-La siguiente tabla muestra un ejemplo de estos montos por zona de disponibilidad. 
-
-![](/img/art_223.jpg)
-
-**Pregunta**. ¿Por qué la cuota para agua subterránea es superior a la correspondiente a aguas superficial si en principio el agua superficial es menos abundante?
-  
-  Así la LFD publica las definiciones que permiten la estimación de los parámetros de disponibilidad de RH en el país. 
-
-La figura siguiente muestra estas definiciones. 
-
-![](/img/idas.jpg)
-
-![](/img/idas2.jpg)
-
-
-La aplicación de los principios de economía a la regulación de los RH en México también permite la definición de zonas protegidas o zonas de veda en el caso del aprovechamiento de RHS. 
-
-
-### Ejercicios   
-
-[Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
-
-
-Revisar documentación en [Las zonas de disponibilidad de agua subterránea en México: Propuesta para su rediseño.](https://drive.google.com/file/d/1DRzNLaa1tTTuSMMxS1ER9GCr3igPzQtY/view?usp=sharing)
-
-##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
+![](/images/costoT.jpg)
 
 
 
-Estime los siguientes indicadores para los 653 acuíferos en México.
+La producción a su vez es posible debido a la **utilización eficiente** de los factores productivos, dado un **proceso tecnológico** concreto, este último, entendido como una manera de combinar los recursos para producir.
 
-- Volumen concesionado.
+En términos generales ej. **Q= f(tierra, trabajo, capital, tech).** 
 
-- El coeficinte de GINI para medir el grado de inequidad en el volumen concesionado en relación a la proporción de usuarios. 
+El incremento de uno de estos factores (trabajo) manteniendo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
 
-- Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
+El efecto de esta relación se resume bajo el concepto de **productividad marginal decreciente**,  $$PM_{L}=\frac{\partial {y}}{\partial{L}}>0$$
 
-- Aplique el enfoque de CONAGUA y estime el indice de disponibilidad (IDAS) para establecer las zonas de disponibilidad y asignación de cuotas para cobro de derechos de aprovechamiento de RHS.
+$$\frac{\partial PM_{L}}{\partial{L}}<0$$
 
-- ¿Cuántos acuíferos por Zona se tienen en México?
+Donde $$y=f(L, \overline{K}, \overline{Tierra}, \overline{tech} )$$
 
-- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
+Note que en el corto plazo, tenemos un conjunto de factores productivos que permanecen fijos. Este rasgo implica una **productividad marginal decreceinte del factor trabajo**.
 
-- Emita su opinión sobre la pertinencia de utilizar el enfoque **ivcas** en contrsate con **idas** para detectar sobre explotación. (¿Qué proporción de acuíferos se encuentra en situación de sobre explotación bajo cada enfoqe?)
+
+En general un proceso productivo tiene dos características distintivas:
+
+En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos el nivel productivo crece a un ritmo proporcionalmente mayor.
+
+
+Los rendimientos crecientes que observamos en las etapas inciales del proceso productivo estan asociados a la **eficiencia** que permite la **especialización** y la **división del trabajo**
+
+Una segunda fase presenta **rendimientos decrecientes**, la figura siguiente muestra estos rasgos.
+
+![](/images/funciónY.jpg)
+
+
+
+La siguiente gráfica muestra la noción de **rendimientos decrecientes**.
+
+![](/images/producciónR.jpg)
+
+![](/images/porductionX.jpg)
+
+*Producción Marginal decreciente*
+
+Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CMarg**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
+
+Por su parte el impacto de una **innovación tecnológica**, permitirá desplazar la curva de producción a mayores niveles,  manteniendo (*ceteris paribus*) el resto de insumos  constante.
+
+**Note** en la figura siguiente, el cambio en la pendiente de la curva que representa la función de producción.
+
+![](/images/tecnologia.jpg)
+
+
+## Definiciones: 
+
+**Costos:** Valor de los insumos necesarios para la producción. 
+
+
+Podemos distinguir dos categorias generales: **Costos Fijos (CF)**, **Costos Variables (CV)**, la suma de estos determina el **costo total (CT)**
+
+
+Sea: 
+
+P.q= Ingreso **(I)**
+
++ Costo promedio CM=CT/q.
+
++ Costo total  CT=CM.q
+
+#### Si P<CM, implica que  P.q<CM.q o de otra forma I<CT. 
+
+En otras palabras, si el precio al que se vende la unidad *i* de producción del bien *x*, es inferior a lo que cuesta producirla (**Costo medio**), es evidente que no será conveniente producir por que se incurriría en **perdidas**. 
+
+Esta situación implica que los **ingresos** generados serán inferiores al **costo total**, lo que se expreza en **I<CT**.
+
+Dada esta estructura de costos, **la decisión óptima será no producir.** 
+
+
+#### Costo Marginal. 
+
+El costo marginal se define como el valor asociado a producir una unidad adicional del bien. Y es el parámetro que define el **precio** siempre y cuando, como hemos discutido, este sea superior al **costo medio** de producción. 
+
+Note el precio será una función creciente del nivel de producción debido a el fenómeno de rendimientos marginales decrecientes (**RMD**). 
+En otras palabras, dado un costo determinado para los insumos de producción, por ejemplo el trabajo, los **RMD**, aseguran que la aportación por unidad de producción se logrará a **un costo cada vez mayor**. 
+
+En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$CMarg=\frac{\partial{CT}}{\partial Q}$$   Cambio  en Costo Total / incremento de una unidad producida.
+
+
+El **costo marginal** es el costo apropiado para **DECIDIR**, la cantidad producida.
+
+Esta cantidad se incrementará hasta el punto en el que el costo de producir una unidad adicional (Costo marginal) sea igual al ingreso generado por una unidad adicional **Ingreso marginal**.  
+
+Mientras el **costo promedio** es el parámetro que indica si se producirá o no. Y se producirá simpre  y cuando el Precio sea mayor que el costo medio. $$P \geq CM$$ 
+
+
+Analicemos el comportamiento de los costos promedio con mayor detalle. 
+
+
+![](/images/cpromedio1.jpg)
+
++ La primera observación es que el costo promedio total se integra por la suma de los costos promedio **fijos** y **variables**.
+
++ En segundo lugar note que las curvas de costos promedio total y variable tiene forma de **U**. Esto debido a que incialmente la especialización y división del trabajo permite una graducal reducción, sin embargo, a medida que los rendimientos decrecientes se manifiestan, los costos promedio tienen a ser mayores. 
+
+
+Entoces dos fuerzas resultan en esta forma de **U**
+
+
++ Especialización y división del trabajo
+
++ Producto marginal decreceiente expresión de los rendimientos decrecientes de los factores productivos.
+
+Este comportamiento se hace evidente por la definición: 
+
+$$\frac{CT}{Q} = \frac{CF}{Q] + \frac{CV}{Q]$$
+
+
++ Note que los **costos fijos promedio** tienen una clara tendenica decreciente que, contrario a los **costos variables promedio**, no presentan un punto de inflexión, por esta razón la distancia entre la curva de costo medio total y costo medio variable es cada vez menor.
+
+Esto se debe a que el nivel productivo contínua creciendo y por tanto la relación  $$\frac{\partial CFM}{\partial {Q}}<0$$ tiende a cero. 
+
+
++ Finalmente observe que la curva de costos promedio tiene forma de **U**.
+
+Lo que indica que en una primera fase los costos totales **decrecen** a medida que el nivel de producción se incrementa. es decir inicialmente se tiene **exceso de capacidad**, sin embargo, una vez que la escala de producción alcanza el nivel en el que se registran los rendimientos decrecientes, los costos promedio comienzan una trayectoria creciente.  
+
++ Los costos promedio decrecen hasta alcanzar un **nivel mínimo**, a partir del cual comienzan una trayectoria creciente. A esta **escala de producción** en la cual los costos promedio alcanzan su nivel mínimo, se le conoce como **escala eficiente** (Punto **M** en grafica de costos).
+
+Cuando la empresa produce por debajo se su escala eficiente denominamos a este escenario como **exceso de capacidad**
+
+
+Ahora bien, la estructura de costos plantea dos escenarios de interés para el nivel de producción. 
+
+
+1.- Cuando los costos promedio estan en su fase descendente: En este nivel de producción, la empresa siempre prodrá incrementar sus ingresos si incrementa su nivel de producción por que el costo medio será menor a medida que se producen unidades adicionales esto es **I >CT  ya que P>CM; P.q>CM.q**
+
+
+Es importante notar que hay una relación entre el comportamiento del **producto marginal**  y el costo marginal. Cunado el producto marginal alcanza su nivel más alto, el costo marginal presenta su nivel mínimo.
+
+
+![](/images/cyprod.jpg)
+
+
+
+### Sintesis.
+
+
+1.- La empresa fijará el precio igual al costo de producción de una unidad adicional.  **P=CMarg** y comenzará a producir a partir del nivel en que los **costos medios** lleguen a su nivel mínimo, en este punto, tanto el costo marginal, como el costo promedio son iguales. 
+
+2.- Niveles de producción en la fase decreciente de la curva de costos promedio se consideran ineficientes, ya que siempre seraá posible incrementar los ingresos derivados a una unidad adicional de producción. 
+
+3- La curva de costo marginal a partir del punto minimo de la de costos medios representa la curva de oferta de la empreza. 
+
+La pendiente positiva refleja el hecho de que existen **rendimientos decrecientes a escala** lo que se traduce en un **producto marginal decreciente**. 
+
+
+**Note.** Es importante estudiar Economía en el **contexto social**, no como un conjunto esóterico de formulaciones matemáticas!
+
+
+
+
+### Economias de Escala 
+
+Características de la organización del proceso productivo que permiten una reducción en los costos promedio totales a medida que el nivel productivo (escala) se incrementa.
+
+
+Asociado a este fenómeno, nos referimos al caso opuesto como **deseconomias de escala.** es decir una situación en la cual el incremento en la escala productiva se asocia con un incremento en los costospormedio.
+
+
+
 
 ##### E.2
 

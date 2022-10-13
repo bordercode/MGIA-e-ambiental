@@ -280,6 +280,61 @@ Software: **QGIS** con el plug-in **SCP**
 Insumos: Acuífero 847 Los Juntos, para acuífero Laguna La Vieja 819.
 
 
+
+## Determinación de valor de RH en el contexto Mexicano. 
+
+En nuestro país se tienen definidos instrumentos regulatorios que retoman los preceptos de economía para establecer valores. Uno de estos instrumentos se expreza por la Ley federal de derechos LFD. En este se definen criterios para el cobro de cuotas para el otorgamiento de concesiones de aprovecheamiento de aguas nacionales. 
+
+
+![](/img/LFD_capVII.jpg)
+
+La condición de  escasez influye para la definición de zonas de disponibilidad, estas a su vez implican niveles de cobro diferenciados. El supuesto de partida en esta asignación es la existencia de una relación inversa entre disponibilidad del recurso y monto de la cuota a pagar por usuarios. 
+
+La siguiente tabla muestra un ejemplo de estos montos por zona de disponibilidad. 
+
+![](/img/art_223.jpg)
+
+**Pregunta**. ¿Por qué la cuota para agua subterránea es superior a la correspondiente a aguas superficial si en principio el agua superficial es menos abundante?
+  
+  Así la LFD publica las definiciones que permiten la estimación de los parámetros de disponibilidad de RH en el país. 
+
+La figura siguiente muestra estas definiciones. 
+
+![](/img/idas.jpg)
+
+![](/img/idas2.jpg)
+
+
+La aplicación de los principios de economía a la regulación de los RH en México también permite la definición de zonas protegidas o zonas de veda en el caso del aprovechamiento de RHS. 
+
+
+### Ejercicio    
+
+[Input Data](https://drive.google.com/file/d/1f603buCRTjDuR9Y9-5ulo_OC1ytOhr_A/view?usp=sharing)
+
+
+Revisar documentación en [Las zonas de disponibilidad de agua subterránea en México: Propuesta para su rediseño.](https://drive.google.com/file/d/1DRzNLaa1tTTuSMMxS1ER9GCr3igPzQtY/view?usp=sharing)
+
+##### E.1 Estimación de sobre-explotación de RH subterráneos por acuífero en México. (ver código en sección Ejercicios)
+
+
+Estime los siguientes indicadores para los 653 acuíferos en México.
+
+- Volumen concesionado.
+
+- El coeficinte de GINI para medir el grado de inequidad en el volumen concesionado en relación a la proporción de usuarios. 
+
+- Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
+
+
+- ¿Cuántos acuíferos por Zona se tienen en México?
+
+- Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
+
+
+
+
+
 ### Determinantes de la Oferta. 
 
 
