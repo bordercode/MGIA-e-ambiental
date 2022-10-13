@@ -31,7 +31,7 @@ De manera complementaria podemos incorporar las variables ambientales para integ
 ![](/img/modelo_hydro_soc.jpg)
 
 
-En terminos conceptuales podemos definir la sigueinte relación entre las variables del modelo: 
+En términos conceptuales podemos definir la sigueinte relación entre las variables del modelo: 
 
 
 $$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-ET(t)-(1-h)x-r(t)$$
@@ -96,13 +96,35 @@ a través de las **entradas** de precipitación, aguas superficiales y aguas sub
 
 
 
-Note que cuando $$(1 − h)x > R(t) + P(t) − (\gamma_{1}+ \gamma_{2}) S(t) $$
 
-El volumen utilizado es mayor y se tiene una reducción en el **stock** de agua disponible (flecha en sentido ascendente hacia el punto de equilibrio $$S^{*}$$  
+Si la reserva de agua **S(t)** es menor que **(1-h)X**
 
-Nivel que denotamos como un equilibrio de **estado estacionario** al que el stock retornara a pesar de la existencia de desviaciones temporales (ej. eventos climaticos atípicos que incrementen o disminuyan el stock). 
+Esto implica que el volumen utilizado es mayor y se tiene una reducción en el **stock o reserva** de agua disponible (flecha en sentido ascendente hacia el punto de equilibrio $$S^{*}$$   A una tasa $$\frac{\partial S(t)}{\partial (t)}$$
+
+Nivel que denotamos como un equilibrio de **estado estacionario** al que el stock retornara a pesar de la existencia de desviaciones temporales (ej. eventos climáticos atípicos que incrementen o disminuyan el stock). 
+
+$$\Omega$$ representa un un umbral de interés desde el punto de vista ambiental.
+
+Que el uso del agua sea sostenible depende de este umbral crítico. Este umbral depende de todo el sistema ecológico y su interacción con el ciclo del agua.
+
+Cuando 
+
+$$x > \Omega$$
+
+se producirán graves daños ecológicos debido a una disminución de las funciones básicas de estabilización del agua más allá de su uso económico. 
+
+Tales como:  estabilización del microclima, control del suelo, retención de nutrientes, apoyo al habitat y la diversidad de especies, control de inundaciones, mediante **humedales**.
+
+Para determinar **cuál es el límite superior** de utilización del recurso por encima del cual, se tendrán afectaciones en el ambiente unicamente resolvemos para **x** en la ecuación dinámica e incluimos el umbral $$S(t)=\Omega$$
 
 
+$$x^{max}=\frac{R_{0}+P_{0} - \gamma_{1} \Omega- \gamma_{2} \Omega}{1-h}$$
+
+
+Donde **xmax** es la cantidad limite superior admisible de extracción de agua, asumiendo entonces que hay un entevalo sostenible de extracción [0, xmax].
+
+
+Actividad revisar la aplicación del modelo en página 19 ejercicio 2.2 [The economics of water](https://drive.google.com/file/d/15Bq-rTeSXt5gbIbT3SVu17yt6glRHvGb/view?usp=sharing)
 
 
 ### Determinación del valor de los RH. 
@@ -166,9 +188,12 @@ La sensibilidad que tiene la cantidad demandada de un bien respecto a variacione
 
 Intuitavamente la definición de **elasticidad** nos permite determinar qué tan **flexible** es la demanda cuando experimentamos un **incremento en el precio** de un bien. 
 
-La expresión queda definida por $$ED=Variación porcentual de la demanda/Variación porcentual del precio$$
+La expresión queda definida por La expresión: 
 
-$$\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}$$
+$$\epsilon=\frac{ \Delta Q} {\Delta P}\frac{P}{Q}$$
+
+$$\epsilon=\frac{\partial{Q}}{\partial{P}} \frac{P}{Q}$$
+
 
 
 Ahora bien, es importante notar que los bienes se pueden clasificar en **substitutos** y **complementarios**
@@ -345,13 +370,56 @@ Otros escenarios comunes de aplicación del instrumental de economía incluyen:
 * Toma de decisiones sobre proyectos de infraestructura (análisis costo-beneficio). 
 
 
-#### Tarea 2.
+#### Tarea.
 
-(Control de Lectura 1 cuartilla)
-Lectura y discusión de:
 
-[Handbook of Water economics and institutions](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Water scarcity and water institutions de Ariel Dinar and Yacov Tsur (Capitulo 14).
+[Book Chapter P.215. El agua en México](http://library.fes.de/pdf-files/bueros/mexiko/14377.pdf) capitulo Cambio y confrontación de proyectos políticos en la gestión del agua en México. Alex Ricardo Caldera Ortega, 2017.   Sección 3.2.1. (en clase, resto de articulo para casa.)
 
+Preguntas para análisis. 
+
+1.- El caso Méxicano en materia del manejo de gestión hídrica es referido como un ejemplo de ideas: 
+
+
+a) Progresistas.
+
+b) Socialistas
+
+c) Neoliberales.
+
+
+2.-¿Qué influencia han tendio las ideas de la  **Conferencia Internacional sobre Agua y Medioambiente de Dublín en 1992** respecto a la perspectiva de análisis de la gestión de los recursos hidricos en México. 
+
+
+3.- Organismos como el **Banco Mundial** han emitido recomendaciones en torno a la GRH, indique tres directrices que han sido emitidas por este organismo y que han tenido influencia en la forma que México diseña su política hídrica? 
+
+
+4.-¿Cuál era el padrón estimado de concesionarios y  el universo estimado de usuarios hacia 1992 en México? 
+
+5.-¿Qué usuarios pagan los valumens concesionados? 
+
+a) Agrícolas hasta el limite concesionado.
+
+b) Indsutriales.
+
+c) Organismos operadores del servicio de
+agua potable.
+
+5.-¿Qué objetivos y finalidades promovió el **Programa Nacional de Agua Potable, Alcantarillado y Saneamiento en Zonas Urbanas** (APAZU)?
+
+6.- ¿Cuántos contratos  **M&L** (*Management and leasing*) y **COT** (*Construcción, Operación, Transferencia*) indica el autor que existian en México al momento de su investigación?   
+
+
+7.- ¿Acorde con la investigación, ¿Qué municipio en México fue el primer caso que firmó contrato de prestación de servicios para extracción, conducción y cobranza?
+
+8.- ¿Qué concluye el autor en relación a los procesos de asignación de concesiones y dados los resultados obervados en municipios como Saltillo, Coahuila, Aguascalientes, Navojoa, Sonora.
+
+9. Consecuencias  de estrategias de impulso a la oferta de RH en México. 
+
+10. Como caracteriza el autor la crisis del agua que actualmente se tiene en México?
+  
+11. Comente sobre la siguiente afirmación "La escasez no es una propiedad intrínseca del agua, sino es una construcción social donde se perciben restricciones en el aprovechamiento” (Ávila, 2003: 41)." 
+
+12. Considerando el manejo histórico de los recursos hídricos en México. Comente sobre la disyuntiva desarrollo económico-sustentabilidad.
 
 
 
