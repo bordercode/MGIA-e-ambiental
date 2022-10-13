@@ -78,7 +78,7 @@ $$r(t)=\gamma_{2}S(t)$$
 
 El modelo dinámico de balance considerando estas relaciones será:
 
-
+$$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-\gamma{1} S(t)-\gamma_{2} S(t)-(1-h)x$$
 
 $$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-\gamma_{1} S(t)-\gamma_{2} S(t)-(1-h)x$$
 
@@ -120,7 +120,7 @@ Para determinar **cuál es el límite superior** de utilización del recurso por
 $$x^{max}=\frac{R_{0}+P_{0}-\gamma_{1}{\Omega}{x}$$
 
 
-$$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-\gamma{1} S(t)-\gamma_{2} S(t)-(1-h)x$$
+
 
 
 Donde **xmax** es la cantidad limite superior admisible de extracción de agua, asumiendo entonces que hay un entevalo sostenible de extracción [0, xmax].
