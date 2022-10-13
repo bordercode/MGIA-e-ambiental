@@ -329,12 +329,15 @@ Estime los siguientes indicadores para los 653 acuíferos en México.
 
 $$IVCAS=\frac {VCAS}{(recarga-DNCOM)}$$
 
+Donde **VCAS**: Volumen concesionado de agua subteránea.  Inscrito en el
+Registro público de Derechos de Agua 
+**DNCOM:** Descarga Natural Comprometida. 
+
 - ¿Cuántos acuíferos por Zona se tienen en México?
 
 - Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
 
-
-
+Note que el criterio de sobre explotación indica que valores **IVCAS>1,** implican una situación en la que se tiene un patrón de uso que rebasa las condiciones de recarga. 
 
 
 ### Determinantes de la Oferta. 
