@@ -15,6 +15,8 @@ menu:
 
 ### Particulares:
 
+
+
 + Comprender las definiciones principales  de la estrucutra de costos de la empresa.
 
 + Analizar la relación de los costos con respecto a las decisiones de fijación de los niveles de producción de la empresa.
