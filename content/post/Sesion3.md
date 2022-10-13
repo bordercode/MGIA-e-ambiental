@@ -327,6 +327,8 @@ Estime los siguientes indicadores para los 653 acuíferos en México.
 - Contraste los componentes de Oferta y Demanda de aguas subterránea mediante el Indice de volumen concesionado (IVCAS).
 
 
+$$IVCAS=\frac {VCAS}{(recarga-DNCOM)}$$
+
 - ¿Cuántos acuíferos por Zona se tienen en México?
 
 - Acorde con el enfoque del índice de volumen concesionado, determine ¿Qué proporción de los acuíferos del país se encuentra en situación de sobre explotación?
