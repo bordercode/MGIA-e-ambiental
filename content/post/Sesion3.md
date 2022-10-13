@@ -314,7 +314,7 @@ Los desequilibrios emergentes en el contexto del mercado por RH pueden clasifica
 
 ![](/img/eqiilibriox.jpg)
 
-En la práctica diversas acciones institucionaes y inducen modificaciones en la oferta y la demanda. 
+En la práctica, diversas acciones institucionaes inducen modificaciones en la oferta y la demanda. 
 
 ![](/img/demand-supply.jpg)
 
