@@ -1,6 +1,6 @@
 ---
 title: Sesión 5
-date: 2022-10-19
+date: 2022-1-19
 linktitle: Teoría del productor. Costos
 menu:
   main:
