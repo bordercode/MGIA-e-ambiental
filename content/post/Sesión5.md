@@ -5,7 +5,7 @@ linktitle: Teoría del productor. Costos
 menu:
   main:
      name: Sesión 5
-     weight: 5
+     weight: 7
 ---
   
 ## Objetivo: Estudiar los conceptos básicos relacionados a la teoría del productor.
