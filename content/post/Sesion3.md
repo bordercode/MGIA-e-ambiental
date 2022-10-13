@@ -80,7 +80,7 @@ El modelo dinámico de balance considerando estas relaciones será:
 
 
 
-$$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-\gamma-(1-h)x-r(t)$$
+$$\frac{\partial{S(t)}}{\partial{t}}=R(t)+P(t)-\gamma S(t)-\gamma S(t)-(1-h)x$$
 
 En términos gráficos podemos representar las fuerzas intrinsecas de este modelo dinámico, mediante un **diagrama de fase**.
 
