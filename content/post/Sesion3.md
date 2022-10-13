@@ -78,7 +78,7 @@ $$r(t)=\gamma_{2}S(t)$$
 
 El modelo dinámico de balance considerando estas relaciones será:
 
-$$\frac{\partial s(t)}{\partial (t)}=R(t) + P(t) − \gamma_{1} S(t) − \gamma_{2} S(t) − (1 − h)x$$
+$$\frac{\partial s(t)}{\partial (t)}=R(t) + P(t) − \gamma_{1}S(t)−\gamma_{2} S(t) − (1 − h)x$$
 
 
 
