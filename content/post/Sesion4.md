@@ -274,6 +274,11 @@ Estos Los factores físicos son
 
 + **Excluibilidad:** Excluir a las personas del consumo de un **bien no excluible** (p. ej., aguas subterráneas) requiere un control y una aplicación estrictos de la regulación. 
 
++ **Número de agentes:** El costo de transacción aumenta con el número de agentes que están involucrados. 
+
+Los **Bancos de agua** y los  **sistemas de registro** de intercambio de agua, permiten estandarizar las políticas y los procedimientos para reducir los costos de transacción, incluso para una gran número de compradores y vendedores.
+
+
 **Ejercicio**
   
 Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y clasifique las medidas propuestas como promotoras de demanda o de la oferta. 
