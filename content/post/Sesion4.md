@@ -251,6 +251,29 @@ En la práctica, diversas acciones institucionaes inducen modificaciones en la o
 
 ![](/img/demand-supply.jpg)
 
+
+
+El caso sobre los mercados de agua, es una aplicación de estos principios, hoy en día los mercados de agua mas desarrollados son el de EAU, Australia y Chile. 
+Un análisis detallado de su funcionamiento lo hallamos en texto  [The economics of water](https://drive.google.com/file/d/15Bq-rTeSXt5gbIbT3SVu17yt6glRHvGb/view?usp=sharing) capitulo 5.
+
+
+Vale decir que estos mercados tienen sus imperfecciones e incluyen rasgos como los costos de transacción. 
+
+Los costos de transacción incluyen los costos de búsqueda de
+un comprador/vendedor dispuesto, negociaciones, navegar por los requisitos institucionales (permisos, procedimientos judiciales de agua), y el gasto físico para la recolección, almacenamiento y tratamiento de agua.
+
+
+Los **factores físicos**, biológicos y técnicos que se incluyen en el término **factores físicos** son importantes impulsores de los **costos de transacción** y transformación. 
+
+Estos Los factores físicos son
+
++ **Escala:** Los problemas de cantidad y calidad pueden tener que abordarse en la cuenca de origen directamente, lo cual incrementa lo **costos de transacción**
+
+
++ **Efectos externos:** los derechos de agua  en las partes  bajas del cuadal, a menudo dependen de los flujos de retorno de usuarios aguas arriba. Una reasignación  aguas arriba, puede afectar el  caudal de retorno y, por lo tanto, puede dar lugar a efectos sobre terceros que afecten los titulares de derechos de aguas  en la partes bajas. **Ver el caso del Conchos por ejemplo.**
+
++ **Excluibilidad:** Excluir a las personas del consumo de un **bien no excluible** (p. ej., aguas subterráneas) requiere un control y una aplicación estrictos de la regulación. Cosa que en México, se complica por la capacidad administrativa del organismo rector.
+
 **Ejercicio**
   
 Examine el plan maestro de NL para resolver la crisis hídrica de Monterrey  y clasifique las medidas propuestas como promotoras de demanda o de la oferta. 
