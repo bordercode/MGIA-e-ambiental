@@ -272,7 +272,7 @@ Estos Los factores físicos son
 
 + **Efectos externos:** los derechos de agua  en las partes  bajas del cuadal, a menudo dependen de los flujos de retorno de usuarios aguas arriba. Una reasignación  aguas arriba, puede afectar el  caudal de retorno y, por lo tanto, puede dar lugar a efectos sobre terceros que afecten los titulares de derechos de aguas  en la partes bajas. **Ver el caso del Conchos por ejemplo.**
 
-+ **Excluibilidad:** Excluir a las personas del consumo de un **bien no excluible** (p. ej., aguas subterráneas) requiere un control y una aplicación estrictos de la regulación. Cosa que en México, se complica por la capacidad administrativa del organismo rector.
++ **Excluibilidad:** Excluir a las personas del consumo de un **bien no excluible** (p. ej., aguas subterráneas) requiere un control y una aplicación estrictos de la regulación. 
 
 **Ejercicio**
   
