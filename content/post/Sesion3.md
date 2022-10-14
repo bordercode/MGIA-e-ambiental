@@ -25,6 +25,14 @@ Una dirección es mediante los **mecanismos de mercado**. Esto se traduce en el 
 
 
 
+#### Actividad
+
+Observe el siguiente clip y comente en el grupo sobre las obras que impulsan la oferta.
+
+[Supply side. Infraestructura](https://www.youtube.com/watch?v=7zvt49-jEY4)
+
+
+
 De manera complementaria podemos incorporar las variables ambientales para integrar un modelo hidro-social-economico.
 
 
