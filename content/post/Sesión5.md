@@ -14,6 +14,49 @@ menu:
 
 Analizar conceptos básicos para el tema de fallas de Mercado.
 
+
+## Ejemplo 
+
+El río Mississippi cambia su curso en periodos de cientos
+años. 
+
+Para **1950**, era evidente que el río estaba a punto de cambiar, para tomar una nueva ruta hacia el mar.
+
+Si el Cuerpo de Ingenieros del Ejército (USACE) no hubiera intervenido el cambio probablemente habría ocurrido en 1970.
+
+Un cambio en el Mississippi habría dañado gravemente la
+economía de Luisiana.
+
+![](/img/river.jpg)
+
+![](/img/mississipi.jpg)
+
+![](/img/mississipi2.jpg)
+
+La Estructura de **Control el Viejo Río** es un ejemplo dramático de un **Bien público**. Ningún individuo habría tenido un incentivo para construirlo, sin embargo, protege muchos miles de millones de dólares de propiedad privada.
+
+
+Ejemplo 2
+
+Desde 2004, los habitantes de Maine ha estado involucrado en una feroz batalla sobre uno de sus recursos naturales: las **aguas subterráneas**.
+
+
+El agua subterránea de Maine, es una valiosa mercancía como **agua potable**, apreciada durante mucho tiempo por su pureza y sabor.
+
+
+En Maine, el principio de “captura” define la propiedad de
+agua: el dueño de una propiedad puede bombear cualquier cantidad de aguas subterráneas sin tener en cuenta el efecto sobre el acuífero subterráneo.
+
+
+Pero con grandes empresas como *Poland Spring* extrayendo
+aguas subterráneas para satisfacer las demandas de millones de
+clientes de todo el país, algunos habitantes de Maine temen que ya no puede continuar con esta regulación.
+
+En este caso vemos la complejidad para la gestión de un recurso común.
+
+[Extracción agua subterranea para venta como mercancia ](https://www.youtube.com/watch?v=bqGyaqqCCtw)
+
+
 ## An  overview. 
 
 [Text Book Mankiw overview](http://www.unm.edu/~parkman/M11.pdf)
