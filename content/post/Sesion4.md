@@ -9,7 +9,7 @@ menu:
 ---
   
 
-### Teoria del productor.
+### Teoría del productor.
 
 ## Objetivo: Estudiar los conceptos básicos relacionados a la teoría del produtor.
 

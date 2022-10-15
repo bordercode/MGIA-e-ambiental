@@ -58,6 +58,7 @@ d) Recursos hídricos subterráneos (Acuíferos).
 *List three sources of market failures that frequently afflict water economies.*
 
 **Actividad 1**. Leer * Garrett Hardin, The tragedy of the commons* . 
+
 Objetivo Ilustrar el escenario de tragedia de los comunes en el contexto del tema de **fallas de mercado**. 
 
 Market allocation in which actions  to maximize individual utility are followed, may generate negative outcomes for society as whole.
@@ -74,7 +75,9 @@ The market as an allocation machanism fails!
 
 3. ¿Qué papel tiene la introducción de impuestos en el manejo de recursos como el agua? 
 
-4. ¿Qué efecto percibe el autor derivado de la introducción de derechs de propiedad para el caso de los recursos hidricos? ¿Cual es el problema central en este caso según el autor?
+4. ¿Qué efecto percibe el autor derivado de la introducción de derechos de propiedad para el caso de los recursos hidricos? 
+
+¿Cual es el problema central en este caso según el autor?
 
 
 **Actividad 2**. Lectura y discusión en clase 
@@ -116,7 +119,7 @@ Leer y discutir ejemplo de aplicación de herramientas de economía ambiental (E
 #### a) Detección de contaminación de RH por escurrimientos derivados de actividades de riego agrícola.
 
 
-**Contexto:** El área de estudio es la Laguna Bustillos, esta se ubica en el municipio de Anáhuac, Chihuahua, municipio que colinda con Cuauhtémoc, este último  el centro de operación de los desarrollos productivos de la colonia Menonita en México. En esta región se observa la mayor de concentración de concesiones para extracción de recursos hídricos subterráneos en esta entidad fronteriza y consitiyw una región consolidada de alta producción agrícola predeominante de tipo monocultivo (maíz principalmente en conjunto con una importante área de producción fruticola -manzana-).
+**Contexto:** El área de estudio es la Laguna Bustillos, esta se ubica en el municipio de Anáhuac, Chihuahua, municipio que colinda con Cuauhtémoc, este último  el centro de operación de los desarrollos productivos de la colonia Menonita en México. En esta región se observa la mayor de concentración de concesiones para extracción de recursos hídricos subterráneos en esta entidad fronteriza y consitiye una región consolidada de alta producción agrícola predeominante de tipo monocultivo (maíz principalmente en conjunto con una importante área de producción fruticola -manzana-).
 
 Laguna Bustillos es un caso de interés ya que es cuerpo de agua que recibe, los flujos provenientes de escurrimientos del riego agricola y es un sitio vulnerable que es impactada con externalidades negativas de la producción alimentaria de la zona.
 
@@ -157,7 +160,7 @@ Documentación sobre la Red Nacional de monitoreo de la calidad del agua.
 
 Lectura para análisis:Impactos ambientales y recursos hídricos: 
 
-(Fecha de presentación: Martes 25)
+
 
 ### Fallas de Mercado en uso de los recursos hídricos subterráneos y superficiales.
 
@@ -170,9 +173,9 @@ Lectura para análisis:Impactos ambientales y recursos hídricos:
 
 Explique brevemente en que consiste la estimación del caudal ecológico.
 
-¿Qué insentivos económicos identifica para la impementación del modelo de caudal ecológico?
+¿Qué incentivos económicos identifica para la impementación del modelo de caudal ecológico?
 
-¿Qué estrategias considera que pueden aplicarse para una eficiente aplicación de la regulación en materia de conservación y acceso de aprovechamientos de aguas nacionales? 
+¿Qué estrategias considera que pueden considerse para una eficiente aplicación de la regulación en materia de conservación y acceso de aprovechamientos de aguas nacionales? 
 
 Explique la relación del caso de estudio con el concepto teórico de fallas de mercado.  
   
