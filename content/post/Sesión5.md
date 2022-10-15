@@ -8,14 +8,31 @@ menu:
     weight: 5
 ---
   
+# Objetivos.
+
+Estudiar el fenomeno conocido com oexternalidades y presentar la lomitaciones que los mecanismos de mercado presentan para conseguir asignación eficiente ante la existencia de bienes cuyo consumo no es excluible o rival.
+
+
+## Metas de aprendizaje
+
+El alumno será capaz de caracterizar el problema de **externalidades** en el contexto de la gestión de los recursos hídrios.
+Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuiferos** y la utilización de agua proveniente de fuentes superficiales. 
+
+
+
+
+
+  
 ## Fallas de mercado
+
+### Externalidades
 
 **Actividad**
 
 Analizar conceptos básicos para el tema de fallas de Mercado.
 
 
-## Ejemplo 
+### Ejemplo 1 
 
 El río Mississippi cambia su curso en periodos de cientos
 años. 
@@ -36,23 +53,23 @@ economía de Luisiana.
 La Estructura de **Control el Viejo Río** es un ejemplo dramático de un **Bien público**. Ningún individuo habría tenido un incentivo para construirlo, sin embargo, protege muchos miles de millones de dólares de propiedad privada.
 
 
-Ejemplo 2
+### Ejemplo 2
 
-Desde 2004, los habitantes de Maine ha estado involucrado en una feroz batalla sobre uno de sus recursos naturales: las **aguas subterráneas**.
+Desde 2004, los habitantes de Maine han estado involucrados en una feroz batalla sobre uno de sus recursos naturales mas apreciados: las **aguas subterráneas**.
 
 
 El agua subterránea de Maine, es una valiosa mercancía como **agua potable**, apreciada durante mucho tiempo por su pureza y sabor.
 
 
-En Maine, el principio de “captura” define la propiedad de
-agua: el dueño de una propiedad puede bombear cualquier cantidad de aguas subterráneas sin tener en cuenta el efecto sobre el acuífero subterráneo.
+En Maine, el principio de **“captura”** define la propiedad de
+agua: el dueño de una propiedad puede bombear cualquier cantidad de aguas subterráneas sin tener en cuenta el efecto sobre el **acuífero**.
 
 
 Pero con grandes empresas como *Poland Spring* extrayendo
 aguas subterráneas para satisfacer las demandas de millones de
-clientes de todo el país, algunos habitantes de Maine temen que ya no puede continuar con esta regulación.
+clientes de todo Estados Unidos, algunos habitantes de Maine temen que ya no podrán continuar con esta regulación.
 
-En este caso vemos la complejidad para la gestión de un recurso común.
+En este caso vemos la complejidad que implica la gestión de un **recurso común**.
 
 [Extracción agua subterranea para venta como mercancia ](https://www.youtube.com/watch?v=bqGyaqqCCtw)
 
