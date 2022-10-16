@@ -51,19 +51,24 @@ Sin ambargo, esta acción significaria un imapacto adverso sobre la empresa. Lo 
 
 La pregunta relevante es debemos permitir que **A** dañe a **B**? O Debemos permitir que **B** dañe a **A**
 
-Estamos de acuerdo que en el escenario de una aplicación de impuesto A (una empresa) es afectada por el monto del impuesto.
+Estamos de acuerdo que, en el escenario de una aplicación de impuesto, **A** (una empresa) es afectada por el monto del impuesto.
 
-Mientras en el escenario contrario si no se hace nada A esta dañando a B  (los individuos vecinos o pobalción general que recibe los desechos o contaminación). 
+Mientras en el escenario contrario si no se hace nada, **A** esta dañando a **B**  (los individuos vecinos o pobalción general que recibe los desechos o contaminación). 
 
 **¿Quien tiene el derecho de dañar a quien?**
 
 Es la pregunta que **Coase** propone como el planteamiento relevante para entender este problema de efectos adversos de una actividad o en otros términos, para entender esta **externalidad.** 
 
-Y la respuesta se puede aproximar al balance entre costos y beneficios tanto directos como los costos de oportnidad que ambos agentes incurren. 
+Y la respuesta se puede aproximar al balance total, entre costos (incluidos los costos de transacción, ej. el valor de las acciones necesarias para lograr el intercambio o definir el contrato) y los beneficios tanto directos como los **costos de oportunidad**  en los que ambos agentes incurren. 
 
 En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
 
-Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no sismpre se basa en en criterios monetarios. Ej. cuanto vale una vida? Cunato vale que tengamos agua limpia libre de contaminantes que pueden causar greves enfermedades? 
+Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no siempre se basa en criterios monetarios. Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar greves enfermedades? 
+
+
+**Ejemplo**
+
+Caso de contamoinación de cuerpos de agua  por **PFAS**
 
 Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por la red a una población lo vemos en: 
 
