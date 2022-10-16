@@ -19,11 +19,57 @@ El alumno será capaz de caracterizar el problema de **externalidades** en el co
 Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuiferos** y la utilización de agua proveniente de fuentes superficiales. 
 
 
-
-
-
-  
 ## Fallas de mercado
+
+Los mecanismos de mercado para la asignación de los recursos  no siempre funcionan acorde con la frase famosa de **Adam Smith**  sobre la influencia de una **mano invisible** que permite mediante la persecusión de **objetivos individuales**, el beneficio general de la **sociedad**. 
+
+Los patrones de extracción de agua subterránea de diverss  **acuíferos** en México dan cuenta de resultados que, mediante la sobre explotación, tiene impactos adversos para la sociedad por la degradación del ecosistema. 
+
+Hoy vemos que existe diversos **mecanismos de mercado** que tratan de atender el tema de **escasez** para lograr distribuir de manera organizada. ej. bancos de agua, mercados de agua para tranferencia temporal y definitiva de derechos. 
+
+A pesar de estos esfuerzos se documentan con frecuencia casos en los que se tienen problemas de sobre explotación y diversas **barreras** para la realización de intercambios. Así como de efectos al medio ambiente por **contaminación** de los cuerpos de agua. 
+
+Un tipo de **falla de marcado** de especial intereés se refiere a la existencia de **externalidades**
+
+¿Que son las externalidades? 
+
+El ejemplo clásico es la **contaminación** que una empresa determinada genera como resultado de su proceso productivo.
+
+
+
+**Ejemplo**. Agua contaminada para descarga que se genera como resultado de la actividad minera. Ver caso de estudio  [Río Sonora, mina Buena visa del Cobre, Cananea](http://revistas.unla.edu.ar/saludcolectiva/article/view/811)
+
+
+El trabajo pionero de **Roland Harry Coase** 
+expone esta problematica de forma destacada en su artículo ya clasico de  1960 [The problem of social cost](https://www.law.uchicago.edu/files/file/coase-problem.pdf)
+
+En él explica, el centro del problema yace en la diferecncia entre el **producto privado** y el **producto social** entendido el primero como el resultado de la actividad y la gneración de impactos adversos, no necesariamente intencionados sobre terceros.
+
+Una solución típica puede ser la aplicación de un impuesto para compensar por los daños, en este caso la contaminación que afecta a terceros o bien la prohibición de la actividad en tanto afecte a la pobalción. 
+
+Sin ambargo, esta acción significaria un imapacto adverso sobre la empresa. Lo cual, en la perspectiva de Coase es una curso de acción inapropiado. 
+
+La pregunta relevante es debemos permitir que **A** dañe a **B**? O Debemos permitir que **B** dañe a **A**
+
+Estamos de acuerdo que en el escenario de una aplicación de impuesto A (una empresa) es afectada por el monto del impuesto.
+
+Mientras en el escenario contrario si no se hace nada A esta dañando a B  (los individuos vecinos o pobalción general que recibe los desechos o contaminación). 
+
+**¿Quien tiene el derecho de dañar a quien?**
+
+Es la pregunta que **Coase** propone como el planteamiento relevante para entender este problema de efectos adversos de una actividad o en otros términos, para entender esta **externalidad.** 
+
+Y la respuesta se puede aproximar al balance entre costos y beneficios tanto directos como los costos de oportnidad que ambos agentes incurren. 
+
+En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
+
+Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cunatificación de los beneficios no sismpre se basa en en criterios monetarios. Ej. cuanto vale una vida? Cunato vale que tengamos agua limpia libre de contaminantes que pueden causar greves enfermedades? 
+
+Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por la red a una población lo vemos en: 
+
+[EPA, PFAS , TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
+
+
 
 ### Externalidades
 
