@@ -72,6 +72,8 @@ Caso de contamoinación de cuerpos de agua  por **PFAS**
 
 Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por la red a una población lo vemos en: 
 
+[PFAS facts](https://www.youtube.com/watch?v=P8PcM_d0zuY)
+
 [EPA, PFAS per- and polyfluoroalkyl substances, TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
 
 
@@ -93,6 +95,22 @@ En la presencia de **externalidades**, el interés de la sociedad en un resultad
 Porque tanto los compradores  como los vendedores descuidan los efectos externos de sus acciones al decidir cuánto demandar o producir, **el equilibrio del mercado no es eficiente cuando hay externalidades**.
 
 Es decir, **el equilibrio no logra maximizar el beneficio total para la sociedad en su conjunto**.
+
+
+
++ Si el impacto es **positivo**, tenemos una externalidad  postiva (ej. educación, programa de vacunación COVID19?). 
+El otorgamiento de patentes por el **gobierno** es una forma de intervenir para proteger los beneficios asociados a la innovación (En tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración, Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
+
+
++ Cuando el impacto es negativo (econtaminación de agua por PFAS), tenemos una **externalidad negativa**
+
+
+**Ejemplo:** Cuando compañias como **3M** o **DuPont** contaminan con sus productos las corrientes de agua, el interés en remediar estos impactos no forma parte del interés 
+propio de la compañia, por lo que contaminarán hasta que el GOBIERNO diseñe regulación para controlar estas prácticas. 
+
+
+El **mercado falla** en la asignación eficiente (es inceficiente en tanto se generan externalidaes negativas que absorve la sociedad sin compensación) y es necesario la **intervención gubernamental** en forma de regulación que permita que el agente causante de impactos adversos compense
+
 
 **Actividad**
 
