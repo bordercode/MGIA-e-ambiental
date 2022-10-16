@@ -32,6 +32,12 @@ menu:
 [Documental Consumo Doméstico](https://www.youtube.com/watch?v=dzntuXdE8dY)
 
 
+[Sequía en California](https://www.wsj.com/articles/shasta-lake-helped-water-california-now-its-dryness-is-a-threat-to-the-state-11665864898?mod=hp_lead_pos9)
+
+
+
+
+
 #### Tema: Fallas de mercado. Gestión de Recursos Hídricos y producción de alimentos.
 
 
@@ -46,6 +52,10 @@ Lectura en tema de escasez (Unidad 1)
 
 Complementar tema de externalidades con lectura de: 
 [Capítulo 9 Routledge Handbook of Water economics and institutions de Renan-Ulrich Goetz and Àngels Xabadia](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing)
+
+
+
+[PFAS, in water](https://www.youtube.com/watch?v=ThwjSU_Isho)
 
 ## Análisis aplicado. Migración y escasez hídrica.
 

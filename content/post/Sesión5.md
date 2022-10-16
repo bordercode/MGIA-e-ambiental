@@ -63,15 +63,31 @@ Y la respuesta se puede aproximar al balance entre costos y beneficios tanto dir
 
 En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
 
-Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cunatificación de los beneficios no sismpre se basa en en criterios monetarios. Ej. cuanto vale una vida? Cunato vale que tengamos agua limpia libre de contaminantes que pueden causar greves enfermedades? 
+Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no sismpre se basa en en criterios monetarios. Ej. cuanto vale una vida? Cunato vale que tengamos agua limpia libre de contaminantes que pueden causar greves enfermedades? 
 
 Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por la red a una población lo vemos en: 
 
-[EPA, PFAS , TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
+[EPA, PFAS per- and polyfluoroalkyl substances, TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
 
 
+![](/img/pfas3.jpg)
+![](/img/pfas.jpg)
+![](/img/pfas4.jpg)
 
 ### Externalidades
+
+
+
+Una **externalidad** surge cuando un agente económico (individuo, empresa) se dedica a una actividad que influye en el bienestar de un **tercero** pero que no paga, ni recibe compensación por ese efecto.
+
+Si el impacto en sobre el tercero es **adverso**, se llama
+una **externalidad negativa**. Si es beneficioso, se denomina **externalidad positiva**.
+
+En la presencia de **externalidades**, el interés de la sociedad en un resultado de **mercado** se extiende más allá el bienestar de los compradores y vendedores que participan en el mercado para incluir la bienestar de los terceros que se ven afectados **indirectamente**. 
+
+Porque tanto los compradores  como los vendedores descuidan los efectos externos de sus acciones al decidir cuánto demandar o producir, **el equilibrio del mercado no es eficiente cuando hay externalidades**.
+
+Es decir, **el equilibrio no logra maximizar el beneficio total para la sociedad en su conjunto**.
 
 **Actividad**
 
@@ -328,3 +344,7 @@ Al respecto del debate entre economia ambietal y economía ecológica.
 
 
 
+### Glosario.
+
+
+**Costo de transacción:** Valor de las acciones necesarias para conseguir la implementación de un contrato.
