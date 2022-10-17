@@ -66,6 +66,12 @@ En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante,
 Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no siempre se basa en criterios monetarios. Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
 
 
+
+
+
+
+
+
 ### Externalidades
 
 
@@ -85,9 +91,12 @@ Es decir, **el equilibrio de mercado no logra maximizar el beneficio total para 
 
 + Si el impacto es **positivo**, nos referimos a este como una externalidad  postiva (ej. educación, programa de vacunación COVID19? Efectos expansión en innovación tecnológica, ej.  *smart phones*).  
 
+##### Subsidios
+
 En este caso el **regulador (gobierno),** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerse de valor social.   
 
-Ej. programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS**.
+
+Programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS**.
 
 El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **intervenir** para proteger los beneficios asociados a la innovación (por ejemplo en tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración.  Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
 
@@ -133,7 +142,16 @@ Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por 
 
 
 
+## Solución Privada al problema de externalidades.
 
+#### Teorema de Coase.
+
+
+El **teorema de Coase** establece que los actores económicos privados pueden resolver el problema de las externalidades entre ellos. 
+
+Cualquiera que sea la distribución inicial de derechos, las partes interesadas siempre pueden llegar a un acuerdo en el que todos estén mejor y el resultado es eficiente.
+
+Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercados de trasferencia de derechos de agua.
 
 
 
