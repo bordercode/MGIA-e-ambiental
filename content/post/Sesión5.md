@@ -158,6 +158,10 @@ Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercad
 
 No obstante el teorema de Coase, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción mas bien que la regla.
 
+Uno de los principales obstaculos para lograr que los agentes privados alcancen acuerdos como los que indica el **Teorema de Coase** es la existencia de un gran número de agentes involucrados.
+
+Precisamente en el caso de las externalidades asociadas a la calidad de los **recursos hidricos** este e el principal obstaculo y el escenario más comun que imposibilida alcanzar acuerdos privados (en ausencia de mecanismos regulatorios o acción gubernamental).
+
 
 #  Clasificación de los bienes en función su caracter exlcuyente o rival.
 
