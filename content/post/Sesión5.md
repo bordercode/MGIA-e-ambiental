@@ -155,6 +155,17 @@ Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercad
 
 
 
+#  Clasificación de los bienes en función su caracter exlcuyente o rival.
+
+
++ Bienes Publicos: No excluyente rivales.
+
++ Bienes Comunes: No excluyentes, No rivales.
+
++ Bienes Privados: Excluyentes y rivales
+
+
+Hereeeeeee!!!!!
 
 
 ### Ejemplo 1 
