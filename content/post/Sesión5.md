@@ -66,21 +66,6 @@ En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante,
 Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no siempre se basa en criterios monetarios. Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
 
 
-**Ejemplo**
-
-Caso de contaminación de cuerpos de agua  por **PFAS**
-
-Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por la red a una población lo vemos en: 
-
-[PFAS facts](https://www.youtube.com/watch?v=P8PcM_d0zuY)
-
-[EPA, PFAS per- and polyfluoroalkyl substances, TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
-
-
-![](/img/pfas3.jpg)
-![](/img/pfas.jpg)
-![](/img/pfas4.jpg)
-
 ### Externalidades
 
 
@@ -98,8 +83,13 @@ Es decir, **el equilibrio de mercado no logra maximizar el beneficio total para 
 
 
 
-+ Si el impacto es **positivo**, tenemos una externalidad  postiva (ej. educación, programa de vacunación COVID19?). 
-El otorgamiento de patentes por el **gobierno** es una forma de intervenir para proteger los beneficios asociados a la innovación (En tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración, Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
++ Si el impacto es **positivo**, nos referimos a este como una externalidad  postiva (ej. educación, programa de vacunación COVID19? Efectos expansión en innovación tecnológica, ej.  *smart phones*).  
+
+En este caso el **regulador (gobierno),** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerse de valor social.   
+
+Ej. programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS**.
+
+El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **intervenir** para proteger los beneficios asociados a la innovación (por ejemplo en tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración.  Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
 
 
 + Cuando el impacto es negativo (econtaminación de agua por PFAS), tenemos una **externalidad negativa**
@@ -121,9 +111,24 @@ Por **ejemplo**, al considerar la calidad de agua, se podrían establecer **dere
 
 Esta sería una **señal de mercado** que el "contaminador", recibiría  para considerar el impacto de sus actividades.
 
-[](/img/equili_external.jpg)
+![](/img/equili_external.jpg)
 
 
+
+**Caso de estudio**
+
+Caso de contaminación de cuerpos de agua  por **PFAS**
+
+Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por la red a una población lo vemos en: 
+
+[PFAS facts](https://www.youtube.com/watch?v=P8PcM_d0zuY)
+
+[EPA, PFAS per- and polyfluoroalkyl substances, TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
+
+
+![](/img/pfas3.jpg)
+![](/img/pfas.jpg)
+![](/img/pfas4.jpg)
 
 
 
