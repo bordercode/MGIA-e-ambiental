@@ -154,6 +154,10 @@ Cualquiera que sea la distribución inicial de derechos, las partes interesadas 
 Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercados de trasferencia de derechos de agua.
 
 
+### Costos de transacción.
+
+No obstante el teorema de Coase, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción mas bien que la regla.
+
 
 #  Clasificación de los bienes en función su caracter exlcuyente o rival.
 
