@@ -63,7 +63,7 @@ Y la respuesta se puede aproximar al balance total, entre costos (incluidos los 
 
 En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
 
-Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no siempre se basa en criterios monetarios. Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar greves enfermedades? 
+Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no siempre se basa en criterios monetarios. Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
 
 
 **Ejemplo**
