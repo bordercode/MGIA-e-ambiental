@@ -111,8 +111,15 @@ El otorgamiento de patentes por el **gobierno** es una forma de intervenir para 
 El **mercado falla** en la asignación eficiente (es inceficiente en tanto se generan externalidaes negativas que absorve la sociedad sin compensación) y es necesario la **intervención gubernamental** en forma de regulación que permita que el agente causante de impactos adversos compense.
 
 
+Una definición conceptual clasica: *"An externality represents a connection between economic agents which lies outside the price system of the economy"* (Baumol and Oates 1988, 17).
 
+En la presencia de **externalidades**, el **costo social** excede el **costo de producción**
 
+Podemos decir que la externalidades representan **mercados que estan ausentes**, en cuyo caso una solución podría ser asignar derechos de propiedad.
+
+Por ejemplo, al considerar la calidad de agua, se podrían establecer **derechos de propiedad** para este atributo, con la finalidad de consignar la brecha entre el costo privado y el costo social.
+
+Esta sería una **señal de mercado** que el "contaminador", recibiría  para considerar el impacto de sus actividades.
 
 ### Ejemplo 1 
 
@@ -149,7 +156,7 @@ agua: el dueño de una propiedad puede bombear cualquier cantidad de aguas subte
 
 Pero con grandes empresas como *Poland Spring* extrayendo
 aguas subterráneas para satisfacer las demandas de millones de
-clientes de todo Estados Unidos, algunos habitantes de Maine temen que ya no podrán continuar con esta regulación.
+clientes de todo Estados Unidos, algunos habitantes de *Maine* temen que ya no podrán continuar con esta **regulación**.
 
 En este caso vemos la complejidad que implica la gestión de un **recurso común**.
 
