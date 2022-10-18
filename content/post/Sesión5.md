@@ -43,7 +43,7 @@ A pesar de estos esfuerzos se documentan con frecuencia casos en los que se tien
 
 Un tipo de **falla de marcado** de especial intereés se refiere a la existencia de **externalidades**
 
-¿Que son las externalidades? 
+## ¿Que son las externalidades? 
 
 El ejemplo clásico es la **contaminación** que una empresa determinada genera como resultado de su proceso productivo.
 
@@ -59,7 +59,7 @@ En él explica, el centro del problema yace en la diferecncia entre el **product
 
 Una solución típica puede ser la aplicación de un impuesto para compensar por los daños, en este caso la contaminación que afecta a terceros o bien la prohibición de la actividad en tanto afecte a la pobalción. 
 
-Sin ambargo, esta acción significaria un imapacto adverso sobre la empresa. Lo cual, en la perspectiva de Coase es una curso de acción inapropiado. 
+Sin ambargo, esta acción significaría un impacto adverso sobre la empresa. Lo cual, en la perspectiva de **Coase** es una curso de acción inapropiado. 
 
 La pregunta relevante es debemos permitir que **A** dañe a **B**? O Debemos permitir que **B** dañe a **A**
 
@@ -75,7 +75,9 @@ Y la respuesta se puede aproximar al balance total, entre costos (incluidos los 
 
 En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
 
-Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la cuantificación de los beneficios no siempre se basa en criterios monetarios. Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
+Por su puesto, esta solución plantea un gran incoveniente: el hecho de que **la cuantificación de los beneficios no siempre se basa en criterios monetarios.** 
+
+Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
 
 
 
@@ -122,9 +124,9 @@ El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **in
 El **mercado falla** en la asignación eficiente (es inceficiente en tanto se generan externalidaes negativas que absorve la sociedad sin compensación) y es necesario la **intervención gubernamental** en forma de regulación que permita que el agente causante de impactos adversos compense.
 
 
-Una definición conceptual clasica: *"An externality represents a connection between economic agents which lies outside the price system of the economy"* (Baumol and Oates 1988, 17).
+Una definición conceptual clasica: *"An externality represents a connection between economic agents which lies outside the price system of the economy"* (Baumol and Oates 1988, 17).
 
-En la presencia de **externalidades**, el **costo social** excede el **costo de producción**
+En la presencia de **externalidades**, el **costo social** excede el **costo de producción**.
 
 Podemos decir que las externalidades representan **mercados que estan ausentes**, en cuyo caso una solución podría ser asignar derechos de propiedad.
 
@@ -178,9 +180,9 @@ Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercad
 
 No obstante el teorema de Coase, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción mas bien que la regla.
 
-Uno de los principales obstaculos para lograr que los agentes privados alcancen acuerdos como los que indica el **Teorema de Coase** es la existencia de un gran número de agentes involucrados.
+Uno de los principales obstaculos para lograr que los agentes privados alcancen acuerdos como los que indica el **Teorema de Coase** es la existencia de un **gran número de agentes involucrados.**
 
-Precisamente en el caso de las externalidades asociadas a la calidad de los **recursos hidricos** este e el principal obstaculo y el escenario más comun que imposibilida alcanzar acuerdos privados (en ausencia de mecanismos regulatorios o acción gubernamental).
+Precisamente en el caso de las externalidades asociadas a la calidad de los **recursos hidricos** este es el principal obstáculo y el escenario más común que imposibilita alcanzar acuerdos privados (en ausencia de mecanismos regulatorios o acción gubernamental).
 
 
 
@@ -188,7 +190,7 @@ Precisamente en el caso de las externalidades asociadas a la calidad de los **re
 
 Cuando los bienes están disponibles **gratuitamente**, las fuerzas del mercado que normalmente asignan los recursos en nuestra **economía**, están ausentes.
 
-Este hecho nos lleva a considerar una clasificación de los bienes con base en **dos criterios:** 
+Este hecho nos lleva a considerar una **clasificación** de los bienes con base en **dos criterios:** 
 
 > Excluibilidad: Es la propiedad de un bien, bajo la cual una persona puede ser excluida de su  consumo. 
 
@@ -205,15 +207,18 @@ Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un ind
 
 + Bienes Comunes: No excluyentes, No rivales.
 
-Su consumo no requiere un pago y tampoco su consumo implica la reducció nde la cantidad disponible para otros usuarios.
+Su consumo no requiere un pago y tampoco su consumo implica la reducción de la cantidad disponible para otros usuarios.
 
 
-**Ejemplos generales incluyen:** Recursos hidricos, aire de calidad, el entorno natural, las carreteras. 
+**Ejemplos generales incluyen:** Recursos hídricos, aire de calidad, el entorno natural, las carreteras. 
 
-En este tipo de bienes la sobre explotació puede conducir a la perdida del bien o la degradación de su calidad.
+En este tipo de bienes la sobre explotación puede conducir a la perdida del bien o la degradación de su calidad.
 
 
-Garret Hardyn 
+## Garret Hardyn y la tragedia de los communes: 
+
+Una parábola clásica que ilustra como el consumo de bienes comunes por un conjunto creciente de usuarios puede llevar a una situación de sobre explotación y a la pérdida (para el conjunto de usuarios) de un recurso común. 
+
 
 
 
@@ -224,6 +229,13 @@ Este tipo de bienes representan el extremo opuesto, ya que su consumo no es posi
 
 Los esquemas actuales de distribución de agua en algunas ciudades de México (Ej. Aguascalientes, empresa Veolia) tienen esta característica.  
 
+
+De manera interesante diversos usos de los recursos hídricos presentan este carácter de **exlcusividad y rivalidad**
+
+**Por ejemplo:** Agua potable para beber y uso doméstico general.
+
+
+> Lo que hace de los **recursos hidricos** un bien único es este carácter de que es al mismo tiempo un **derecho humano** y un bien comerciable que cumple con las criterios de un bien privado exclusividad y revalidad. 
 
 + **Bienes Públicos:** Excluyente y no rivales.
 
