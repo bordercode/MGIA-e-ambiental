@@ -461,13 +461,10 @@ Documentación sobre la Red Nacional de monitoreo de la calidad del agua.
 
 [Documentación](http://dgeiawf.semarnat.gob.mx:8080/ibi_apps/WFServlet?IBIF_ex=D3_R_AGUA05_03&IBIC_user=dgeia_mce&IBIC_pass=dgeia_mce)
 
-### Actividad 4 Exposición: 
-
-Lectura para análisis:Impactos ambientales y recursos hídricos: 
+# Actividad: Exposición en grupo. 
 
 
-
-### Fallas de Mercado en uso de los recursos hídricos subterráneos y superficiales.
+## Fallas de Mercado en uso de los recursos hídricos subterráneos y superficiales.
 
 [Caso Chihuahua](http://revistas.javeriana.edu.co/index.php/desarrolloRural/article/view/13391)
 
@@ -484,7 +481,7 @@ Explique brevemente en que consiste la estimación del caudal ecológico.
 
 Explique la relación del caso de estudio con el concepto teórico de fallas de mercado.  
   
-### Externalidades y calidad del agua. Estudio caso Sonora. 
+## Externalidades y calidad del agua. Estudio caso Sonora. 
 
 [Sonora](http://revistas.unla.edu.ar/saludcolectiva/article/view/811)
 
@@ -498,7 +495,7 @@ Explique la relación del caso de estudio con el concepto teórico de fallas de 
 
 
 
-### Uso de agua en actividades económicas. Estudio de caso Coahuila. 
+## Uso de agua en actividades económicas. Estudio de caso Coahuila. 
 
 [Caso Coahuila](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-45572014000200007#m1)
   
