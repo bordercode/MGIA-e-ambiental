@@ -18,8 +18,20 @@ Estudiar el fenomeno conocido com oexternalidades y presentar la lomitaciones qu
 El alumno será capaz de caracterizar el problema de **externalidades** en el contexto de la gestión de los recursos hídrios.
 Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuiferos** y la utilización de agua proveniente de fuentes superficiales. 
 
+## Material de consulta para el tema. 
 
-## Fallas de mercado
+[Text Book Mankiw overview](http://www.unm.edu/~parkman/M11.pdf)
+
+## Textos de referencia para consulta.
+
+[Text Book Krugman](https://www.uni-giessen.de/fbz/fb02/fb/professuren/vwl/goetz/lehre/copy2_of_downloadsordner/mikrooekonomie-i/foliensaetze/chapter-17)
+
+## Lectura para afianzar la base teórica aplicada sobre recursos hidricos.
+
+[Lectura para revisión](http://www.globalwaterforum.org/2015/04/27/understanding-water-markets-public-vs-private-goods/)
+
+
+# Fallas de mercado
 
 Los mecanismos de mercado para la asignación de los recursos  no siempre funcionan acorde con la frase famosa de **Adam Smith**  sobre la influencia de una **mano invisible** que permite mediante la persecusión de **objetivos individuales**, el beneficio general de la **sociedad**. 
 
@@ -289,17 +301,6 @@ Este fenomeno surge cuando usuarios que no contribuyen a pagar usan los recursos
 
 
 
-## An  overview. 
-
-[Text Book Mankiw overview](http://www.unm.edu/~parkman/M11.pdf)
-
-## Some definitions
-
-[Text Book Krugman](https://www.uni-giessen.de/fbz/fb02/fb/professuren/vwl/goetz/lehre/copy2_of_downloadsordner/mikrooekonomie-i/foliensaetze/chapter-17)
-
-Ejemplo nociones teóricas aplicadas sobre recursos hidricos.
-
-[Lectura para revisión](http://www.globalwaterforum.org/2015/04/27/understanding-water-markets-public-vs-private-goods/)
 
 #### Preguntas detonadoras.
 
@@ -470,32 +471,9 @@ Explique la relación del caso de estudio con el concepto teórico de fallas de 
 
 ### Uso de agua en actividades económicas. Estudio de caso Coahuila. 
 
-[Caso Coahuila](https://www.ciad.mx/archivos/revista-eletronica/RES44/JL_Manzanares.pdf)
+[Caso Coahuila](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-45572014000200007#m1)
   
   
-#### Herramientas para análisis Costo-Beneficio.
-
-#### Actividad 
-
-Leer  Capítulo 3   Ronald Griffin. 
-
-[Book Chapter 3](https://drive.google.com/file/d/1eK6VPN7y3oW7fvxmVjRLYIYqjjvaux0P/view?usp=sharing)
-
-  
-
-### Actividad 5:
-
-*Discutir Enfoque Economía Ambiental vs. Economía Ecológica.*
-
-[Lectura Guillermo Foladori](https://drive.google.com/file/d/1TgEbGFyUhIYXjFl8UfC9q_u_gr92J5mX/view?usp=sharing)
-
-Al respecto del debate entre economia ambietal y economía ecológica. 
-
-*"Of no school I am part,Never to living master lost my heart, Nor any more can I be said To have learned anything from the dead." That statement - subject to appeal - Means "I'm a self-made imbecile."*
-
-(J.W. Goethe, Den Originalen, 1812).
-
-
 
 ### Glosario.
 
