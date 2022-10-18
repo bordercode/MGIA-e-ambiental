@@ -178,12 +178,12 @@ Cuando los bienes están disponibles **gratuitamente**, las fuerzas del mercado 
 
 Este hecho nos lleva a considerar una clasificación de los bienes con base en **dos criterios:** 
 
-> Excluibilidad:
+> Excluibilidad: Es la propiedad de un bien, bajo la cual una persona puede ser excluida de su  consumo. 
 
-Si los bienes son excluyentes, el consumo  depende de la posesión de derechos de propiedad específicos.
+Si los bienes son **excluyentes**, el consumo  depende de la posesión de derechos de propiedad específicos. 
 
 
-> Rivilidad
+> Rivalidad
 
 Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un individuo o grupo de individuos, causa una reducción de la cantidad disponible del bien para el resto de consumidores. 
 
