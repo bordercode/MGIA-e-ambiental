@@ -72,7 +72,7 @@ Por su puesto, esta solución plantea un gran incoveniente: el hecho de que la c
 
 
 
-### Externalidades
+## Externalidades
 
 
 
@@ -93,7 +93,7 @@ Es decir, **el equilibrio de mercado no logra maximizar el beneficio total para 
 
 ##### Subsidios
 
-En este caso el **regulador (gobierno),** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerse de valor social.   
+En este caso el **regulador (gobierno),** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerarse de valor social.   
 
 
 Programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS**.
@@ -101,7 +101,7 @@ Programas de **subsidio** para la construcción de plantas de tratamiento de agu
 El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **intervenir** para proteger los beneficios asociados a la innovación (por ejemplo en tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración.  Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
 
 
-+ Cuando el impacto es negativo (econtaminación de agua por PFAS), tenemos una **externalidad negativa**
++ Cuando el impacto es negativo (por ejemplo, contaminación de agua por PFAS), tenemos una **externalidad negativa**
 
 
 **Ejemplo:** Cuando compañias como **3M** o **DuPont** contaminan con sus productos las corrientes de agua, el interés en remediar estos impactos no forma parte de la voluntad espontánea  de la compañia, por lo que contaminarán hasta que el **GOBIERNO** diseñe regulación para controlar estas prácticas. 
@@ -118,7 +118,7 @@ Podemos decir que las externalidades representan **mercados que estan ausentes**
 
 Por **ejemplo**, al considerar la calidad de agua, se podrían establecer **derechos de propiedad** para este atributo, con la finalidad de consignar la brecha entre el costo privado y el costo social.
 
-Esta sería una **señal de mercado** que el "contaminador", recibiría  para considerar el impacto de sus actividades.
+Esta sería una **señal de mercado** que el "contaminador" recibiría  para considerar el impacto de sus actividades.
 
 ![](/img/equili_external.jpg)
 
@@ -132,7 +132,15 @@ Un ejemplo de externalidad en el manejo de la calidad de agua que se provee por 
 
 [PFAS facts](https://www.youtube.com/watch?v=P8PcM_d0zuY)
 
+[PFAS](https://www.youtube.com/watch?v=43ZbkT3lw0w)
+
+
+
+
+
+
 [EPA, PFAS per- and polyfluoroalkyl substances, TUCSON, AZ](https://www.youtube.com/watch?v=ocQMX0eKReA)
+
 
 
 ![](/img/pfas3.jpg)
@@ -163,7 +171,26 @@ Uno de los principales obstaculos para lograr que los agentes privados alcancen 
 Precisamente en el caso de las externalidades asociadas a la calidad de los **recursos hidricos** este e el principal obstaculo y el escenario más comun que imposibilida alcanzar acuerdos privados (en ausencia de mecanismos regulatorios o acción gubernamental).
 
 
+
+# Bienes comunes y la inaplicabilidad de los  mecanismo de mercado. 
+
+Cuando los bienes están disponibles **gratuitamente**, las fuerzas del mercado que normalmente asignan los recursos en nuestra **economía**, están ausentes.
+
+Este hecho nos lleva a considerar una clasificación de los bienes con base en **dos criterios:** 
+
+> Excluibilidad:
+
+Si los bienes son excluyentes, el consumo  depende de la posesión de derechos de propiedad específicos.
+
+
+> Rivilidad
+
+Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un individuo o grupo de individuos, causa una reducción de la cantidad disponible del bien para el resto de consumidores. 
+
+
 #  Clasificación de los bienes en función su caracter exlcuyente o rival.
+
+
 
 
 + Bienes Publicos: No excluyente rivales.
