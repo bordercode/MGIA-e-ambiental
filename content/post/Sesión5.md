@@ -80,12 +80,6 @@ Por su puesto, esta solución plantea un gran incoveniente: el hecho de que **la
 Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
 
 
-
-
-
-
-
-
 ## Externalidades
 
 
@@ -205,14 +199,14 @@ Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un ind
 #  Clasificación de los bienes en función sus propiedades  de exlcusividad  y rivalidad.
 
 
-+ Bienes Comunes: No excluyentes, No rivales.
++ **Bienes Comunes:** No excluyentes, No rivales.
 
 Su consumo no requiere un pago y tampoco su consumo implica la reducción de la cantidad disponible para otros usuarios.
 
 
 **Ejemplos generales incluyen:** Recursos hídricos, aire de calidad, el entorno natural, las carreteras. 
 
-En este tipo de bienes la sobre explotación puede conducir a la perdida del bien o la degradación de su calidad.
+En este tipo de bienes la sobre explotación puede conducir a la pérdida del bien o la degradación de su calidad.
 
 
 ## Garret Hardin y la tragedia de los communes: 
@@ -242,7 +236,7 @@ The market as an allocation machanism fails!
 ¿Cual es el problema central en este caso según el autor?
 
 
-Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la practica aplicadas sin seguimiento estricto, en arte por la propia naturaleza del recurso en cuento a su localización y en parte por la presecnia de comportamientos estructurales como la corrupción entre administradores y usuarios con capacidad de gestión. 
+Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la práctica aplicadas sin seguimiento estricto, en arte por la propia naturaleza del recurso en cuanto a su localización y en parte por la presencia de comportamientos estructurales como la corrupción entre administradores y usuarios con capacidad de gestión. 
 
 
 **Actividad 2**. Lectura y realización de ensayo. 
