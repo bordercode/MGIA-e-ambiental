@@ -215,10 +215,46 @@ Su consumo no requiere un pago y tampoco su consumo implica la reducción de la 
 En este tipo de bienes la sobre explotación puede conducir a la perdida del bien o la degradación de su calidad.
 
 
-## Garret Hardyn y la tragedia de los communes: 
+## Garret Hardin y la tragedia de los communes: 
 
 Una parábola clásica que ilustra como el consumo de bienes comunes por un conjunto creciente de usuarios puede llevar a una situación de sobre explotación y a la pérdida (para el conjunto de usuarios) de un recurso común. 
 
+**Actividad 1**. Leer * Garrett Hardin, The tragedy of the commons* . 
+
+Objetivo Ilustrar el escenario de tragedia de los comunes en el contexto del tema de **fallas de mercado**. 
+
+Market allocation in which actions  to maximize individual utility are followed, may generate negative outcomes for society as whole.
+
+The market as an allocation machanism fails!
+
+[The tragedy of the commons](https://drive.google.com/file/d/1imvEfls1L8maJenExWxAnn4GX7GxWPyn/view?usp=sharing)
+
+#### Preguntas detonadoras 
+
+1. Describa el problema  de la tragedia de los comunes.
+
+2. ¿Qué alternativas describe el autor para enfrentar el problema?
+
+3. ¿Qué papel tiene la introducción de impuestos en el manejo de recursos como el agua? 
+
+4. ¿Qué efecto percibe el autor derivado de la introducción de derechos de propiedad para el caso de los recursos hidricos? 
+
+¿Cual es el problema central en este caso según el autor?
+
+
+Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la practica aplicadas sin seguimiento estricto, en arte por la propia naturaleza del recurso en cuento a su localización y en parte por la presecnia de comportamientos estructurales como la corrupción entre administradores y usuarios con capacidad de gestión. 
+
+
+**Actividad 2**. Lectura y realización de ensayo. 
+
+[PDF Jaime Hoogesteger](https://drive.google.com/file/d/1_CJNsy85VvhtmgX7WmOh8MIF44xNqN6V/view?usp=sharing) Ensayo 2. 
+  
+
+1. Argumente la conveniencia de enfatizar el paradigma de **redes hidrosociales** sobre la perspectiva tradicional sobre **derechos de propiedad** para comprender los procesos de acceso a los recursos hidricos y los posibles problemas de sobre explotació de un recurso común. 
+
+2. Describa las etapas  en la transición desde un estado de *wellfare* a uno *illfare* en relación al uso de los RH subterráneos.
+
+3. ¿Discuta qué factores dificultan la implementación de esquemas de regulación eficientes para los RH subterráneos.
 
 
 
@@ -235,7 +271,20 @@ De manera interesante diversos usos de los recursos hídricos presentan este car
 **Por ejemplo:** Agua potable para beber y uso doméstico general.
 
 
-> Lo que hace de los **recursos hidricos** un bien único es este carácter de que es al mismo tiempo un **derecho humano** y un bien comerciable que cumple con las criterios de un bien privado exclusividad y revalidad. 
+> Lo que hace de los **recursos hidricos** un bien único, en esta perspectiva,  es este carácter, que es al mismo tiempo un **derecho humano** y un bien comerciable que cumple con las criterios de un **bien privado** exclusividad y revalidad. 
+
+*"Access to safe drinking water and sanitation was declared a ‘human right’ by the UN in 2010"*
+
+
+As a human right, water cannot be treated the same way as other marketable goods because the transfer of water to those who **value it most** highly may be **morally unacceptable** if this transfer means that some people no longer have access to the basic water needed to **survive**.
+
+
+Sin embargo, una vez satisfechas las necesidades básicas de agua, el uso adicional de agua **ya no es un derecho humano básico**. 
+
+Los hogares, por ejemplo, pueden usar agua para llenar una piscina, regar el césped o tomar duchas prolongadas. 
+
+### Como tal, cuando el uso del agua supera los **50-100 litros por persona por día**, se convierte en un bien privado y, por lo tanto, se asigna mejor, como otros bienes privados, a través de los mercados.
+
 
 + **Bienes Públicos:** Excluyente y no rivales.
 
@@ -345,41 +394,9 @@ d) Recursos hídricos subterráneos (Acuíferos).
 
 *List three sources of market failures that frequently afflict water economies.*
 
-**Actividad 1**. Leer * Garrett Hardin, The tragedy of the commons* . 
-
-Objetivo Ilustrar el escenario de tragedia de los comunes en el contexto del tema de **fallas de mercado**. 
-
-Market allocation in which actions  to maximize individual utility are followed, may generate negative outcomes for society as whole.
-
-The market as an allocation machanism fails!
-
-[The tragedy of the commons](https://drive.google.com/file/d/1imvEfls1L8maJenExWxAnn4GX7GxWPyn/view?usp=sharing)
-
-#### Preguntas detonadoras 
-
-1. Describa el problema  de la tragedia de los comunes.
-
-2. ¿Qué alternativas describe el autor para enfrentar el problema?
-
-3. ¿Qué papel tiene la introducción de impuestos en el manejo de recursos como el agua? 
-
-4. ¿Qué efecto percibe el autor derivado de la introducción de derechos de propiedad para el caso de los recursos hidricos? 
-
-¿Cual es el problema central en este caso según el autor?
 
 
-**Actividad 2**. Lectura y discusión en clase 
-
-[PDF Jaime Hoogesteger](https://drive.google.com/file/d/1_CJNsy85VvhtmgX7WmOh8MIF44xNqN6V/view?usp=sharing) Ensayo 2. 
-  
-
-1. Argumente la conveniencia de enfatizar el paradigma de **redes hidrosociales** sobre la perspectiva tradicional sobre **derechos de propiedad** para comprender los procesos de acceso a los recursos hidricos. 
-
-2. Describa las etapas  en la transición desde un estado de *wellfare* a uno *illfare* en relación al uso de los RH subterráneos.
-
-3. ¿Discuta qué factores dificultan la implementación de esquemas de regulación eficientes para los RH subterráneos.
-
-
+*
 **Actividad 3**
 
 Discutir Documental Recursos Hídricos, producción agrícola. Fallas de mercado. Caso Chile (ver recursos Adicionales).
