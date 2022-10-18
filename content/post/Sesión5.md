@@ -172,7 +172,7 @@ Precisamente en el caso de las externalidades asociadas a la calidad de los **re
 
 
 
-# Bienes comunes y la inaplicabilidad de los  mecanismo de mercado. 
+# Bienes comunes y públicos. La inaplicabilidad de los  mecanismos de mercado. 
 
 Cuando los bienes están disponibles **gratuitamente**, las fuerzas del mercado que normalmente asignan los recursos en nuestra **economía**, están ausentes.
 
@@ -188,22 +188,60 @@ Si los bienes son **excluyentes**, el consumo  depende de la posesión de derech
 Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un individuo o grupo de individuos, causa una reducción de la cantidad disponible del bien para el resto de consumidores. 
 
 
-#  Clasificación de los bienes en función su caracter exlcuyente o rival.
+#  Clasificación de los bienes en función sus propiedades  de exlcusividad  y rivalidad.
 
-
-
-
-+ Bienes Publicos: No excluyente rivales.
 
 + Bienes Comunes: No excluyentes, No rivales.
 
-+ Bienes Privados: Excluyentes y rivales
+Su consumo no requiere un pago y tampoco su consumo implica la reducció nde la cantidad disponible para otros usuarios.
 
 
-Hereeeeeee!!!!!
+**Ejemplos generales incluyen:** Recursos hidricos, aire de calidad, el entorno natural, las carreteras. 
+
+En este tipo de bienes la sobre explotació puede conducir a la perdida del bien o la degradación de su calidad.
 
 
-### Ejemplo 1 
+Garret Hardyn 
+
+
+
+
++ Bienes Privados: **Excluyentes y rivales**
+
+Este tipo de bienes representan el extremo opuesto, ya que su consumo no es posible si no se cubre el precio (son excluyentes). Y el consumo de un usuario, reduce la disponibilidad del bien para otros usuarios. 
+
+Los esquemas actuales de distribución de agua en algunas ciudades de México (Ej. Aguascalientes, empresa Veolia) tienen esta característica.  
+
+
++ **Bienes Públicos:** Excluyente y no rivales.
+
+En ausencia de los **mecanismos de mercado** pueden presentarse situaciones de sobre exploración o de producción inferior a la requerida por la sociedad.  Y otros problemas como el denominado **free rider**
+
+**Free rider:** Usuarios que  acceden al recurso, sin pagar. causando sobre explotación. Este tipo de comportamiento ejemplifica una **falla de mercado**.
+
+Dado que los bienes públicos son no excluibles, el problema del **free rider** implica que los **mercados privados** no resultan en un mecanismo eficiente de asiganación de recursos.
+
+En este caso **atender** esta **falla de mercado** (free rider), puede hacerse mediante la **intervención gubernamental**, siempre y cuando los beneficios sociales totales excedan los costos totales. 
+
+La provisión del **bien público** para la sociedad estará a cargo del gobierno quien puede financiarlo mediante el cobro de **impuestos**. 
+
+**Ejemplos generales básicos:**  Defensa nacional, investigación, programas para el combate a la probreza.
+
++ **Monopolio Natural:** Bienes que son excluyentes pero **no rivales**. Es decir su consumo requiere cubrir un precio pero no genera una menor disponibilidad para el resto de los consumidores.
+
+El origen de este tipo de bienes, se vincula con la **estructura de costos fijos**.
+
+En esta situación  la competencia entre diversos proveedores resulta ineficiente. Los **costos fijos** son de tal magnitud que resultan prohivitivos.
+
+**Ejemplos:** La red de distribución de gas (en algunas ciudades como Juárez, Chihuahua), red ferroviaria, red de distribución de electricidad,etc,.
+
+
+
+
+**Note** que cuando los bienes no tiene asociado un **precio**, los mercados privados no pueden garantizar que los bienes se producirán o consumirán en las cantidades **óptimas**. 
+
+
+### Ejemplo 1 : Bien público
 
 El río Mississippi cambia su curso en periodos de cientos
 años. 
@@ -224,7 +262,7 @@ economía de Luisiana.
 La Estructura de **Control el Viejo Río** es un ejemplo dramático de un **Bien público**. Ningún individuo habría tenido un incentivo para construirlo, sin embargo, protege muchos miles de millones de dólares de propiedad privada.
 
 
-### Ejemplo 2
+### Ejemplo 2 Bien común.
 
 Desde 2004, los habitantes de Maine han estado involucrados en una feroz batalla sobre uno de sus recursos naturales mas apreciados: las **aguas subterráneas**.
 
@@ -232,17 +270,23 @@ Desde 2004, los habitantes de Maine han estado involucrados en una feroz batalla
 El agua subterránea de Maine, es una valiosa mercancía como **agua potable**, apreciada durante mucho tiempo por su pureza y sabor.
 
 
-En Maine, el principio de **“captura”** define la propiedad de
-agua: el dueño de una propiedad puede bombear cualquier cantidad de aguas subterráneas sin tener en cuenta el efecto sobre el **acuífero**.
+En Maine, el principio de **“captura”** define la propiedad de agua: el dueño de una propiedad puede bombear cualquier cantidad de aguas subterráneas sin tener en cuenta el efecto sobre el **acuífero**.
 
 
-Pero con grandes empresas como *Poland Spring* extrayendo
-aguas subterráneas para satisfacer las demandas de millones de
+Pero con grandes empresas como *Poland Spring* extrayendo aguas subterráneas para satisfacer las demandas de millones de
 clientes de todo Estados Unidos, algunos habitantes de *Maine* temen que ya no podrán continuar con esta **regulación**.
 
 En este caso vemos la complejidad que implica la gestión de un **recurso común**.
 
 [Extracción agua subterranea para venta como mercancia ](https://www.youtube.com/watch?v=bqGyaqqCCtw)
+------------------------------
+
+
+
+### El probelma del Free rider
+
+Este fenomeno surge cuando usuarios que no contribuyen a pagar usan los recursos. El resultado es la sobre utilización.
+
 
 
 ## An  overview. 
