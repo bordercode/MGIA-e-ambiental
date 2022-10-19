@@ -25,6 +25,20 @@ menu:
 
 + Discutir la conformación de la curva de oferta y sus determinantes.
 
+## Material de consulta para el tema de hoy
+
+[Environmental and Natural Resource Economics](https://drive.google.com/file/d/1HpZvL-QDVMFYw7AGbB6PrsEMRXosY2va/view?usp=sharing) Capitulo. 6 pag 134.
+
+
+[Principios Gregory Mankiw](https://drive.google.com/file/d/17n6pBOX8hf8_fF1JzIlwFfdvManNmBLV/view?usp=sharing) Capítulo 13
+
+[Michael Parkin](https://drive.google.com/file/d/1X-4cc8C9Z6re3XU_5a0pS-doNrdEKh4M/view?usp=sharing) Cap
+
+[Ronald C. Griffin](https://drive.google.com/file/d/199laSXJ9pjSx2ZcPSgljRfN5pT-Z5mHJ/view?usp=sharing) The Fundamental Economic Theory. Part I.
+
+[The economics of water](https://drive.google.com/file/d/17n6pBOX8hf8_fF1JzIlwFfdvManNmBLV/view?usp=sharing) capitulo 5.
+
+
 ## Teoría del productor.
 
 
