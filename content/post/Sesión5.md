@@ -357,10 +357,6 @@ En este caso vemos la complejidad que implica la gestión de un **recurso común
 
 
 
-### El probelma del *Free rider*
-
-Este fenomeno surge cuando usuarios que no contribuyen a pagar usan los recursos. El resultado es la sobre utilización.
-
 
 **Actividad 3**
 
@@ -467,3 +463,6 @@ Explique la relación del caso de estudio con el concepto teórico de fallas de 
 
 
 **Costo de transacción:** Valor de las acciones necesarias para conseguir la implementación de un contrato.
+
+
+*Free rider*;  Este fenomeno surge cuando usuarios que no contribuyen a pagar, tiene acceso a los recursos. El resultado es la sobre utilización que afecta al conjunto de usuarios.
