@@ -239,7 +239,7 @@ The market as an allocation machanism fails!
 Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la práctica aplicadas sin seguimiento estricto, en arte por la propia naturaleza del recurso en cuanto a su localización y en parte por la presencia de comportamientos estructurales como la **corrupción** entre administradores y usuarios con capacidad de gestión. 
 
 
-Ver Webminar del IMTA sobre caso Distrito de reigo 011, Alto Rio Lerma, Guanjuato presentado por Doctora Amalia Reyes Martínez, sobre Mercados de los derechos de agua. 
+Ver Webminar del **IMTA** sobre caso Distrito de reigo 011, Alto Rio Lerma, Guanjuato presentado por Doctora Amalia Reyes Martínez, sobre Mercados de los derechos de agua. 
 
 **Actividad 2**. Lectura y realización de ensayo. 
 
@@ -307,10 +307,13 @@ En esta situación  la competencia entre diversos proveedores resulta ineficient
 **Ejemplos:** La red de distribución de gas (en algunas ciudades como Juárez, Chihuahua), red ferroviaria, red de distribución de electricidad,etc,.
 
 
-
-
 **Note** que cuando los bienes no tiene asociado un **precio**, los mercados privados no pueden garantizar que los bienes se producirán o consumirán en las cantidades **óptimas**. 
 
+
+### En conclusión, en términos conceptuales, las fallas del mercado en la asignación de los recursos de forma eficiente, ocurren cuando los derechos de propiedad no son establecidos o no son protegidos con certidumbre. 
+
+
+Veamos algunos ejemplos de la **expresión empirica** de las fallas de mercado en el contexto de los tipos de bienes vistos hasta ahora. 
 
 ### Ejemplo 1 : Bien público
 
@@ -354,50 +357,14 @@ En este caso vemos la complejidad que implica la gestión de un **recurso común
 
 
 
-### El probelma del Free rider
+### El probelma del *Free rider*
 
 Este fenomeno surge cuando usuarios que no contribuyen a pagar usan los recursos. El resultado es la sobre utilización.
 
 
-
-
-#### Preguntas detonadoras.
-
-
-1. Explique la noción de falla del mercado. Presente ejemplos para el caso de los recursos hidricos.
-
-
-2. Indique los criterios para la clasificación de los bienes en el contexto de las fallas de mercado. 
-
-3. En su opinión, los recrusos hidricos pueden considerarse un bien público o privado?
-
-4. Liste ejemplos de bienes comunes.
-
-5. Liste ejemplos de bienes privados.
-
-6. Exlique en que consiste el problema del *Free rider*
-
-7. Clasifique los siguientes tipos de recursos según sean: bien público (bp), bien privado (p), bien común (bc).
-
-
-a) Obras para el control de inundaciones 
-
-b) Agua embotellada
-
-c) Agua residual tratada (Planta de tratamiento de aguas residuales). 
-
-d) Recursos hídricos subterráneos (Acuíferos).
-
-**Bonus:** 
-
-*List three sources of market failures that frequently afflict water economies.*
-
-
-
-*
 **Actividad 3**
 
-Discutir Documental Recursos Hídricos, producción agrícola. Fallas de mercado. Caso Chile (ver recursos Adicionales).
+Discutir Documental Recursos Hídricos, producción agrícola. Fallas de mercado.  [Caso Chile, al rescate del agua en Chile](https://www.youtube.com/watch?v=ruBWcg1Te_4) (ver hasta min 9:58).
 
 ### Preguntas detonadoras.
 
@@ -409,9 +376,6 @@ Discutir Documental Recursos Hídricos, producción agrícola. Fallas de mercado
 
 ## Tema Externalidades.
 
-### Actividad en clase: 
-
-Leer y discutir ejemplo de aplicación de herramientas de economía ambiental (Enfoque neoclásico).
 
 **Conceptos.** Revisar Recursos Adicionales. *Intro*
 [Capítulo 9 Routledge Handbook of Water economics and institutions de ](https://drive.google.com/file/d/1_BTgai3QNWzlmbkGfgWAe7B40R86HMJz/view?usp=sharing) Renan-Ulrich Goetz and Àngels Xabadia.
@@ -437,7 +401,7 @@ Para esta actividad se emplean imágenes de percepción remota para visualizar a
 
 Comentar ejemplo impacto **(Externalidades Negativas)** de concesiones por descarga de agua residual Caso Aguascalientes.
 
-Ejemplo: 
+**Ejemplo:** 
 
 [Distribución de concesiones por descargas Agua residual](http://docs.wixstatic.com/ugd/59a6db_ae95ca0f66f9482eb723e34b248dda49.pdf)
 (ver página 77)
@@ -495,9 +459,9 @@ Explique la relación del caso de estudio con el concepto teórico de fallas de 
 
 ## Uso de agua en actividades económicas. Estudio de caso Coahuila. 
 
-[Caso Coahuila](https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0188-45572014000200007#m1)
+[Caso Coahuila](https://www.scielo.org.mx/pdf/estsoc/v22n44/v22n44a7.pdf)
   
-  
+
 
 ### Glosario.
 
