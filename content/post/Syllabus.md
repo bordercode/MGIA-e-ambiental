@@ -22,12 +22,12 @@ El curso se desarrollará mediante los siguientes elementos:
 
 # Métodos y estrategias de evaluación.
 
-*	Exámen                   20 %
+*	Exámen                   10 %
 *	Ejercicios               25 %
-* Participación            10 %
+* Participación            15 %
 * Controles de lectura (4) 20%
 * Ensayo Final             20 %
-
+* Exposición               10 %
 
 c 2022
 
