@@ -175,7 +175,30 @@ Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercad
 
 ### Costos de transacción.
 
-No obstante el teorema de Coase, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción mas bien que la regla.
+No obstante el teorema de Coase, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción, más bien que la regla.
+
+
+Los costos de transacción incluyen los costos de búsqueda de
+un comprador/vendedor dispuesto, negociaciones, navegar por los requisitos institucionales (permisos, procedimientos judiciales de agua), y el gasto físico para la recolección, almacenamiento y tratamiento de agua.
+
+
+Los **factores físicos**, biológicos y técnicos que se incluyen en el término **factores físicos** son importantes impulsores de los **costos de transacción**. 
+
+Los factores físicos son:
+
++ **Escala:** Los problemas de cantidad y calidad pueden tener que abordarse en la cuenca de origen directamente, lo cual incrementa lo **costos de transacción**
+
+
++ **Efectos externos:** los derechos de agua  en las partes  bajas del cuadal, a menudo dependen de los flujos de retorno de usuarios aguas arriba. Una reasignación  aguas arriba, puede afectar el  caudal de retorno y, por lo tanto, puede dar lugar a efectos sobre terceros que afecten los titulares de derechos de aguas  en la partes bajas. **Ver el caso del Conchos por ejemplo.**
+
++ **Excluibilidad:** Excluir a las personas del consumo de un **bien no excluible** (p. ej., aguas subterráneas) requiere un control y una aplicación estrictos de la regulación. 
+
++ **Número de agentes:** El costo de transacción aumenta con el número de agentes que están involucrados. 
+
+Los **Bancos de agua** y los  **sistemas de registro** de intercambio de agua, permiten estandarizar las políticas y los procedimientos para reducir los costos de transacción, incluso para una gran número de compradores y vendedores.
+
+
+
 
 Uno de los principales obstaculos para lograr que los agentes privados alcancen acuerdos como los que indica el **Teorema de Coase** es la existencia de un **gran número de agentes involucrados.**
 

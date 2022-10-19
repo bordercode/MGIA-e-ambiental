@@ -58,43 +58,54 @@ Estas decisiones implican el conocimiento de la estrucuctura de costos y la dete
 
 + CT = **Costo total= CV+CF**. CV= Costo Variable, CF= **Costo Fijo**  Un rasgo **importante** es que esta estructura de costos es aplicable al **Corto plazo**, ya que en el **largo plazo** Todos los costos pueden tratarse como variables, es decir, por ejemplo se pueden renogociar los contratos de arrendamiento o reestructurar la renta de ciertos equipos.   
 
-El incremento de uno de estos factores (trabajo) manteniendo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
+## Productividad marginal decreciente (PMD).
+
+
+El incremento de uno de los factores de producción (ej. trabajo) manteniendo fijo  (*ceteris paribus*) el resto de los factores, implica una aportación cada vez menor sobre la producción. 
 
 El efecto de esta relación se resume bajo el concepto de **productividad marginal decreciente**,  $$PM_{L}=\frac{\partial {y}}{\partial{L}}>0$$
 
-$$\frac{\partial PM_{L}}{\partial{L}}<0$$
+$$PMD=\frac{\partial PM_{L}}{\partial{L}}<0$$
 
 Donde $$y=f(L, \overline{K}, \overline{Tierra}, \overline{tech} )$$
 
 Note que en el corto plazo, tenemos un conjunto de factores productivos que permanecen fijos. Este rasgo implica una **productividad marginal decreceinte del factor trabajo**.
 
 
-En general un proceso productivo tiene dos características distintivas:
+> En general un proceso productivo tiene dos características distintivas:
 
-En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos el nivel productivo crece a un ritmo proporcionalmente mayor.
++ En una primera fase exhibe **rendimientos crecientes**, es decir, a medida que se incrementan los insumos el nivel productivo crece a un ritmo proporcionalmente mayor.
 
 
-Los rendimientos crecientes que observamos en las etapas inciales del proceso productivo estan asociados a la **eficiencia** que permite la **especialización** y la **división del trabajo**
+Los rendimientos crecientes que observamos en las etapas inciales del proceso productivo estan asociados a la **eficiencia** que permiten tanto la: 
 
-Una segunda fase presenta **rendimientos decrecientes**, la figura siguiente muestra estos rasgos.
+> **Especialización**  
+
+> **División del trabajo**
+
++ Una segunda fase presenta **rendimientos decrecientes**.
+
+
+La figura siguiente muestra estos rasgos.
 
 ![](/img/funciónY.jpg)
 
 
 
-La siguiente gráfica muestra la noción de **rendimientos decrecientes** en conjunto con la noción del producción marginal.
+La siguiente gráfica muestra la noción de **rendimientos decrecientes** en conjunto con el concepto del **producción marginal**.
 
 ![](/img/porduction.jpg)
+*Producción Marginal decreciente*
 
-*Producción Marginal decreciente *
+
+Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CMarg**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
 
 
-Este rasgo **(PMD)** del proceso productivo, asegura que el costo marginal (**CM**) , es decir, el costo de la unidad adicional porducida,  sea una función creciente (relación positiva) respecto al nivel de producción (**Q**).
-
+## Efecto de la innovación tecnológica.
 
 Por su parte el impacto de una **innovación tecnológica**, permitirá desplazar la curva de producción a mayores niveles,  manteniendo (*ceteris paribus*) el resto de insumos  constante.
 
-**Note** en la figura siguiente, el cambio en la pendiente de la curva que representa la función de producción.
+**Note** en la figura siguiente, el desplazamiento de la curva que representa la **función de producción**.
 
 ![](/img/tecnologia.jpg)
 
@@ -130,17 +141,19 @@ Esta situación implica que los **ingresos** generados serán inferiores al **co
 Dada esta estructura de costos, **la decisión óptima será no producir.** 
 
 
-
+las siguiente figur muestra el comportamiento de la curva de costos totales (fijo y variable).
 ![](/img/costosfv.jpg)
 
 
 + Observe que la suma de los costos fijos y los variables integran los costos totales   $$CT=CF+CV$$.
 
-+ La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  O dicho de otra manera, la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo.
++ La distancia vertical entre la linea que representa los costos fijos y el costo total, denota el costo variable.  O dicho de otra manera, **la distancia que hay entre la curva de costo total y la de costo variable indica el costo fijo**.
 
-+ Note que la curva de costos totales no inicia en cero, ya que se tienen costos fijos. Ejemplo renta de las instalaciones en el parque industrial.
++ Note que la curva de costos totales no inicia en cero, ya que se tienen costos fijos. Ejemplo renta de las instalaciones en el parque industrial. este costo se tiene que cubir a pesar de que el nivel de producción sea cero.
 
-+ Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión. 
++ Note además que el crecimiento de la curva de costos totales es más acentuado a partir de un punto de inflexión.  
+
+Punto en que el efecto positivo de la **especialización y la división del trabjo** son rebasados por la influencia **negativa** del fenómeno de **rendimiento marginal decreciente** de uno de los factores.
 
 
 ![](/img/costoT.jpg)
@@ -148,9 +161,12 @@ Dada esta estructura de costos, **la decisión óptima será no producir.**
 
 #### Costo Marginal. 
 
-El costo marginal se define como el valor asociado a producir una unidad adicional del bien. Y es el parámetro que define el **precio** siempre y cuando, como hemos discutido, este sea superior al **costo medio** de producción. 
+El costo marginal se define como el valor asociado a producir una unidad adicional del bien. 
 
-Note el precio será una función creciente del nivel de producción debido a el fenómeno de rendimientos marginales decrecientes (**RMD**). 
+Y es el parámetro que define el **precio** siempre y cuando, como hemos discutido, este sea superior al **costo medio** de producción. 
+
+Note que el precio será una función creciente del nivel de producción debido al fenómeno de **rendimientos marginales decrecientes (RMD)**.
+
 En otras palabras, dado un costo determinado para los insumos de producción, por ejemplo el trabajo, los **RMD**, aseguran que la aportación por unidad de producción se logrará a **un costo cada vez mayor**. 
 
 En términos de notación se representa por el cambio en el costo total generado por producir una unidad adicional. $$CMarg=\frac{\partial{CT}}{\partial Q}$$   Cambio  en Costo Total / incremento de una unidad producida.
@@ -170,7 +186,9 @@ Analicemos el comportamiento de los costos promedio con mayor detalle.
 
 + La primera observación es que el costo promedio total se integra por la suma de los costos promedio **fijos** y **variables**.
 
-+ En segundo lugar note que las curvas de costos promedio total y variable tiene forma de **U**. Esto debido a que incialmente la especialización y división del trabajo permite una graducal reducción, sin embargo, a medida que los rendimientos decrecientes se manifiestan, los costos promedio tienen a ser mayores. 
+> En segundo lugar note que las curvas de costos promedio total y variable tiene forma de **U**. 
+
+Esto debido a que **incialmente la especialización y división del trabajo** permite una gradual reducción, sin embargo, a medida que los rendimientos decrecientes se manifiestan, los costos promedio tienen a ser mayores. 
 
 
 Entoces dos fuerzas resultan en esta forma de **U**
@@ -190,11 +208,18 @@ $$\frac{CT}{Q} = \frac{CF}{Q} + \frac{CV}{Q}$$
 Esto se debe a que el nivel productivo contínua creciendo y por tanto la relación  $$\frac{\partial CFM}{\partial {Q}}<0$$ tiende a cero. 
 
 
-+ Finalmente observe que la curva de costos promedio tiene forma de **U**.
+
+
++ Otro factor que contribuye a que la curva de costos promedio tenga forma de **U**, es la presencia de exceso de capacidad inicialmente.
 
 Lo que indica que en una primera fase los costos totales **decrecen** a medida que el nivel de producción se incrementa. es decir inicialmente se tiene **exceso de capacidad**, sin embargo, una vez que la escala de producción alcanza el nivel en el que se registran los rendimientos decrecientes, los costos promedio comienzan una trayectoria creciente.  
 
-+ Los costos promedio decrecen hasta alcanzar un **nivel mínimo**, a partir del cual comienzan una trayectoria creciente. A esta **escala de producción** en la cual los costos promedio alcanzan su nivel mínimo, se le conoce como **escala eficiente** (Punto **M** en grafica de costos).
+
+### Escala eficiente de producción.
+
++ Los costos promedio decrecen hasta alcanzar un **nivel mínimo**, a partir del cual comienzan una trayectoria creciente. 
+
+A esta **escala de producción** en la cual los costos promedio alcanzan su nivel mínimo, se le conoce como **escala eficiente** (Punto **M** en grafica de costos).
 
 Cuando la empresa produce por debajo se su escala eficiente denominamos a este escenario como **exceso de capacidad**
 
@@ -225,12 +250,6 @@ Los precios permiten emitir señales a las que reaccionan los agentes (consumido
 
 Un **incentivo** es algo (como la perspectiva de un castigo o recompensa) que induce a una persona a actuar. Porque **las personas racionales** toman decisiones comparando
 **costos** y **beneficios**, esto es, responden a incentivos. 
-
-> Debemos tener en cuenta que las decisiones las toman **HUMANOS** (todavía...), con eso quiero decir, que como humanos nos regimos por el **placer y el dolor**, buscando el primero y evitando el segundo. 
-
-El **mercado**, por más frío que parezca, sigue reglas establecidas por humanos y, como tal, está sujeto al **fallas**
-  
-Dentro de las fallas del mercado veremos un subconjunto referido como **Externalidades** Estos son efectos no intencionados que un agente económico genera afectando a otros.
 
 Observamos en la siguiente representación gráfica, el comportamiento teórico de las fuerzas del mercado.
 
