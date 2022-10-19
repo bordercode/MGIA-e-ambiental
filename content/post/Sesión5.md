@@ -310,7 +310,7 @@ En esta situación  la competencia entre diversos proveedores resulta ineficient
 **Note** que cuando los bienes no tiene asociado un **precio**, los mercados privados no pueden garantizar que los bienes se producirán o consumirán en las cantidades **óptimas**. 
 
 
-### En conclusión, en términos conceptuales, las fallas del mercado en la asignación de los recursos de forma eficiente, ocurren cuando los derechos de propiedad no son establecidos o no son protegidos con certidumbre. 
+![](/img/goods_types.jpg)
 
 
 Veamos algunos ejemplos de la **expresión empirica** de las fallas de mercado en el contexto de los tipos de bienes vistos hasta ahora. 
@@ -452,11 +452,13 @@ Explique la relación del caso de estudio con el concepto teórico de fallas de 
 3.Para el lugar de su procedencia indique ejemplos de  la presencia de externalidades negativas sobre los recursos hídricos relacionadas con actividades económicas a nivel regional. ¿Cómo considera que se puden cuantificar estos efectos adversos? 
 
 
-
 ## Uso de agua en actividades económicas. Estudio de caso Coahuila. 
 
 [Caso Coahuila](https://www.scielo.org.mx/pdf/estsoc/v22n44/v22n44a7.pdf)
   
+
+
+### En conclusión, en términos conceptuales, las fallas del mercado en la asignación de los recursos de forma eficiente, ocurren cuando los derechos de propiedad no son establecidos o no son protegidos con certidumbre. 
 
 
 ### Glosario.
