@@ -55,7 +55,7 @@ El ejemplo clásico es la **contaminación** que una empresa determinada genera 
 El trabajo pionero de **Roland Harry Coase** 
 expone esta problematica de forma destacada en su artículo ya clasico de  1960 [The problem of social cost](https://www.law.uchicago.edu/files/file/coase-problem.pdf)
 
-En él explica, el centro del problema yace en la diferecncia entre el **producto privado** y el **producto social** entendido el primero como el resultado de la actividad y la gneración de impactos adversos, no necesariamente intencionados sobre terceros.
+En él explica, que el centro del problema yace en la diferecncia entre el **resultado privado** y el **resutado social** en un proceso productivo, entendido el primero como el resultado de la actividad y la generación de impactos adversos sobre terceros, que no necesariamente son intencionados.
 
 Una solución típica puede ser la aplicación de un impuesto para compensar por los daños, en este caso la contaminación que afecta a terceros o bien la prohibición de la actividad en tanto afecte a la pobalción. 
 
@@ -105,6 +105,9 @@ En este caso el **regulador (gobierno),** puede otorgar **subsidios** para promo
 
 
 Programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS**.
+
+![](/img/waste.jpg)
+*Planta de tratamiento de aguas residuales Nogales, AZ.*
 
 El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **intervenir** para proteger los beneficios asociados a la innovación (por ejemplo en tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración.  Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
 
@@ -459,6 +462,8 @@ Explique la relación del caso de estudio con el concepto teórico de fallas de 
 
 
 ### En conclusión, en términos conceptuales, las fallas del mercado en la asignación de los recursos de forma eficiente, ocurren cuando los derechos de propiedad no son establecidos o no son protegidos con certidumbre. 
+
+*"While markets can be used to allocate water resources, careful design and strong legislation is needed to ensure that the outcomes are both efficient and equitable, and the answer to whether water should be considered a private or a public good depends on the type of resource and its uses.*"
 
 
 ### Glosario.
