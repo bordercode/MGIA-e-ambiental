@@ -73,20 +73,19 @@ Mientras en el escenario contrario, si no se hace algo; **A** está dañando a *
 
 **¿Quien tiene el derecho de dañar a quien?**
 
-Es la pregunta que **Coase** propone como el planteamiento relevante para entender este problema de efectos adversos de una actividad, o en otros términos, para entender esta **externalidad.** 
+Es la pregunta que **Coase** propone como el planteamiento relevante para entender este **problema social de efectos adversos** de una actividad, o en otros términos, para entender las **externalidades** 
 
-Y la respuesta se puede aproximar al balance total, entre costos (incluidos los costos de transacción, ej. el valor de las acciones necesarias para lograr el intercambio o definir el contrato) y los beneficios tanto directos como los **costos de oportunidad**  en los que ambos agentes incurren. 
+Y la respuesta se puede aproximar al **balance total**, entre costos, (incluidos los **costos de transacción**, ej. el valor de las acciones necesarias para lograr el intercambio o definir el contrato) y los beneficios, tanto **directos** como los **costos de oportunidad**  en los que ambos agentes incurren. 
 
-En otras palabras si las pérdidas de uno,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
+En otras palabras si las pérdidas de un agente particular,  por dejar de emitir el contaminante, exceden los beneficios que el tercero obtiene por la aplicación de la restricción, la solución favorece al primero. 
 
 Por su puesto, esta solución plantea un gran incoveniente: el hecho de que **la cuantificación de los beneficios no siempre se basa en criterios monetarios.** 
 
-Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia libre de contaminantes que pueden causar graves enfermedades? 
+Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia, libre de contaminantes que pueden causar graves enfermedades? 
 
+> Definición
 
 ## Externalidades
-
-
 
 Una **externalidad** surge cuando un agente económico (individuo, empresa) se dedica a una actividad que influye en el bienestar de un **tercero** pero que no paga, ni recibe compensación por ese efecto.
 
