@@ -144,7 +144,7 @@ En la presencia de **externalidades**, el **costo social** excede el **costo de 
 
 O en otras palabras el **costo privado** es inferior al **costo social**
 
-Podemos decir que las externalidades representan **mercados que estan ausentes**, en cuyo caso una solución podría ser asignar derechos de propiedad.
+Podemos decir que las externalidades representan **mercados que estan ausentes**, en cuyo caso una solución podría ser asignar **derechos de propiedad.**
 
 Por **ejemplo**, al considerar la calidad de agua, se podrían establecer **derechos de propiedad** para este atributo, con la finalidad de consignar la brecha entre el costo privado y el costo social.
 
@@ -189,12 +189,12 @@ El **teorema de Coase** establece que los actores económicos privados pueden re
 
 Cualquiera que sea la distribución inicial de derechos, las partes interesadas siempre pueden llegar a un acuerdo en el que todos estén mejor y el resultado es eficiente.
 
-Esta es el fundamento teórico que da sustento a los Bancos de agua y los Mercados de trasferencia de derechos de agua.
+Esta es el fundamento teórico que da sustento a los **Bancos de agua** y los **Mercados de trasferencia de derechos de agua**.
 
 
 ### Costos de transacción.
 
-No obstante el teorema de Coase, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción, más bien que la regla.
+No obstante el **teorema de Coase**, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción, más bien que la regla.
 
 
 Los costos de transacción incluyen los costos de búsqueda de
