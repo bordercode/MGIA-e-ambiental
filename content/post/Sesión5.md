@@ -128,9 +128,11 @@ El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **in
 
 ![](/img/fracking2.jpg)
 
+![](/img/fracking3.jpg)
+
 [Uso de agua en la extracción de gas de lutitas en el noreste de México. Retos de regulación ambiental](https://www.ciad.mx/estudiosociales/index.php/es/article/view/146)
 
-
+[Frackin en Pensilvania y contaminación de acuíferos](https://www.youtube.com/watch?v=Y-OMydfBGvk)
 El **mercado falla** en la asignación eficiente (es inceficiente en tanto se generan externalidaes negativas que absorve la sociedad sin compensación) y es necesario la **intervención gubernamental** en forma de regulación que permita que el agente causante de impactos adversos compense.
 
 
