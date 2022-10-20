@@ -194,7 +194,7 @@ Esta es el fundamento teórico que da sustento a los **Bancos de agua** y los **
 
 ### Costos de transacción.
 
-No obstante el **teorema de Coase**, es un escenario teorico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario qque es la excepción, más bien que la regla.
+No obstante el **teorema de Coase**, es un escenario teórico que supone que la negociación entre privados se da en el contexto de ausecia de **COSTOS DE TRANSACCIÓN**, un escenario que más es la excepción, más que la regla.
 
 
 Los costos de transacción incluyen los costos de búsqueda de
