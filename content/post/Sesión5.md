@@ -10,12 +10,12 @@ menu:
   
 # Objetivos.
 
-Estudiar el fenómeno conocido como externalidades y presentar la lomitaciones que los mecanismos de mercado presentan para conseguir asignación eficiente ante la existencia de bienes cuyo consumo no es excluible o rival.
+Estudiar el fenómeno conocido como externalidades y presentar las limitaciones que los mecanismos de mercado presentan para conseguir la asignación eficiente de los recursos ante la existencia de bienes cuyo consumo no es excluible o rival.
 
 
 ## Metas de aprendizaje
 
-El alumno será capaz de caracterizar el problema de **externalidades** en el contexto de la gestión de los recursos hídrios.
+El alumno será capaz de caracterizar el problema de **externalidades** en el contexto de la gestión de los recursos hídricos.
 Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuiferos** y la utilización de agua proveniente de fuentes superficiales. 
 
 ## Material de consulta para el tema. 
