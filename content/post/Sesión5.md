@@ -101,7 +101,7 @@ Es decir, **el equilibrio de mercado no logra maximizar el beneficio total para 
 
 + Un ejemplo clásico de una externalidad positiva es la educación. Otros ejemplos incluyen los efectos de expansión e incremento de eficiencia por una innovación tecnológica, (ej.  *smart phones*). y teoricamente podriamos incluir los programa de vacunación COVID19, pero...¿?
 
-##### Subsidios
+> Subsidios
 
 En este caso **la intervención** del gobierno como **entidad reguladora** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerarse de **valor social.**   
 
@@ -110,13 +110,25 @@ Programas de **subsidio** para la construcción de plantas de tratamiento de agu
 ![](/img/waste.jpg)
 *Planta de tratamiento de aguas residuales Nogales, AZ.*
 
+> Patentes
+
 El otorgamiento de **patentes** por parte del **gobierno** es otra forma de **intervenir** para proteger los beneficios asociados a la innovación (por ejemplo en tratamiento de agua y purificación, Membranas de filtración, desinfección UV,  micro-, ultra- y nanofiltración.  Tesla lithium Batteries, Patentes por vacunas a *Pfizer*, etc.. ) 
 
 
 + Cuando el impacto es negativo (por ejemplo, contaminación de agua por PFAS), tenemos una **externalidad negativa**
 
 
-**Ejemplo:** Cuando compañias como **3M** o **DuPont** contaminan con sus productos las corrientes de agua, el interés en remediar estos impactos no forma parte de la voluntad espontánea  de la compañia, por lo que contaminarán hasta que el **GOBIERNO** diseñe regulación para controlar estas prácticas. 
+**Ejemplo:** Cuando compañías como **3M** o **DuPont** contaminan con sus productos las corrientes de agua, el interés en remediar estos impactos no forma parte de la voluntad espontánea  de la compañía, por lo que generalmente contaminarán hasta que el **GOBIERNO** diseñe regulación para controlar estas prácticas. 
+
+
+**Ejemplo**  Marsellus Shale gas formation, Pennsilvania
+
+
+![](/img/fracking.jpg)
+
+![](/img/fracking2.jpg)
+
+[]()
 
 
 El **mercado falla** en la asignación eficiente (es inceficiente en tanto se generan externalidaes negativas que absorve la sociedad sin compensación) y es necesario la **intervención gubernamental** en forma de regulación que permita que el agente causante de impactos adversos compense.
