@@ -89,25 +89,23 @@ Ej. ¿cuanto vale una vida? ¿Cuanto vale que tengamos agua limpia, libre de con
 
 Una **externalidad** surge cuando un agente económico (individuo, empresa) se dedica a una actividad que influye en el bienestar de un **tercero** pero que no paga, ni recibe compensación por ese efecto.
 
-Si el impacto en sobre el tercero es **adverso**, se llama
+Si el impacto sobre el tercero es **adverso**, se llama
 una **externalidad negativa**. Si es beneficioso, se denomina **externalidad positiva**.
 
-En la presencia de **externalidades**, el interés de la sociedad en un resultado de **mercado** se extiende más allá el bienestar de los compradores y vendedores que participan en el mercado para incluir la bienestar de los terceros que se ven afectados **indirectamente**. 
+En la presencia de **externalidades**, el interés de **la sociedad** en un resultado de **mercado** se extiende más allá del bienestar de los **compradores y vendedores** que participan en el mercado para **incluir el bienestar de terceros** que se ven afectados **indirectamente**. 
 
-Porque tanto los compradores  como los vendedores descuidan los efectos externos de sus acciones al decidir cuánto demandar o producir, **el equilibrio del mercado no es eficiente cuando hay externalidades**.
+Porque tanto los compradores  como los vendedores, a menudo no tienen interés en los efectos externos de sus acciones al decidir cuánto demandar o producir, **el equilibrio del mercado no es eficiente cuando hay externalidades**.
 
 Es decir, **el equilibrio de mercado no logra maximizar el beneficio total para la sociedad en su conjunto**.
 
 
-
-+ Si el impacto es **positivo**, nos referimos a este como una externalidad  postiva (ej. educación, programa de vacunación COVID19? Efectos expansión en innovación tecnológica, ej.  *smart phones*).  
++ Un ejemplo clásico de una externalidad positiva es la educación. Otros ejemplos incluyen los efectos de expansión e incremento de eficiencia por una innovación tecnológica, (ej.  *smart phones*). y teoricamente podriamos incluir los programa de vacunación COVID19, pero...¿?
 
 ##### Subsidios
 
-En este caso el **regulador (gobierno),** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerarse de valor social.   
+En este caso **la intervención** del gobierno como **entidad reguladora** puede otorgar **subsidios** para promover el uso o adopción de cierta tecnología, producto o práctica por considerarse de **valor social.**   
 
-
-Programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS**.
+Programas de **subsidio** para la construcción de plantas de tratamiento de aguas residuales o limpieza de agua contaminada por **PFAS** (per and poly fluoroalkyl substances).
 
 ![](/img/waste.jpg)
 *Planta de tratamiento de aguas residuales Nogales, AZ.*
