@@ -57,21 +57,23 @@ El ejemplo clásico es la **contaminación** que una empresa determinada genera 
 El trabajo pionero de **Roland Harry Coase** 
 expone esta problemática de forma destacada en su artículo, ya clásico de  1960 [The problem of social cost](https://www.law.uchicago.edu/files/file/coase-problem.pdf)
 
-En él explica, que el centro del problema yace en la diferecncia entre el **resultado privado** y el **resutado social** en un proceso productivo, entendido el primero como el resultado de la actividad y la generación de impactos adversos sobre terceros, que no necesariamente son intencionados.
+En él explica, que el centro del problema yace en la diferecncia entre el **resultado privado** y el **resutado social** en un proceso productivo, entendido el primero como el resultado de la actividad que claramente puede tener un beneficio privado concreto vs la generación de impactos adversos sobre **terceros**, que no necesariamente son intencionados.
 
-Una solución típica puede ser la aplicación de un impuesto para compensar por los daños, en este caso la contaminación que afecta a terceros o bien la prohibición de la actividad en tanto afecte a la pobalción. 
+Una solución típica de este **problema social**, puede ser la aplicación de un **impuesto** para compensar por los daños, en este caso la contaminación que afecta a terceros. 
 
-Sin ambargo, esta acción significaría un impacto adverso sobre la empresa. Lo cual, en la perspectiva de **Coase** es una curso de acción inapropiado. 
+Otra solución, más drástica, sería la prohibición de la actividad en tanto afecte a la pobalción. 
 
-La pregunta relevante es debemos permitir que **A** dañe a **B**? O Debemos permitir que **B** dañe a **A**
+Sin embargo, esta acción significaría un impacto adverso sobre la empresa productora. Lo cual, en la perspectiva de **Coase** es un curso de acción inapropiado. 
 
-Estamos de acuerdo que, en el escenario de una aplicación de impuesto, **A** (una empresa) es afectada por el monto del impuesto.
+La pregunta relevante es:  ¿Debemos permitir que el agente **A** dañe al  **B**? O Debemos permitir que el agente **B** dañe a **A**.
 
-Mientras en el escenario contrario si no se hace nada, **A** esta dañando a **B**  (los individuos vecinos o pobalción general que recibe los desechos o contaminación). 
+Estamos de acuerdo que, en el escenario de la **aplicación del impuesto** sobre **A** (una empresa).  Esta es afectada directamente por el monto del impuesto. 
+
+Mientras en el escenario contrario, si no se hace algo; **A** está dañando a **B**  (los individuos vecinos o pobalción general que recibe los desechos o contaminación). 
 
 **¿Quien tiene el derecho de dañar a quien?**
 
-Es la pregunta que **Coase** propone como el planteamiento relevante para entender este problema de efectos adversos de una actividad o en otros términos, para entender esta **externalidad.** 
+Es la pregunta que **Coase** propone como el planteamiento relevante para entender este problema de efectos adversos de una actividad, o en otros términos, para entender esta **externalidad.** 
 
 Y la respuesta se puede aproximar al balance total, entre costos (incluidos los costos de transacción, ej. el valor de las acciones necesarias para lograr el intercambio o definir el contrato) y los beneficios tanto directos como los **costos de oportunidad**  en los que ambos agentes incurren. 
 
