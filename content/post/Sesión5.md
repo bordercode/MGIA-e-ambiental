@@ -10,7 +10,7 @@ menu:
   
 # Objetivos.
 
-Estudiar el fenomeno conocido com oexternalidades y presentar la lomitaciones que los mecanismos de mercado presentan para conseguir asignación eficiente ante la existencia de bienes cuyo consumo no es excluible o rival.
+Estudiar el fenómeno conocido como externalidades y presentar la lomitaciones que los mecanismos de mercado presentan para conseguir asignación eficiente ante la existencia de bienes cuyo consumo no es excluible o rival.
 
 
 ## Metas de aprendizaje
