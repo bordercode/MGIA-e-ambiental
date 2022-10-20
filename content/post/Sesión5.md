@@ -142,6 +142,8 @@ Una definición conceptual clasica: *"An externality represents a connection bet
 
 En la presencia de **externalidades**, el **costo social** excede el **costo de producción**.
 
+O en otras palabras el **costo privado** es inferior al **costo social**
+
 Podemos decir que las externalidades representan **mercados que estan ausentes**, en cuyo caso una solución podría ser asignar derechos de propiedad.
 
 Por **ejemplo**, al considerar la calidad de agua, se podrían establecer **derechos de propiedad** para este atributo, con la finalidad de consignar la brecha entre el costo privado y el costo social.
