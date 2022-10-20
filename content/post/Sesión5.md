@@ -16,7 +16,7 @@ Estudiar el fenómeno conocido como externalidades y presentar las limitaciones 
 ## Metas de aprendizaje
 
 El alumno será capaz de caracterizar el problema de **externalidades** en el contexto de la gestión de los recursos hídricos.
-Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuiferos** y la utilización de agua proveniente de fuentes superficiales. 
+Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuíferos** y la utilización de agua proveniente de fuentes superficiales. 
 
 ## Material de consulta para el tema. 
 
@@ -35,13 +35,15 @@ Describir las limitaciones del mercado como mecanísmo de asignación y abordar 
 
 Los mecanismos de mercado para la asignación de los recursos  no siempre funcionan acorde con la frase famosa de **Adam Smith**  sobre la influencia de una **mano invisible** que permite mediante la persecusión de **objetivos individuales**, el beneficio general de la **sociedad**. 
 
-Los patrones de extracción de agua subterránea de diverss  **acuíferos** en México dan cuenta de resultados que, mediante la sobre explotación, tiene impactos adversos para la sociedad por la degradación del ecosistema. 
+Los patrones de extracción de agua subterránea de diversos  **acuíferos** en México dan cuenta de resultados que, mediante la sobre explotación, tiene impactos adversos para la sociedad por la **degradación del ecosistema.** 
 
-Hoy vemos que existe diversos **mecanismos de mercado** que tratan de atender el tema de **escasez** para lograr distribuir de manera organizada. ej. bancos de agua, mercados de agua para tranferencia temporal y definitiva de derechos. 
+Hoy vemos que existe diversos **mecanismos de mercado** que tratan de atender el tema de **escasez** para lograr distribuir de manera organizada. ej. **bancos de agua**, mercados de agua para **transferencia** temporal y definitiva de **derechos**. 
 
-A pesar de estos esfuerzos se documentan con frecuencia casos en los que se tienen problemas de sobre explotación y diversas **barreras** para la realización de intercambios. Así como de efectos al medio ambiente por **contaminación** de los cuerpos de agua. 
+A pesar de estos esfuerzos se documentan con frecuencia casos en los que se tienen problemas de sobre explotación y diversas **barreras** para la realización de intercambios. 
 
-Un tipo de **falla de marcado** de especial intereés se refiere a la existencia de **externalidades**
+Así como de efectos negativos sobre el medio ambiente por **contaminación** de los cuerpos de agua. 
+
+Un tipo de **falla de marcado** de especial inteeés se refiere a la existencia de **externalidades**
 
 ## ¿Que son las externalidades? 
 
@@ -53,7 +55,7 @@ El ejemplo clásico es la **contaminación** que una empresa determinada genera 
 
 
 El trabajo pionero de **Roland Harry Coase** 
-expone esta problematica de forma destacada en su artículo ya clasico de  1960 [The problem of social cost](https://www.law.uchicago.edu/files/file/coase-problem.pdf)
+expone esta problemática de forma destacada en su artículo, ya clásico de  1960 [The problem of social cost](https://www.law.uchicago.edu/files/file/coase-problem.pdf)
 
 En él explica, que el centro del problema yace en la diferecncia entre el **resultado privado** y el **resutado social** en un proceso productivo, entendido el primero como el resultado de la actividad y la generación de impactos adversos sobre terceros, que no necesariamente son intencionados.
 
