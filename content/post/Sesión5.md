@@ -244,11 +244,9 @@ Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un ind
 
 #  Clasificación de los bienes en función sus propiedades  de exlcusividad  y rivalidad.
 
-
 + **Bienes Comunes:** No excluyentes,  rivales.
 
 Su consumo no requiere un pago y  su consumo implica la reducción de la cantidad disponible para otros usuarios.
-
 
 **Ejemplos generales incluyen:** Recursos hídricos, aire de calidad, el entorno natural, las carreteras. 
 
