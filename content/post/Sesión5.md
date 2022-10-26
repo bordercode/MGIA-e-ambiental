@@ -21,6 +21,9 @@ Describir las limitaciones del mercado como mecanísmo de asignación y abordar 
 
 ## Material de consulta para el tema. 
 
+
+[Text Book Tietenberg](Chapter 2 Property rights, externalities and environmental problems)
+
 [Text Book Mankiw overview](http://www.unm.edu/~parkman/M11.pdf)
 
 ## Textos de referencia para consulta.
@@ -403,7 +406,9 @@ Discutir Documental Recursos Hídricos, producción agrícola. Fallas de mercado
 
 2. Comente sobre casos de estudio similares en el contexto de  México. 
 
-3. ¿Qué papel juegan  los incentivos económicos para el resultado observado de concentración del recurso en este caso? y cuál es el rol del estado en su caso? Disyuntiva crecimiento desarrollo y sustentabilidad de largo plazo.
+3. ¿Qué papel juegan  los incentivos económicos para el resultado observado de concentración del recurso en este caso? y cuál es el rol del estado en su caso? 
+
+Disyuntiva crecimiento-desarrollo y sustentabilidad de largo plazo.
 
 ## Tema Externalidades.
 

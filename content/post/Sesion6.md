@@ -11,23 +11,32 @@ menu:
 
 # Herramientas para análisis Costo-Beneficio.
 
+
+# Objetivos
+
+Estudiar el enfoque de costo-beneficio en el marco de la exsitencia de costos de oportunidad implicitos en nuestras decisiones. 
+
+Comprender los *Trade-offs*  (intercambios) que enfrentamos en la implementación de proyectos de gestión.
+
+
+## Metas de aprendizaje.
+
+El alumno será capaz de contrastar el enfoque **normativo** y su aplicación para la determinación de proyectos de gestión de los recursos hidricos particularmente aquellos que involucran costos por impacto ambiental.
+
+#### Material de consulta para esta sesión. 
+
+[Libro de texto environmental and Natural Resource economics Chapter 3 ](https://drive.google.com/file/d/1HpZvL-QDVMFYw7AGbB6PrsEMRXosY2va/view?usp=sharing)
+
+#### Decisiones con enfoque normativo para determinar la viabilidad de una decisión que involucra recursos.
+
+
+Sea B el beneficio y C el costo, la decisión será favorable a la implementación del proyecto si $$B>C$$ o en otros términos.  $$B/C>1$$
+
+
 #### Actividad 
 
-Leer  Capítulo 3   Ronald Griffin. 
-
-[Book Chapter 3](https://drive.google.com/file/d/1eK6VPN7y3oW7fvxmVjRLYIYqjjvaux0P/view?usp=sharing)
 
   
 
-### Actividad 5:
 
-*Discutir Enfoque Economía Ambiental vs. Economía Ecológica.*
-
-[Lectura Guillermo Foladori](https://drive.google.com/file/d/1TgEbGFyUhIYXjFl8UfC9q_u_gr92J5mX/view?usp=sharing)
-
-Al respecto del debate entre economia ambietal y economía ecológica. 
-
-*"Of no school I am part,Never to living master lost my heart, Nor any more can I be said To have learned anything from the dead." That statement - subject to appeal - Means "I'm a self-made imbecile."*
-
-(J.W. Goethe, Den Originalen, 1812).
 
