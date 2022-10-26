@@ -16,6 +16,7 @@ Estudiar el fenómeno conocido como externalidades y analizar las limitaciones q
 ## Metas de aprendizaje
 
 El alumno será capaz de caracterizar el problema de **externalidades** en el contexto de la gestión de los recursos hídricos.
+
 Describir las limitaciones del mercado como mecanísmo de asignación y abordar la problemática que presentan los **bienes comunes**, en especial respecto a las actividades de extracción de agua de los **acuíferos** y la utilización de agua proveniente de fuentes superficiales. 
 
 ## Material de consulta para el tema. 
@@ -244,9 +245,9 @@ Cuando los bienes son  **rivales**,  el consumo del bien en cuestión por un ind
 #  Clasificación de los bienes en función sus propiedades  de exlcusividad  y rivalidad.
 
 
-+ **Bienes Comunes:** No excluyentes, No rivales.
++ **Bienes Comunes:** No excluyentes,  rivales.
 
-Su consumo no requiere un pago y tampoco su consumo implica la reducción de la cantidad disponible para otros usuarios.
+Su consumo no requiere un pago y  su consumo implica la reducción de la cantidad disponible para otros usuarios.
 
 
 **Ejemplos generales incluyen:** Recursos hídricos, aire de calidad, el entorno natural, las carreteras. 
@@ -281,7 +282,7 @@ The market as an allocation machanism fails!
 ¿Cual es el problema central en este caso según el autor?
 
 
-Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la práctica aplicadas sin seguimiento estricto, en arte por la propia naturaleza del recurso en cuanto a su localización y en parte por la presencia de comportamientos estructurales como la **corrupción** entre administradores y usuarios con capacidad de gestión. 
+Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la práctica aplicadas sin seguimiento estricto, en parte por la propia naturaleza del recurso en cuanto a su localización y en parte por la presencia de comportamientos estructurales como la **corrupción** entre administradores y usuarios con capacidad de gestión. 
 
 
 Ver Webminar del **IMTA** sobre caso Distrito de reigo 011, Alto Rio Lerma, Guanjuato presentado por Doctora Amalia Reyes Martínez, sobre Mercados de los derechos de agua. 
@@ -329,7 +330,7 @@ Los hogares, por ejemplo, pueden usar agua para llenar una piscina, regar el cé
 ### Como tal, cuando el uso del agua supera los **50-100 litros por persona por día**, se convierte en un bien privado y, por lo tanto, se asigna mejor, como otros bienes privados, a través de los mercados.
 
 
-+ **Bienes Públicos:** Excluyente y no rivales.
++ **Bienes Públicos:** No excluyente y no rivales.
 
 En ausencia de los **mecanismos de mercado** pueden presentarse situaciones de sobre exploración o de producción inferior a la requerida por la sociedad.  Y otros problemas como el denominado **free rider**
 
@@ -342,15 +343,6 @@ En este caso **atender** esta **falla de mercado** (free rider), puede hacerse m
 La provisión del **bien público** para la sociedad estará a cargo del gobierno quien puede financiarlo mediante el cobro de **impuestos**. 
 
 **Ejemplos generales básicos:**  Defensa nacional, investigación, programas para el combate a la probreza.
-
-+ **Monopolio Natural:** Bienes que son excluyentes pero **no rivales**. Es decir su consumo requiere cubrir un precio pero no genera una menor disponibilidad para el resto de los consumidores.
-
-El origen de este tipo de bienes, se vincula con la **estructura de costos fijos**.
-
-En esta situación  la competencia entre diversos proveedores resulta ineficiente. Los **costos fijos** son de tal magnitud que resultan prohivitivos.
-
-**Ejemplos:** La red de distribución de gas (en algunas ciudades como Juárez, Chihuahua), red ferroviaria, red de distribución de electricidad,etc,.
-
 
 **Note** que cuando los bienes no tiene asociado un **precio**, los mercados privados no pueden garantizar que los bienes se producirán o consumirán en las cantidades **óptimas**. 
 
