@@ -325,7 +325,7 @@ Sin embargo, una vez satisfechas las necesidades básicas de agua, el uso adicio
 
 Los hogares, por ejemplo, pueden usar agua para llenar una piscina, regar el césped o tomar duchas prolongadas. 
 
-### Como tal, cuando el uso del agua supera los **50-100 litros por persona por día**, se convierte en un bien privado y, por lo tanto, se asigna mejor, como otros bienes privados, a través de los mercados.
+### En términos generales cuando el uso del agua supera los **50-100 litros por persona por día**, se convierte en un bien privado y, por lo tanto, se asigna mejor, como otros bienes privados, a través de los mercados.
 
 
 + **Bienes Públicos:** No excluyente y no rivales.
