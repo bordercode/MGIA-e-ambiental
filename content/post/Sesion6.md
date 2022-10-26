@@ -29,8 +29,9 @@ El alumno será capaz de contrastar el enfoque **normativo** y su aplicación pa
 
 #### Decisiones con enfoque normativo para determinar la viabilidad de una decisión que involucra recursos.
 
+Considere la decisión de implementar o no un proyecto. 
 
-Sea B el beneficio y C el costo, la decisión será favorable a la implementación del proyecto si $$B>C$$ o en otros términos.  $$B/C>1$$
+Sea **B** el beneficio y **C** el costo, la decisión será favorable a la implementación del proyecto si $$B>C$$ o en otros términos.  $$B/C>1$$
 
 
 #### Actividad 
