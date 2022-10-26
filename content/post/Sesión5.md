@@ -277,7 +277,7 @@ The market as an allocation machanism fails!
 
 4. ¿Qué efecto percibe el autor derivado de la introducción de derechos de propiedad para el caso de los recursos hidricos? 
 
-¿Cual es el problema central en este caso según el autor?
+¿Cuál es el problema central en este caso según el autor?
 
 
 Este escenario es común en el caso de la utilización de los **recursos hidricos subterráneos** dado que la estructura de derechos de propediedad esta definida en regulaciones que son en la práctica aplicadas sin seguimiento estricto, en parte por la propia naturaleza del recurso en cuanto a su localización y en parte por la presencia de comportamientos estructurales como la **corrupción** entre administradores y usuarios con capacidad de gestión. 
@@ -308,7 +308,7 @@ Los esquemas actuales de distribución de agua en algunas ciudades de México (E
 
 Ver webminar de **IMTA** [El origen del agua como mercancía en México](http://atl.org.mx/index.php?option=com_content&view=article&id=10068:2022-09-22-18-08-36&catid=213:2022), Erica Rubí Serrano Farías y Alberto Rojas Rueda.
 
-De manera interesante diversos usos de los recursos hídricos presentan este carácter de **exlcusividad y rivalidad**
+De manera interesante diversos usos de los recursos hídricos presentan este carácter de **exclusividad y rivalidad**
 
 **Por ejemplo:** Agua potable para beber y uso doméstico general.
 
