@@ -10,7 +10,7 @@ menu:
   
 # Objetivos.
 
-Estudiar el fenómeno conocido como externalidades y presentar las limitaciones que los mecanismos de mercado presentan para conseguir la asignación eficiente de los recursos ante la existencia de bienes cuyo consumo no es excluible o rival.
+Estudiar el fenómeno conocido como externalidades y analizar las limitaciones que los mecanismos de mercado presentan para conseguir la asignación eficiente de los recursos ante la existencia de bienes cuyo consumo no es excluible o rival.
 
 
 ## Metas de aprendizaje
@@ -258,7 +258,7 @@ En este tipo de bienes la sobre explotación puede conducir a la pérdida del bi
 
 Una parábola clásica que ilustra como el consumo de bienes comunes por un conjunto creciente de usuarios puede llevar a una situación de sobre explotación y a la pérdida (para el conjunto de usuarios) de un recurso común. 
 
-**Actividad 1**. Leer * Garrett Hardin, The tragedy of the commons* . 
+**Actividad 1**. Leer **Garrett Hardin, The tragedy of the commons**. 
 
 Objetivo Ilustrar el escenario de tragedia de los comunes en el contexto del tema de **fallas de mercado**. 
 
