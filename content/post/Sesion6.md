@@ -1,6 +1,6 @@
 ---
 title: Sesión 6
-date: 2022-11-13
+date: 2022-10-27
 linktitle: Costo Beneficio
 menu:
   main:
