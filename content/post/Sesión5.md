@@ -22,7 +22,7 @@ Describir las limitaciones del mercado como mecanísmo de asignación y abordar 
 ## Material de consulta para el tema. 
 
 
-[Text Book Tietenberg](Chapter 2 Property rights, externalities and environmental problems)
+[Text Book Tietenberg](https://drive.google.com/file/d/1HpZvL-QDVMFYw7AGbB6PrsEMRXosY2va/view?usp=sharing)
 
 [Text Book Mankiw overview](http://www.unm.edu/~parkman/M11.pdf)
 
