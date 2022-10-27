@@ -55,7 +55,7 @@ Tres etapas para la implementación del contraste entre **costos y beneficios** 
 
 1.- Identificar el resultado óptimo.
 
-2.- Evaluar hasta qué punto el **marco institucional** vigente permite alcanzar el resultado óptimo.  Y ante las posibles discrepancias, identificaremos las causas asociadas al comportameinto de estos posibles problemas. 
+2.- Evaluar hasta qué punto el **marco institucional** vigente permite alcanzar el resultado óptimo.  Y ante las posibles discrepancias, identificaremos las causas asociadas al comportamiento de estos posibles problemas. 
 
 3.- Aplicar el conocimiento del problema en conjunto con la información que aporta la **evalaución de las causas** para establecer una solución.
 
@@ -72,10 +72,30 @@ Una decisión eficiente y por lo tanto óptima es aquella en la cual los **benec
 
 Este nivel eficiente corresponde con el punto de equilibrio entre la curva de beneficio marginal y costo marginal  sociales. 
 
-La sigueinte grafica muestra este nivel, note que niveles inferiores a 5 km resultan en beneficios netos suceptibles de incrementarse. De igual forma, note que 
+La sigueinte grafica muestra este nivel, note que niveles inferiores a 5 km resultan en beneficios netos suceptibles de incrementarse (area en gris). De igual forma, note que niveles superirores a 5 km. implican pérdidas el costo marginal es mayor a los beneficios marginales sociales.
+
+
+Esta idea de asignación de recursos que considera el criterio del nivel óptimo se basa en la noción pionera propuesta por el italiano **Vilfrido Pareto**.
+
+### El óptimo de Pareto es una asignación tal que no es posible ya mejorar la situación de un individuo sin afectar a otros. 
+
+Cuando se alcanza este nivel de distribución de los recursos, nos referimos a una situación **OPTIMA EN EL SENTIDO DE PARETO.**
+
+En nuesto eje,plo la condicion de BMS=CMS, es un caso de esta noción de **eficiencia según Pareto**
+
+
+Situación de asignación Pareto eficiente. Equilibrio nivel óptimo.
+
+![](/img/efficiencia.jpg)
+
+Situación ineficiente, no cumple con el criterio de Eficientia de Pareto.
+
+![](/img/efficiencia2.jpg)
 
 
 ![](/img/costo-bene.jpg)
+
+
 
 #### Actividad 
 
